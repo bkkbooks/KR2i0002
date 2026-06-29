@@ -1,0 +1,751 @@
+canonical_identifier: bkk:krp/KR2i0002/krp/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2i0002_SBCK_001-1a01}
+  - {type: variant, offset: 0, length: 19, content: 越絶卷第一越絶荆平王内傳第二昔者荆平王, WYG: 姓名其云以去為姓得衣乃成是袁字也厥名}
+  - {type: 'kr:newline', offset: 5, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl2}
+  - {type: line-break, offset: 5, content: '', id: KR2i0002_SBCK_001-1a02}
+  - {type: 'kr:newline', offset: 14, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl3}
+  - {type: line-break, offset: 14, content: '', id: KR2i0002_SBCK_001-1a03}
+  - {type: variant, offset: 20, length: 11, content: 臣伍子奢奢得罪於王且殺, WYG: 米覆}
+  - {type: 'kr:newline', offset: 31, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl4}
+  - {type: line-break, offset: 31, content: '', id: KR2i0002_SBCK_001-1a04}
+  - {type: variant, offset: 32, length: 0, content: '', WYG: 以庚是康字也禹來東征死葬}
+  - {type: page-break, offset: 32, content: '', id: KR2i0002_WYG_000-1b, image: WYG0463/WYG0463-0073b.png}
+  - {type: variant, offset: 33, length: 48, content: 二子岀走伍子尚奔呉伍子胥奔鄭王召奢而問之日若召子孰來也子奢對曰王問臣對而畏死不對不知子之心者尚爲, WYG: 疆是㑹稽}
+  - {type: 'kr:newline', offset: 48, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl5}
+  - {type: line-break, offset: 48, content: '', id: KR2i0002_SBCK_001-1a05}
+  - {type: 'kr:newline', offset: 65, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl6}
+  - {type: line-break, offset: 65, content: '', id: KR2i0002_SBCK_001-1a06}
+  - {type: 'kr:newline', offset: 82, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl7}
+  - {type: line-break, offset: 82, content: '', id: KR2i0002_SBCK_001-1a07}
+  - {type: variant, offset: 83, length: 4, content: 仁且智來, WYG: 又云文詞屬定自於邦賢以口為姓承}
+  - {type: variant, offset: 88, length: 1, content: 必, WYG: 以}
+  - {type: variant, offset: 89, length: 1, content: 入, WYG: 天}
+  - {type: variant, offset: 90, length: 1, content: 胥, WYG: 是}
+  - {type: variant, offset: 91, length: 1, content: 爲, WYG: 呉}
+  - {type: variant, offset: 92, length: 1, content: 人, WYG: 字}
+  - {type: variant, offset: 94, length: 211, content: 勇且智來必不入胥且奔呉邦君王必早閉而晏開胥將使邊境有大憂於是王即使使者召子尚於吳曰子父有罪子入則免之不入則殺之子胥聞之使人告子尚於吳吾聞荆平王召子子必毋入胥聞之入者窮出者報仇入者皆死是不智也死而不報父之仇是非勇也子尚對曰入則免父之死不入則不仁愛身之死絶父之望賢士不為也意不同謀不合子其居尚請入荆平王復使使者召子胥於鄭曰子入則免父死不入則殺之子胥介胄彀弓出見使者謝曰介胄之士固不拜矣也一作請有道於使者王以奢為無罪赦而蓄之其子, WYG: ''}
+  - {type: 'kr:newline', offset: 99, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl8}
+  - {type: line-break, offset: 99, content: '', id: KR2i0002_SBCK_001-1a08}
+  - {type: variant, offset: 105, length: 1, content: 邦, SBCK: 􅀖}
+  - {type: 'kr:newline', offset: 116, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl9}
+  - {type: page-break, offset: 116, content: '', id: KR2i0002_SBCK_001-1b}
+  - {type: 'kr:newline', offset: 116, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl10}
+  - {type: line-break, offset: 116, content: '', id: KR2i0002_SBCK_001-1b01}
+  - {type: 'kr:newline', offset: 133, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl11}
+  - {type: line-break, offset: 133, content: '', id: KR2i0002_SBCK_001-1b02}
+  - {type: 'kr:newline', offset: 150, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl12}
+  - {type: line-break, offset: 150, content: '', id: KR2i0002_SBCK_001-1b03}
+  - {type: 'kr:newline', offset: 167, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl13}
+  - {type: line-break, offset: 167, content: '', id: KR2i0002_SBCK_001-1b04}
+  - {type: 'kr:newline', offset: 184, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl14}
+  - {type: line-break, offset: 184, content: '', id: KR2i0002_SBCK_001-1b05}
+  - {type: 'kr:newline', offset: 201, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl15}
+  - {type: line-break, offset: 201, content: '', id: KR2i0002_SBCK_001-1b06}
+  - {type: 'kr:newline', offset: 218, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl16}
+  - {type: line-break, offset: 218, content: '', id: KR2i0002_SBCK_001-1b07}
+  - {type: 'kr:newline', offset: 235, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl17}
+  - {type: line-break, offset: 235, content: '', id: KR2i0002_SBCK_001-1b08}
+  - {type: 'kr:newline', offset: 252, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl18}
+  - {type: page-break, offset: 252, content: '', id: KR2i0002_SBCK_001-2a}
+  - {type: 'kr:newline', offset: 252, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl19}
+  - {type: line-break, offset: 252, content: '', id: KR2i0002_SBCK_001-2a01}
+  - {type: 'kr:newline', offset: 269, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl20}
+  - {type: line-break, offset: 269, content: '', id: KR2i0002_SBCK_001-2a02}
+  - {type: punctuation, offset: 284, content: (, id: KR2i0002_krp_001-bkkpn1}
+  - {type: punctuation, offset: 285, content: /, id: KR2i0002_krp_001-bkkpn2}
+  - {type: punctuation, offset: 287, content: ), id: KR2i0002_krp_001-bkkpn3}
+  - {type: 'kr:newline', offset: 287, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl21}
+  - {type: line-break, offset: 287, content: '', id: KR2i0002_SBCK_001-2a03}
+  - {type: 'kr:newline', offset: 304, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl22}
+  - {type: line-break, offset: 304, content: '', id: KR2i0002_SBCK_001-2a04}
+  - {type: variant, offset: 306, length: 193, content: 何適乎使者還報荆平王王知子胥不入也殺子奢而并殺子尚子胥聞之即從横領上大山北望齊晉謂其舎人曰去此邦堂堂被山帶河其民重移侈一作於是乃南奔吳至江上見漁者曰來渡我漁者知其非常人也欲徃渡之恐人知之歌而徃過之曰日昭昭侵以施與子期甫蘆之碕子胥即從漁者之蘆碕日入漁者復歌徃曰心中目施子可渡河何為不出船到即載入船而伏半江而仰謂漁者曰子之姓為誰還得報子之厚德漁者曰縱荆邦之賊者我也報荆邦之仇者子也兩而不仁何, WYG: 云楚}
+  - {type: 'kr:newline', offset: 321, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl23}
+  - {type: line-break, offset: 321, content: '', id: KR2i0002_SBCK_001-2a05}
+  - {type: 'kr:newline', offset: 338, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl24}
+  - {type: line-break, offset: 338, content: '', id: KR2i0002_SBCK_001-2a06}
+  - {type: 'kr:newline', offset: 355, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl25}
+  - {type: line-break, offset: 355, content: '', id: KR2i0002_SBCK_001-2a07}
+  - {type: punctuation, offset: 364, content: (, id: KR2i0002_krp_001-bkkpn4}
+  - {type: punctuation, offset: 365, content: /, id: KR2i0002_krp_001-bkkpn5}
+  - {type: punctuation, offset: 367, content: ), id: KR2i0002_krp_001-bkkpn6}
+  - {type: 'kr:newline', offset: 373, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl26}
+  - {type: line-break, offset: 373, content: '', id: KR2i0002_SBCK_001-2a08}
+  - {type: 'kr:newline', offset: 390, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl27}
+  - {type: page-break, offset: 390, content: '', id: KR2i0002_SBCK_001-2b}
+  - {type: 'kr:newline', offset: 390, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl28}
+  - {type: line-break, offset: 390, content: '', id: KR2i0002_SBCK_001-2b01}
+  - {type: 'kr:newline', offset: 407, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl29}
+  - {type: line-break, offset: 407, content: '', id: KR2i0002_SBCK_001-2b02}
+  - {type: 'kr:newline', offset: 424, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl30}
+  - {type: line-break, offset: 424, content: '', id: KR2i0002_SBCK_001-2b03}
+  - {type: 'kr:newline', offset: 441, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl31}
+  - {type: line-break, offset: 441, content: '', id: KR2i0002_SBCK_001-2b04}
+  - {type: 'kr:newline', offset: 458, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl32}
+  - {type: line-break, offset: 458, content: '', id: KR2i0002_SBCK_001-2b05}
+  - {type: 'kr:newline', offset: 475, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl33}
+  - {type: line-break, offset: 475, content: '', id: KR2i0002_SBCK_001-2b06}
+  - {type: 'kr:newline', offset: 492, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl34}
+  - {type: line-break, offset: 492, content: '', id: KR2i0002_SBCK_001-2b07}
+  - {type: variant, offset: 500, length: 571, content: 問姓名為子胥即解其劒以與漁者曰吾先人之劒直百金請以與子也漁者曰吾聞荆平王有令曰得伍子胥者購之千金今吾不欲得荆平王之千金何以百金之劒為漁者渡于于斧之津乃發其簞飯清其壺漿而食曰亟食而去毋令追者及子也子胥曰諾子胥食已而去顧謂漁者曰掩爾壺漿無令之露漁者曰諾子胥行即覆船挾匕首自刎而死江水之中明無洩也子胥遂行至溧陽界中見一女子擊絮於瀬水之中子胥曰豈可得託食乎女子曰諾即發簞飯清其壺漿而食之子胥食已而去謂女子曰掩爾壺漿母令之露女子曰諾子胥行五步還顧女子自縱於瀬水之中而死子胥遂行至吳徒跣被髪乞於吳市三日市正疑之而道於闔廬曰市中有非常人徒跣被髪乞於呉市三日矣闔廬曰吾聞荆平王殺其臣伍子奢而非其罪其子子胥勇且智彼必經諸侯之邦可以報其父仇者王即使召子胥入吳王下階迎而唁數之曰吾知子非恒人也何素窮如此子胥跪而垂泣曰胥父無罪而平王殺之而并其子尚子胥遯逃出走唯大王可以歸骸骨者惟大王哀之呉王曰諾上殿與語三日三夜語無復者王乃號令邦中無貴賤長少有不聽子胥之教者猶不聽寡人也罪至死不赦子胥居吳三年大得吳衆闔廬將為之報仇子胥曰不可臣聞諸侯不為匹夫興師於是止其後荆將伐蔡子胥言之闔廬即使子胥救蔡而伐荆十五戰十五勝荆平王已死子胥將卒六千操鞭捶笞平王之墓而數之曰昔者吾先人無罪而子殺之今此報子也之一作後子昭王臣司馬子其令尹子西歸相與計謀子胥不死又不入荆邦猶未得安為之奈何莫若求之而, WYG: 屈原}
+  - {type: 'kr:newline', offset: 509, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl35}
+  - {type: line-break, offset: 509, content: '', id: KR2i0002_SBCK_001-2b08}
+  - {type: 'kr:newline', offset: 526, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl36}
+  - {type: page-break, offset: 526, content: '', id: KR2i0002_SBCK_001-3a}
+  - {type: 'kr:newline', offset: 526, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl37}
+  - {type: line-break, offset: 526, content: '', id: KR2i0002_SBCK_001-3a01}
+  - {type: 'kr:newline', offset: 543, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl38}
+  - {type: line-break, offset: 543, content: '', id: KR2i0002_SBCK_001-3a02}
+  - {type: 'kr:newline', offset: 560, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl39}
+  - {type: line-break, offset: 560, content: '', id: KR2i0002_SBCK_001-3a03}
+  - {type: 'kr:newline', offset: 577, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl40}
+  - {type: line-break, offset: 577, content: '', id: KR2i0002_SBCK_001-3a04}
+  - {type: 'kr:newline', offset: 594, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl41}
+  - {type: line-break, offset: 594, content: '', id: KR2i0002_SBCK_001-3a05}
+  - {type: 'kr:newline', offset: 611, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl42}
+  - {type: line-break, offset: 611, content: '', id: KR2i0002_SBCK_001-3a06}
+  - {type: 'kr:newline', offset: 628, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl43}
+  - {type: line-break, offset: 628, content: '', id: KR2i0002_SBCK_001-3a07}
+  - {type: 'kr:newline', offset: 645, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl44}
+  - {type: line-break, offset: 645, content: '', id: KR2i0002_SBCK_001-3a08}
+  - {type: 'kr:newline', offset: 662, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl45}
+  - {type: page-break, offset: 662, content: '', id: KR2i0002_SBCK_001-3b}
+  - {type: 'kr:newline', offset: 662, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl46}
+  - {type: line-break, offset: 662, content: '', id: KR2i0002_SBCK_001-3b01}
+  - {type: 'kr:newline', offset: 679, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl47}
+  - {type: line-break, offset: 679, content: '', id: KR2i0002_SBCK_001-3b02}
+  - {type: 'kr:newline', offset: 696, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl48}
+  - {type: line-break, offset: 696, content: '', id: KR2i0002_SBCK_001-3b03}
+  - {type: 'kr:newline', offset: 713, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl49}
+  - {type: line-break, offset: 713, content: '', id: KR2i0002_SBCK_001-3b04}
+  - {type: 'kr:newline', offset: 730, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl50}
+  - {type: line-break, offset: 730, content: '', id: KR2i0002_SBCK_001-3b05}
+  - {type: 'kr:newline', offset: 747, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl51}
+  - {type: line-break, offset: 747, content: '', id: KR2i0002_SBCK_001-3b06}
+  - {type: 'kr:newline', offset: 764, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl52}
+  - {type: line-break, offset: 764, content: '', id: KR2i0002_SBCK_001-3b07}
+  - {type: 'kr:newline', offset: 781, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl53}
+  - {type: line-break, offset: 781, content: '', id: KR2i0002_SBCK_001-3b08}
+  - {type: 'kr:newline', offset: 798, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl54}
+  - {type: page-break, offset: 798, content: '', id: KR2i0002_SBCK_001-4a}
+  - {type: 'kr:newline', offset: 798, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl55}
+  - {type: line-break, offset: 798, content: '', id: KR2i0002_SBCK_001-4a01}
+  - {type: 'kr:newline', offset: 815, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl56}
+  - {type: line-break, offset: 815, content: '', id: KR2i0002_SBCK_001-4a02}
+  - {type: 'kr:newline', offset: 832, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl57}
+  - {type: line-break, offset: 832, content: '', id: KR2i0002_SBCK_001-4a03}
+  - {type: 'kr:newline', offset: 849, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl58}
+  - {type: line-break, offset: 849, content: '', id: KR2i0002_SBCK_001-4a04}
+  - {type: 'kr:newline', offset: 866, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl59}
+  - {type: line-break, offset: 866, content: '', id: KR2i0002_SBCK_001-4a05}
+  - {type: 'kr:newline', offset: 883, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl60}
+  - {type: line-break, offset: 883, content: '', id: KR2i0002_SBCK_001-4a06}
+  - {type: 'kr:newline', offset: 900, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl61}
+  - {type: line-break, offset: 900, content: '', id: KR2i0002_SBCK_001-4a07}
+  - {type: 'kr:newline', offset: 917, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl62}
+  - {type: line-break, offset: 917, content: '', id: KR2i0002_SBCK_001-4a08}
+  - {type: 'kr:newline', offset: 934, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl63}
+  - {type: page-break, offset: 934, content: '', id: KR2i0002_SBCK_001-4b}
+  - {type: 'kr:newline', offset: 934, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl64}
+  - {type: line-break, offset: 934, content: '', id: KR2i0002_SBCK_001-4b01}
+  - {type: 'kr:newline', offset: 951, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl65}
+  - {type: line-break, offset: 951, content: '', id: KR2i0002_SBCK_001-4b02}
+  - {type: 'kr:newline', offset: 968, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl66}
+  - {type: line-break, offset: 968, content: '', id: KR2i0002_SBCK_001-4b03}
+  - {type: 'kr:newline', offset: 985, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl67}
+  - {type: line-break, offset: 985, content: '', id: KR2i0002_SBCK_001-4b04}
+  - {type: 'kr:newline', offset: 1002, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl68}
+  - {type: line-break, offset: 1002, content: '', id: KR2i0002_SBCK_001-4b05}
+  - {type: 'kr:newline', offset: 1019, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl69}
+  - {type: line-break, offset: 1019, content: '', id: KR2i0002_SBCK_001-4b06}
+  - {type: punctuation, offset: 1028, content: (, id: KR2i0002_krp_001-bkkpn7}
+  - {type: punctuation, offset: 1029, content: /, id: KR2i0002_krp_001-bkkpn8}
+  - {type: punctuation, offset: 1031, content: ), id: KR2i0002_krp_001-bkkpn9}
+  - {type: 'kr:newline', offset: 1037, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl70}
+  - {type: line-break, offset: 1037, content: '', id: KR2i0002_SBCK_001-4b07}
+  - {type: 'kr:newline', offset: 1054, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl71}
+  - {type: line-break, offset: 1054, content: '', id: KR2i0002_SBCK_001-4b08}
+  - {type: 'kr:newline', offset: 1071, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl72}
+  - {type: page-break, offset: 1071, content: '', id: KR2i0002_SBCK_001-5a}
+  - {type: 'kr:newline', offset: 1071, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl73}
+  - {type: line-break, offset: 1071, content: '', id: KR2i0002_SBCK_001-5a01}
+  - {type: variant, offset: 1074, length: 3, content: 邦乎昭, WYG: 名是平字也然則此書為㑹稽袁康所作同郡呉平所定也}
+  - {type: variant, offset: 1078, length: 5, content: 乃使使者報, WYG: 充論衡按書篇曰東畨鄒伯竒臨淮袁太伯袁文術㑹稽呉君高周長生之輩位雖不至公卿誠能知之囊橐文雅之英雄也觀伯竒之元思太伯之易童句案童疑作章文術之咸銘君高之越紐録長生之洞厯劉}
+  - {type: page-break, offset: 1078, content: '', id: KR2i0002_WYG_000-2a, image: WYG0463/WYG0463-0074a.png}
+  - {type: variant, offset: 1084, length: 10, content: 胥於吳曰昔者吾先人殺, WYG: 政揚}
+  - {type: 'kr:newline', offset: 1088, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl74}
+  - {type: line-break, offset: 1088, content: '', id: KR2i0002_SBCK_001-5a02}
+  - {type: variant, offset: 1095, length: 3, content: 之父而, WYG: 雲不能過也所謂呉君高殆即平字所謂越紐録殆即此書歟楊慎丹鉛録胡侍珍珠船田藝衡留青日札皆有是説核其文義一一脗合隋唐志皆云子貢作}
+  - {type: variant, offset: 1100, length: 1, content: 罪, WYG: 實矣其文縱横曼衍與呉越春秋相𩔖而博麗奥衍則過之中如計倪内經軍氣之𩔖多雜術數家言皆漢人専門之學非後來所能依托}
+  - {type: variant, offset: 1102, length: 6, content: 寡人尚少未有, WYG: 此本與呉越春秋皆大徳丙午紹興路}
+  - {type: page-break, offset: 1102, content: '', id: KR2i0002_WYG_000-2b, image: WYG0463/WYG0463-0074b.png}
+  - {type: 'kr:newline', offset: 1105, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl75}
+  - {type: line-break, offset: 1105, content: '', id: KR2i0002_SBCK_001-5a03}
+  - {type: variant, offset: 1109, length: 74, content: 識也今子大夫報寡人也特甚然寡人亦不敢怨子今子大夫何不來歸子故墳墓丘冡為我邦雖小與子同有之民雖少與子同使之子胥曰以此為名名即章以此為利利即重矣前為父報, WYG: 刋卷末一跋諸本所無惟申明復}
+  - {type: 'kr:newline', offset: 1122, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl76}
+  - {type: line-break, offset: 1122, content: '', id: KR2i0002_SBCK_001-5a04}
+  - {type: 'kr:newline', offset: 1139, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl77}
+  - {type: line-break, offset: 1139, content: '', id: KR2i0002_SBCK_001-5a05}
+  - {type: 'kr:newline', offset: 1156, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl78}
+  - {type: line-break, offset: 1156, content: '', id: KR2i0002_SBCK_001-5a06}
+  - {type: 'kr:newline', offset: 1173, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl79}
+  - {type: line-break, offset: 1173, content: '', id: KR2i0002_SBCK_001-5a07}
+  - {type: variant, offset: 1184, length: 18, content: 後求其利賢者不為也父已死子食其禄非父, WYG: ''}
+  - {type: 'kr:newline', offset: 1190, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl80}
+  - {type: line-break, offset: 1190, content: '', id: KR2i0002_SBCK_001-5a08}
+  - {type: variant, offset: 1204, length: 13, content: 也使者遂還乃報荆昭王曰子胥, WYG: ''}
+  - {type: 'kr:newline', offset: 1207, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl81}
+  - {type: page-break, offset: 1207, content: '', id: KR2i0002_SBCK_001-5b}
+  - {type: 'kr:newline', offset: 1207, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl82}
+  - {type: line-break, offset: 1207, content: '', id: KR2i0002_SBCK_001-5b01}
+  - {type: variant, offset: 1218, length: 3, content: 入荆邦, WYG: 著姓名詳其詞意或南宋人所題耶鄭}
+  - {type: variant, offset: 1222, length: 6, content: 矣越絶卷第一, WYG: 選秕言引文選七命註引}
+  - {type: 'kr:newline', offset: 1223, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl83}
+  - {type: line-break, offset: 1223, content: '', id: KR2i0002_SBCK_001-5b02}
+  - {type: 'kr:newline', offset: 1228, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl84}
+  - {type: 'kr:newline', offset: 1228, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl85}
+  - {type: 'kr:newline', offset: 1228, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl86}
+  - {type: page-break, offset: 1228, content: '', id: KR2i0002_SBCK_001-6a}
+  - {type: 'kr:newline', offset: 1228, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl87}
+  - {type: line-break, offset: 1228, content: '', id: KR2i0002_SBCK_001-6a01}
+  - {type: 'kr:newline', offset: 1231, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl88}
+  - {type: line-break, offset: 1231, content: '', id: KR2i0002_SBCK_001-6a02}
+  - {type: variant, offset: 1231, length: 0, content: '', WYG: 大翼一艘十丈中翼九丈六尺小翼九丈又引王鏊震澤長語引}
+  - {type: variant, offset: 1233, length: 0, content: '', WYG: 書風起震方云云謂今本皆無此語疑更有全書惜未之見案崇文總目稱越絶書舊有内記八外𫝊十七今文題闕舛裁二十篇是此書在北宋之初已佚五篇選註所引葢佚篇之文王鏊所稱亦他書所引佚篇之文以為此本之外更有全書則明選誤矣别有續越絶書二卷上卷曰内𫝊本事呉内𫝊徳序記子游内經外𫝊越絶後語西施鄭旦外𫝊下卷曰越外𫝊雜事别𫝊變越上别𫝊變越下經内雅琴考序𫝊後記朱彛尊友善考謂為錢􅠒偽撰詭云得之石匣中􅠒與彛尊友善所言當實今未見𫝊本其偽妄亦不待辨以其續此書而作又即托於撰此書之人恐其幸而或𫝊久且亂真又恐其或不能𫝊而好異者耳聞其説且疑此書之真有續編故附訂其偽於此釋來者之惑焉乾隆四十六年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀欽定四庫全書越絶書漢袁康撰}
+  - {type: page-break, offset: 1233, content: '', id: KR2i0002_WYG_000-3a, image: WYG0463/WYG0463-0074c.png}
+  - {type: page-break, offset: 1233, content: '', id: KR2i0002_WYG_000-3b, image: WYG0463/WYG0463-0074d.png}
+  - {type: page-break, offset: 1233, content: '', id: KR2i0002_WYG_000-4a, image: WYG0463/WYG0463-0075a.png}
+  - {type: variant, offset: 1237, length: 2, content: 第一, WYG: ''}
+  - {type: 'kr:newline', offset: 1239, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl89}
+  - {type: line-break, offset: 1239, content: '', id: KR2i0002_SBCK_001-6a03}
+  - {type: 'kr:newline', offset: 1256, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl90}
+  - {type: line-break, offset: 1256, content: '', id: KR2i0002_SBCK_001-6a04}
+  - {type: 'kr:newline', offset: 1273, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl91}
+  - {type: line-break, offset: 1273, content: '', id: KR2i0002_SBCK_001-6a05}
+  - {type: 'kr:newline', offset: 1290, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl92}
+  - {type: line-break, offset: 1290, content: '', id: KR2i0002_SBCK_001-6a06}
+  - {type: variant, offset: 1290, length: 1, content: 耻, WYG: 恥}
+  - {type: 'kr:newline', offset: 1307, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl93}
+  - {type: line-break, offset: 1307, content: '', id: KR2i0002_SBCK_001-6a07}
+  - {type: page-break, offset: 1323, content: '', id: KR2i0002_WYG_000-4b, image: WYG0463/WYG0463-0075b.png}
+  - {type: 'kr:newline', offset: 1324, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl94}
+  - {type: line-break, offset: 1324, content: '', id: KR2i0002_SBCK_001-6a08}
+  - {type: 'kr:newline', offset: 1341, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl95}
+  - {type: page-break, offset: 1341, content: '', id: KR2i0002_SBCK_001-6b}
+  - {type: 'kr:newline', offset: 1341, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl96}
+  - {type: line-break, offset: 1341, content: '', id: KR2i0002_SBCK_001-6b01}
+  - {type: 'kr:newline', offset: 1358, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl97}
+  - {type: line-break, offset: 1358, content: '', id: KR2i0002_SBCK_001-6b02}
+  - {type: 'kr:newline', offset: 1359, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl98}
+  - {type: line-break, offset: 1359, content: '', id: KR2i0002_SBCK_001-6b03}
+  - {type: 'kr:newline', offset: 1376, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl99}
+  - {type: line-break, offset: 1376, content: '', id: KR2i0002_SBCK_001-6b04}
+  - {type: 'kr:newline', offset: 1393, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl100}
+  - {type: line-break, offset: 1393, content: '', id: KR2i0002_SBCK_001-6b05}
+  - {type: variant, offset: 1396, length: 1, content: 疆, WYG: 彊}
+  - {type: 'kr:newline', offset: 1410, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl101}
+  - {type: line-break, offset: 1410, content: '', id: KR2i0002_SBCK_001-6b06}
+  - {type: 'kr:newline', offset: 1427, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl102}
+  - {type: line-break, offset: 1427, content: '', id: KR2i0002_SBCK_001-6b07}
+  - {type: 'kr:newline', offset: 1444, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl103}
+  - {type: line-break, offset: 1444, content: '', id: KR2i0002_SBCK_001-6b08}
+  - {type: 'kr:newline', offset: 1461, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl104}
+  - {type: page-break, offset: 1461, content: '', id: KR2i0002_SBCK_001-7a}
+  - {type: 'kr:newline', offset: 1461, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl105}
+  - {type: line-break, offset: 1461, content: '', id: KR2i0002_SBCK_001-7a01}
+  - {type: 'kr:newline', offset: 1478, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl106}
+  - {type: line-break, offset: 1478, content: '', id: KR2i0002_SBCK_001-7a02}
+  - {type: 'kr:newline', offset: 1480, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl107}
+  - {type: line-break, offset: 1480, content: '', id: KR2i0002_SBCK_001-7a03}
+  - {type: page-break, offset: 1480, content: '', id: KR2i0002_WYG_000-5a, image: WYG0463/WYG0463-0075c.png}
+  - {type: 'kr:newline', offset: 1497, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl108}
+  - {type: line-break, offset: 1497, content: '', id: KR2i0002_SBCK_001-7a04}
+  - {type: variant, offset: 1512, length: 1, content: 疆, WYG: 彊}
+  - {type: 'kr:newline', offset: 1514, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl109}
+  - {type: line-break, offset: 1514, content: '', id: KR2i0002_SBCK_001-7a05}
+  - {type: variant, offset: 1522, length: 1, content: 疆, WYG: 彊}
+  - {type: 'kr:newline', offset: 1531, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl110}
+  - {type: line-break, offset: 1531, content: '', id: KR2i0002_SBCK_001-7a06}
+  - {type: variant, offset: 1541, length: 1, content: 躳, WYG: 躬}
+  - {type: 'kr:newline', offset: 1548, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl111}
+  - {type: line-break, offset: 1548, content: '', id: KR2i0002_SBCK_001-7a07}
+  - {type: variant, offset: 1559, length: 1, content: 疆, WYG: 彊}
+  - {type: 'kr:newline', offset: 1565, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl112}
+  - {type: line-break, offset: 1565, content: '', id: KR2i0002_SBCK_001-7a08}
+  - {type: variant, offset: 1569, length: 1, content: 躳, WYG: 躬}
+  - {type: 'kr:newline', offset: 1582, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl113}
+  - {type: page-break, offset: 1582, content: '', id: KR2i0002_SBCK_001-7b}
+  - {type: 'kr:newline', offset: 1582, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl114}
+  - {type: line-break, offset: 1582, content: '', id: KR2i0002_SBCK_001-7b01}
+  - {type: 'kr:newline', offset: 1595, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl115}
+  - {type: line-break, offset: 1595, content: '', id: KR2i0002_SBCK_001-7b02}
+  - {type: 'kr:newline', offset: 1612, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl116}
+  - {type: line-break, offset: 1612, content: '', id: KR2i0002_SBCK_001-7b03}
+  - {type: 'kr:newline', offset: 1629, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl117}
+  - {type: line-break, offset: 1629, content: '', id: KR2i0002_SBCK_001-7b04}
+  - {type: page-break, offset: 1637, content: '', id: KR2i0002_WYG_000-5b, image: WYG0463/WYG0463-0075d.png}
+  - {type: 'kr:newline', offset: 1646, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl118}
+  - {type: line-break, offset: 1646, content: '', id: KR2i0002_SBCK_001-7b05}
+  - {type: variant, offset: 1654, length: 1, content: 吕, WYG: 莒}
+  - {type: 'kr:newline', offset: 1663, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl119}
+  - {type: line-break, offset: 1663, content: '', id: KR2i0002_SBCK_001-7b06}
+  - {type: 'kr:newline', offset: 1680, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl120}
+  - {type: line-break, offset: 1680, content: '', id: KR2i0002_SBCK_001-7b07}
+  - {type: variant, offset: 1688, length: 1, content: 貴, WYG: 責}
+  - {type: variant, offset: 1695, length: 1, content: 疆, WYG: 彊}
+  - {type: 'kr:newline', offset: 1697, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl121}
+  - {type: line-break, offset: 1697, content: '', id: KR2i0002_SBCK_001-7b08}
+  - {type: 'kr:newline', offset: 1714, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl122}
+  - {type: page-break, offset: 1714, content: '', id: KR2i0002_SBCK_001-8a}
+  - {type: 'kr:newline', offset: 1714, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl123}
+  - {type: line-break, offset: 1714, content: '', id: KR2i0002_SBCK_001-8a01}
+  - {type: 'kr:newline', offset: 1719, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl124}
+  - {type: line-break, offset: 1719, content: '', id: KR2i0002_SBCK_001-8a02}
+  - {type: 'kr:newline', offset: 1736, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl125}
+  - {type: line-break, offset: 1736, content: '', id: KR2i0002_SBCK_001-8a03}
+  - {type: variant, offset: 1746, length: 1, content: 飢, WYG: 饑}
+  - {type: 'kr:newline', offset: 1753, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl126}
+  - {type: line-break, offset: 1753, content: '', id: KR2i0002_SBCK_001-8a04}
+  - {type: variant, offset: 1767, length: 1, content: 大, WYG: 太}
+  - {type: 'kr:newline', offset: 1770, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl127}
+  - {type: line-break, offset: 1770, content: '', id: KR2i0002_SBCK_001-8a05}
+  - {type: 'kr:newline', offset: 1787, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl128}
+  - {type: line-break, offset: 1787, content: '', id: KR2i0002_SBCK_001-8a06}
+  - {type: variant, offset: 1790, length: 1, content: 天, WYG: 夫}
+  - {type: page-break, offset: 1803, content: '', id: KR2i0002_WYG_000-6a, image: WYG0463/WYG0463-0076a.png}
+  - {type: 'kr:newline', offset: 1804, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl129}
+  - {type: line-break, offset: 1804, content: '', id: KR2i0002_SBCK_001-8a07}
+  - {type: 'kr:newline', offset: 1821, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl130}
+  - {type: line-break, offset: 1821, content: '', id: KR2i0002_SBCK_001-8a08}
+  - {type: 'kr:newline', offset: 1838, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl131}
+  - {type: page-break, offset: 1838, content: '', id: KR2i0002_SBCK_001-8b}
+  - {type: 'kr:newline', offset: 1838, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl132}
+  - {type: line-break, offset: 1838, content: '', id: KR2i0002_SBCK_001-8b01}
+  - {type: variant, offset: 1849, length: 1, content: 徃, WYG: 往}
+  - {type: 'kr:newline', offset: 1855, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl133}
+  - {type: line-break, offset: 1855, content: '', id: KR2i0002_SBCK_001-8b02}
+  - {type: 'kr:newline', offset: 1869, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl134}
+  - {type: line-break, offset: 1869, content: '', id: KR2i0002_SBCK_001-8b03}
+  - {type: 'kr:newline', offset: 1886, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl135}
+  - {type: line-break, offset: 1886, content: '', id: KR2i0002_SBCK_001-8b04}
+  - {type: 'kr:newline', offset: 1903, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl136}
+  - {type: line-break, offset: 1903, content: '', id: KR2i0002_SBCK_001-8b05}
+  - {type: 'kr:newline', offset: 1911, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl137}
+  - {type: line-break, offset: 1911, content: '', id: KR2i0002_SBCK_001-8b06}
+  - {type: 'kr:newline', offset: 1928, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl138}
+  - {type: line-break, offset: 1928, content: '', id: KR2i0002_SBCK_001-8b07}
+  - {type: 'kr:newline', offset: 1945, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl139}
+  - {type: line-break, offset: 1945, content: '', id: KR2i0002_SBCK_001-8b08}
+  - {type: page-break, offset: 1953, content: '', id: KR2i0002_WYG_000-6b, image: WYG0463/WYG0463-0076b.png}
+  - {type: 'kr:newline', offset: 1962, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl140}
+  - {type: page-break, offset: 1962, content: '', id: KR2i0002_SBCK_001-9a}
+  - {type: 'kr:newline', offset: 1962, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl141}
+  - {type: line-break, offset: 1962, content: '', id: KR2i0002_SBCK_001-9a01}
+  - {type: 'kr:newline', offset: 1979, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl142}
+  - {type: line-break, offset: 1979, content: '', id: KR2i0002_SBCK_001-9a02}
+  - {type: 'kr:newline', offset: 1996, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl143}
+  - {type: line-break, offset: 1996, content: '', id: KR2i0002_SBCK_001-9a03}
+  - {type: 'kr:newline', offset: 2013, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl144}
+  - {type: line-break, offset: 2013, content: '', id: KR2i0002_SBCK_001-9a04}
+  - {type: 'kr:newline', offset: 2030, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl145}
+  - {type: line-break, offset: 2030, content: '', id: KR2i0002_SBCK_001-9a05}
+  - {type: 'kr:newline', offset: 2047, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl146}
+  - {type: line-break, offset: 2047, content: '', id: KR2i0002_SBCK_001-9a06}
+  - {type: 'kr:newline', offset: 2064, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl147}
+  - {type: line-break, offset: 2064, content: '', id: KR2i0002_SBCK_001-9a07}
+  - {type: 'kr:newline', offset: 2081, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl148}
+  - {type: line-break, offset: 2081, content: '', id: KR2i0002_SBCK_001-9a08}
+  - {type: 'kr:newline', offset: 2098, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl149}
+  - {type: page-break, offset: 2098, content: '', id: KR2i0002_SBCK_001-9b}
+  - {type: 'kr:newline', offset: 2098, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl150}
+  - {type: line-break, offset: 2098, content: '', id: KR2i0002_SBCK_001-9b01}
+  - {type: 'kr:newline', offset: 2115, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl151}
+  - {type: line-break, offset: 2115, content: '', id: KR2i0002_SBCK_001-9b02}
+  - {type: page-break, offset: 2123, content: '', id: KR2i0002_WYG_000-7a, image: WYG0463/WYG0463-0076c.png}
+  - {type: 'kr:newline', offset: 2132, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl152}
+  - {type: line-break, offset: 2132, content: '', id: KR2i0002_SBCK_001-9b03}
+  - {type: 'kr:newline', offset: 2149, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl153}
+  - {type: line-break, offset: 2149, content: '', id: KR2i0002_SBCK_001-9b04}
+  - {type: 'kr:newline', offset: 2166, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl154}
+  - {type: line-break, offset: 2166, content: '', id: KR2i0002_SBCK_001-9b05}
+  - {type: 'kr:newline', offset: 2183, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl155}
+  - {type: line-break, offset: 2183, content: '', id: KR2i0002_SBCK_001-9b06}
+  - {type: variant, offset: 2190, length: 0, content: '', WYG: 為}
+  - {type: 'kr:newline', offset: 2200, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl156}
+  - {type: line-break, offset: 2200, content: '', id: KR2i0002_SBCK_001-9b07}
+  - {type: 'kr:newline', offset: 2206, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl157}
+  - {type: line-break, offset: 2206, content: '', id: KR2i0002_SBCK_001-9b08}
+  - {type: 'kr:newline', offset: 2223, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl158}
+  - {type: page-break, offset: 2223, content: '', id: KR2i0002_SBCK_001-10a}
+  - {type: 'kr:newline', offset: 2223, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl159}
+  - {type: line-break, offset: 2223, content: '', id: KR2i0002_SBCK_001-10a01}
+  - {type: 'kr:newline', offset: 2240, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl160}
+  - {type: line-break, offset: 2240, content: '', id: KR2i0002_SBCK_001-10a02}
+  - {type: variant, offset: 2245, length: 1, content: 類, SBCK: 􅀋}
+  - {type: variant, offset: 2245, length: 1, content: 類, WYG: 𩔖}
+  - {type: 'kr:newline', offset: 2257, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl161}
+  - {type: line-break, offset: 2257, content: '', id: KR2i0002_SBCK_001-10a03}
+  - {type: 'kr:newline', offset: 2274, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl162}
+  - {type: line-break, offset: 2274, content: '', id: KR2i0002_SBCK_001-10a04}
+  - {type: page-break, offset: 2290, content: '', id: KR2i0002_WYG_000-7b, image: WYG0463/WYG0463-0076d.png}
+  - {type: 'kr:newline', offset: 2291, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl163}
+  - {type: line-break, offset: 2291, content: '', id: KR2i0002_SBCK_001-10a05}
+  - {type: punctuation, offset: 2301, content: (, id: KR2i0002_krp_001-bkkpn10}
+  - {type: variant, offset: 2301, length: 1, content: 焉, WYG: ''}
+  - {type: punctuation, offset: 2302, content: /, id: KR2i0002_krp_001-bkkpn11}
+  - {type: punctuation, offset: 2304, content: ), id: KR2i0002_krp_001-bkkpn12}
+  - {type: 'kr:newline', offset: 2304, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl164}
+  - {type: line-break, offset: 2304, content: '', id: KR2i0002_SBCK_001-10a06}
+  - {type: variant, offset: 2304, length: 0, content: '', WYG: 焉欽定四庫全書}
+  - {type: page-break, offset: 2304, content: '', id: KR2i0002_WYG_001-1a, image: WYG0463/WYG0463-0077a.png}
+  - {type: variant, offset: 2306, length: 1, content: 外, WYG: 書卷一漢袁康撰荆平王内}
+  - {type: variant, offset: 2308, length: 3, content: 本事第, WYG: 昔者荆平王有臣伍子奢奢得罪於王且殺之其二子出走伍子尚奔吳伍子胥奔鄭王召奢而問之曰若召子孰來也子奢對曰王問臣對而畏死不對不知子之心者尚為人也仁且智來之必入胥為人也勇且智來必不入胥且奔吳邦君王必早閉而晏開胥將使邊境有大憂於是王即使使者召子尚於吳曰子父有罪子入則免之不入則殺之子胥聞之使人告子尚於吳吾聞荆平王召子子必毋入胥聞之入者窮出者報仇入者皆死是不智也死而不報父之仇是非勇也子尚對曰入則免父之死不入則不仁愛身之死絶父之望賢士不為也意不同謀不合子其居尚請入荆平王復使使者召子胥於鄭曰子入則免父死不入則殺之子胥介胄彀弓出見使者謝曰介胄之士固不拜矣}
+  - {type: page-break, offset: 2308, content: '', id: KR2i0002_WYG_001-1b, image: WYG0463/WYG0463-0077b.png}
+  - {type: page-break, offset: 2308, content: '', id: KR2i0002_WYG_001-2a, image: WYG0463/WYG0463-0077c.png}
+  - {type: 'kr:newline', offset: 2312, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl165}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_SBCK_001-10b}
+  - {type: 'kr:newline', offset: 2312, content: '
+
+      ', id: KR2i0002_krp_001-bkkkrnewl166}
+  - {type: variant, offset: 2312, length: 0, content: '', WYG: 作也請有道於使者王以奢為無罪赦而蓄之其子又何適乎使者還報荆平王王知子胥不入也殺子奢而并殺子尚子胥聞之即從横嶺上太山北望齊晉謂其舎人曰去此邦堂堂被山帶河其民重移一作侈於是乃南奔吳至江上見漁者曰來渡我漁者知其非常人也欲往渡之恐人知之歌而往過之曰日昭昭侵以施與子期甫蘆之碕子胥即從漁者之蘆碕日入漁者復歌往曰心中目施子可渡河何為不出船到即載入船而伏半江而仰謂漁者曰子之姓為誰還得報子之厚德漁者曰縱荆邦之賊者我也報荆邦之仇者子也兩而不仁何相問姓名為子胥即解其劒以與漁者曰吾先人之劒直百金請以與子也漁者曰吾聞荆平王有令曰得伍子胥者購之千金今吾不欲得荆平王之千金何以百金之劍為漁者渡於于斧之津乃發其簞飯清其壺漿而食曰亟食而去毋令追者及子也子胥曰諾子胥食已而去顧謂漁者曰掩爾壺漿無令之露漁者曰諾子胥行即覆船挾匕首自刎而死江水之中明無洩也子胥遂行至溧陽界中見一女子擊絮於瀬水之中子胥曰豈可得託食乎女子曰諾即發簞飯清其壺漿而食之子胥食已而去謂女子曰掩爾壺漿毋令之露女子曰諾子胥行五步還顧女子自縱於瀬水之中而死子胥遂行至吳徒跣被髪乞於吳市三日市正疑之而道於闔廬曰市中有非常人徒跣被髪乞於呉市三日矣闔廬曰吾聞荆平王殺其臣伍子奢而非其罪其子子胥勇且智彼必經諸侯之邦可以報其父仇者王即使召子胥入吳王下階迎而唁數之曰吾知子非恒人也何素窮如此子胥跪而垂泣曰胥父無罪而平王殺之而并其子尚子胥遯逃出走唯大王可以歸骸骨者惟大王哀之呉王曰諾上殿與語三日三夜語無復者王乃號令邦中無貴賤長少有不聽子胥之教者猶不聽寡人也罪至死不赦子胥居吳三年大得吳衆闔廬將為之報仇子胥曰不可臣聞諸侯不為匹夫興師於是止其後荆將伐蔡子胥言之闔廬即使子胥救蔡而伐荆十五戰十五勝荆平王已死子胥將卒六千操鞭捶笞平王之墓而數之曰昔者吾先人無罪而子殺之今此報子也一作之後子昭王臣司馬子其令尹子西歸相與計謀子胥不死又不入荆邦猶未得安為之奈何莫若求之而與之同邦乎昭王乃使使者報子胥於吳曰昔者吾先人殺子之父而非其罪也寡人尚少未有所識也今子大夫報寡人也特甚然寡人亦不敢怨子今子大夫何不來歸子故墳墓丘冡為我邦雖小與子同有之民雖少與子同使之子胥曰以此為名名即章以此為利利即重矣前為父報仇後求其利賢者不為也父已死子食其禄非父之義也使者遂還乃報荆昭王曰子胥不入荆邦明矣越絶書卷一}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_WYG_001-2b, image: WYG0463/WYG0463-0077d.png}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_WYG_001-3a, image: WYG0463/WYG0463-0078a.png}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_WYG_001-3b, image: WYG0463/WYG0463-0078b.png}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_WYG_001-4a, image: WYG0463/WYG0463-0078c.png}
+  - {type: page-break, offset: 2312, content: '', id: KR2i0002_WYG_001-4b, image: WYG0463/WYG0463-0078d.png}
+  back: []
+hash: sha256:f8702cb912c4e771debaff683f4961fa8e520e580672ff1416f40628ddacb7fd

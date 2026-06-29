@@ -1,0 +1,746 @@
+canonical_identifier: bkk:krp/KR2i0002/bkk/v1/markers/13
+seq: 13
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', SBCK: 越絶卷第十三}
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_SBCK_013-1a}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_WYG_013-1a, image: WYG0463/WYG0463-0119a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 越絶卷第十三}
+  body:
+  - {type: variant, offset: 1, length: 1, content: 絕, WYG: 絶書卷十三漢袁康撰}
+  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: variant, offset: 4, length: 3, content: 記寶劍, SBCK: 枕中}
+  - {type: variant, offset: 4, length: 6, content: 記寶劍第十三, WYG: 枕中}
+  - {type: variant, offset: 4, length: 3, content: 記寶劍, krp: 枕中}
+  - {type: variant, offset: 9, length: 1, content: 三, SBCK: 六}
+  - {type: variant, offset: 9, length: 1, content: 三, krp: 六}
+  - {type: xml-element, offset: 10, content: '', id: KR2i0002_CHANT_013-bkkxmlele1}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR2i0002_CHANT_013-1a.1}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR2i0002_CHANT_013-1a.2}
+  - {type: punctuation, offset: 12, content: ，, id: KR2i0002_CHANT_013-bkkpn1}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR2i0002_CHANT_013-1a.3}
+  - {type: variant, offset: 16, length: 0, content: '', SBCK: 問范子曰古之賢主聖王之治何左何右何去何取范子對曰臣聞聖主之治左道右術去末取實越王曰何謂道何謂術何謂末何謂實范子對曰道者天地先生不知老曲成萬物不名巧故謂之道道生氣氣生隂隂生陽陽生天地天地立然後}
+  - {type: variant, offset: 16, length: 0, content: '', WYG: 問范子曰古之賢主聖王之治何左何右何去何取范子對曰臣聞聖主之治左道右術去末取實越王曰何謂道何謂術何謂末何謂實范子對曰道者天地先生不知老曲成萬物不名巧故謂之道道生氣氣生陰陰生陽陽生天地天地立然後}
+  - {type: page-break, offset: 16, content: '', id: KR2i0002_WYG_013-1b, image: WYG0463/WYG0463-0119b.png}
+  - {type: variant, offset: 16, length: 0, content: '', krp: 問范子曰古之賢主聖王之治何左何右何去何取范子對曰臣聞聖主之治左道右術去末取實越王曰何謂道何謂術何謂末何謂實范子對曰道者天地先生不知老曲成萬物不名巧故謂之道道生氣氣生隂隂生陽陽生天地天地立然後}
+  - {type: variant, offset: 17, length: 2, content: 寶劍, SBCK: 寒暑燥濕日月星辰四時而萬物僃術者天意也盛夏之時萬物遂長聖人縁天心􅂇天喜樂萬物之長故舜彈}
+  - {type: page-break, offset: 17, content: '', id: KR2i0002_SBCK_013-1b}
+  - {type: variant, offset: 17, length: 2, content: 寶劍, WYG: 寒暑燥濕日月星辰四時而萬物備術者天意也盛夏之時萬物遂長聖人縁天心助天喜樂萬物之長故舜彈}
+  - {type: variant, offset: 17, length: 2, content: 寶劍, krp: 寒暑燥濕日月星辰四時而萬物僃術者天意也盛夏之時萬物遂長聖人縁天心助天喜樂萬物之長故舜彈}
+  - {type: punctuation, offset: 20, content: ，, id: KR2i0002_CHANT_013-bkkpn2}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR2i0002_CHANT_013-1a.4}
+  - {type: variant, offset: 20, length: 2, content: 聞於, SBCK: 絃之琴歌南風之詩而}
+  - {type: variant, offset: 20, length: 2, content: 聞於, WYG: 絃之琴歌南風之詩而}
+  - {type: variant, offset: 20, length: 2, content: 聞於, krp: 絃之琴歌南風之詩而}
+  - {type: punctuation, offset: 24, content: 。, id: KR2i0002_CHANT_013-bkkpn3}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR2i0002_CHANT_013-1a.5}
+  - {type: variant, offset: 24, length: 5, content: 客有能相劍, SBCK: 治言其樂與天下同也當是之時頌聲作所謂末}
+  - {type: variant, offset: 24, length: 5, content: 客有能相劍, WYG: 治言其樂與天下同也當是之時頌聲作所謂末}
+  - {type: variant, offset: 24, length: 5, content: 客有能相劍, krp: 治言其樂與天下同也當是之時頌聲作所謂末}
+  - {type: punctuation, offset: 30, content: ，, id: KR2i0002_CHANT_013-bkkpn4}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR2i0002_CHANT_013-1a.6}
+  - {type: variant, offset: 31, length: 2, content: 薛燭, SBCK: 也故名過實則百姓不附親賢士不為用而外缺諸侯聖主不為也所謂實者榖缺也得人心任賢士也凡此四者邦之實也越}
+  - {type: variant, offset: 31, length: 2, content: 薛燭, WYG: 也故名過實則百姓不附親賢士不為用而外缺諸侯聖主不為也所謂實者榖缺也得人心任賢士也凡此四者邦之實也越}
+  - {type: variant, offset: 31, length: 2, content: 薛燭, krp: 也故名過實則百姓不附親賢士不為用而外缺諸侯聖主不為也所謂實者榖缺也得人心任賢士也凡此四者邦之實也越}
+  - {type: punctuation, offset: 33, content: 。, id: KR2i0002_CHANT_013-bkkpn5}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR2i0002_CHANT_013-1a.7}
+  - {type: variant, offset: 34, length: 1, content: 召, SBCK: 曰寡人躬行節儉下士求賢不使名過實此寡人所能行也多貯榖富百姓此乃天時水旱寧在一人耶何以僃之范子曰百里之神千里之君湯執其中和舉伊尹收天下雄雋之士練卒兵率諸侯兵伐桀為天下除殘去賊萬民皆歌}
+  - {type: page-break, offset: 34, content: '', id: KR2i0002_SBCK_013-2a}
+  - {type: variant, offset: 34, length: 1, content: 召, WYG: 曰寡人躬行節儉下士求賢不使名過實此寡人所能行也多貯榖富百姓此乃天時水旱寧在一人耶何以備之范子曰百里之神千里之君湯執其中和舉伊尹收天下雄雋之士練卒兵率諸侯兵伐桀為天下除殘去賊萬民皆歌}
+  - {type: page-break, offset: 34, content: '', id: KR2i0002_WYG_013-2a, image: WYG0463/WYG0463-0119c.png}
+  - {type: variant, offset: 34, length: 1, content: 召, krp: 曰寡人躬行節儉下士求賢不使名過實此寡人所能行也多貯榖富百姓此乃天時水旱寧在一人耶何以僃之范子曰百里之神千里之君湯執其中和舉伊尹收天下雄雋之士練卒兵率諸侯兵伐桀為天下除殘去賊萬民皆歌}
+  - {type: variant, offset: 36, length: 0, content: '', SBCK: 歸之是所謂執其中和者越王曰善哉中和所致也寡人雖不及賢主聖王欲執其中和而行之今諸侯之地或多或少疆弱不相當兵革㬥起何以應之范子曰知保人之身者可以王天下不知保人之身失天下者也越王曰何謂保人之身范子曰天生萬物而教之而生人得榖卽不死榖能生人能殺人故謂人身越王曰善哉今寡人欲保榖為之奈何范子曰欲保必親於野覩諸所多少為僃越王曰所少可得為因其貴賤亦有應乎范子曰夫八榖貴賤之法必察天之二表即决矣越王曰請}
+  - {type: page-break, offset: 36, content: '', id: KR2i0002_SBCK_013-2b}
+  - {type: page-break, offset: 36, content: '', id: KR2i0002_SBCK_013-3a}
+  - {type: variant, offset: 36, length: 0, content: '', WYG: 歸之是所謂執其中和者越王曰善哉中和所致也寡人雖不及賢主聖王欲執其中和而行之今諸侯之地或多或少彊弱不相當兵革暴起何以應之范子曰知保人之身者可以王天下不知保人之身失天下者也越王曰何謂保人之身范子曰天生萬物而教之而生人得榖即不死榖能生人能殺人故謂人身越王曰善哉今寡人欲保榖為之奈何范子曰欲保必親於野覩諸所多少為備越王曰所少可得為因其貴賤亦有應乎范子曰夫八榖貴賤之法必察天之三表即決矣越王曰請}
+  - {type: page-break, offset: 36, content: '', id: KR2i0002_WYG_013-2b, image: WYG0463/WYG0463-0119d.png}
+  - {type: variant, offset: 36, length: 0, content: '', krp: 歸之是所謂執其中和者越王曰善哉中和所致也寡人雖不及賢主聖王欲執其中和而行之今諸侯之地或多或少疆弱不相當兵革㬥起何以應之范子曰知保人之身者可以王天下不知保人之身失天下者也越王曰何謂保人之身范子曰天生萬物而教之而生人得榖卽不死榖能生人能殺人故謂人身越王曰善哉今寡人欲保榖為之奈何范子曰欲保必親於野覩諸所多少為僃越王曰所少可得為因其貴賤亦有應乎范子曰夫八榖貴賤之法必察天之二表即决矣越王曰請}
+  - {type: variant, offset: 37, length: 0, content: '', SBCK: 三表范子曰水之勢勝金隂氣蓄積大盛水據金而死故金中有水如此者歲大敗八榖皆貴金之勢勝木陽氣蓄積大盛金據木而死故木中有火如此者嵗大美八榖皆賤金木水火更相勝此天之三表者也不可不察能知三表可為邦寳不知三表之君千里之神萬里之君故天下之君發號施令必順於四時四時不正則隂陽不調寒暑失常如此則嵗惡五榖不登聖主施令必審於四時此至禁也越王曰此寡人所能行也願欲知圖榖上下貴賤欲與他貨之内以自實為之奈何范子曰夫八榖之賤也如宿榖之登其明也諦審察隂陽消息觀市之反覆雌雄之相逐天道乃畢越王問范子曰何執而昌何行而亡范子曰執其中則昌行奢侈則亡越王曰寡人欲聞其説范子曰臣聞古之賢主聖君執中和而原其終始即位安而萬物定矣不執其中和不原其終始即尊位傾萬物散文武之業桀紂之跡可知矣古者天子及至諸侯自㓕至亡漸漬乎滋味之費沒溺於聲色之􅀋牽攣於珍怪貴重之器故其邦空虗困其士民以為湏􅁷之樂百姓皆有悲心瓦解而倍畔者桀紂是也身死邦亡為天下笑此謂行奢侈而亡也湯有七十里地務執三表可謂邦寳不知三表身死棄道越王問范子曰春肅夏寒秋榮冬泄人治使然乎將道也范子曰天道三千五百嵗一治一亂終而復始如環之無端此天之常道也四時易次寒暑失常治民然也故天生萬物之時聖人命}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_SBCK_013-3b}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_SBCK_013-4a}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_SBCK_013-4b}
+  - {type: variant, offset: 37, length: 0, content: '', WYG: 三表范子曰水之勢勝金陰氣蓄積大盛水據金而死故金中有水如此者嵗大敗八榖皆貴金之勢勝木陽氣蓄積大盛金據木而死故木中有火如此者嵗大美八榖皆賤金木水火更相勝此天之三表者也不可不察能知三表可為邦寶不知三表之君千里之神萬里之君故天下之君發號施令必順於四時四時不正則陰陽不調寒暑失常如此則嵗惡五榖不登聖主施令必審於四時此至禁也越王曰此寡人所能行也願欲知圖榖上下貴賤欲與他貨之内以自實為之奈何范子曰夫八榖之賤也如宿榖之登其明也諦審察陰陽消息觀市之反覆雌雄之相逐天道乃畢越王問范子曰何執而昌何行而亡范子曰執其中則昌行奢侈則亡越王曰寡人欲聞其説范子曰臣聞古之賢主聖君執中和不原其終始即位安而萬物定矣不執其中和不原其終始即尊位傾萬物散文武之業桀紂之跡可知矣古者天子及至諸侯自滅至亡漸漬乎滋味之費沒溺於聲色之𩔖牽攣於珍怪貴重之器故其邦空虚困其士民以為須臾之樂百姓皆有悲心瓦解而倍畔者桀紂是也身死邦亡為天下笑此謂行奢侈而亡也湯有七十里地務執三表可謂邦寶不知三表身死棄道越王問范子曰春肅夏寒秋榮冬泄人治使然乎將道也范子曰天道三千五百嵗一治一亂終而復始如環之無端此天之常道也四時易次寒暑失常治民然也故天生萬物之時聖人命}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_WYG_013-3a, image: WYG0463/WYG0463-0120a.png}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_WYG_013-3b, image: WYG0463/WYG0463-0120b.png}
+  - {type: page-break, offset: 37, content: '', id: KR2i0002_WYG_013-4a, image: WYG0463/WYG0463-0120c.png}
+  - {type: variant, offset: 37, length: 0, content: '', krp: 三表范子曰水之勢勝金隂氣蓄積大盛水據金而死故金中有水如此者歲大敗八榖皆貴金之勢勝木陽氣蓄積大盛金據木而死故木中有火如此者嵗大美八榖皆賤金木水火更相勝此天之三表者也不可不察能知三表可為邦寳不知三表之君千里之神萬里之君故天下之君發號施令必順於四時四時不正則隂陽不調寒暑失常如此則嵗惡五榖不登聖主施令必審於四時此至禁也越王曰此寡人所能行也願欲知圖榖上下貴賤欲與他貨之内以自實為之奈何范子曰夫八榖之賤也如宿榖之登其明也諦審察隂陽消息觀市之反覆雌雄之相逐天道乃畢越王問范子曰何執而昌何行而亡范子曰執其中則昌行奢侈則亡越王曰寡人欲聞其説范子曰臣聞古之賢主聖君執中和而原其終始即位安而萬物定矣不執其中和不原其終始即尊位傾萬物散文武之業桀紂之跡可知矣古者天子及至諸侯自㓕至亡漸漬乎滋味之費沒溺於聲色之類牽攣於珍怪貴重之器故其邦空虗困其士民以為湏臾之樂百姓皆有悲心瓦解而倍畔者桀紂是也身死邦亡為天下笑此謂行奢侈而亡也湯有七十里地務執三表可謂邦寳不知三表身死棄道越王問范子曰春肅夏寒秋榮冬泄人治使然乎將道也范子曰天道三千五百嵗一治一亂終而復始如環之無端此天之常道也四時易次寒暑失常治民然也故天生萬物之時聖人命}
+  - {type: punctuation, offset: 38, content: ，, id: KR2i0002_CHANT_013-bkkpn6}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR2i0002_CHANT_013-1a.8}
+  - {type: punctuation, offset: 39, content: ：, id: KR2i0002_CHANT_013-bkkpn7}
+  - {type: 'tls:seg', offset: 39, content: '', id: KR2i0002_CHANT_013-1a.9}
+  - {type: punctuation, offset: 39, content: 「, id: KR2i0002_CHANT_013-bkkpn8}
+  - {type: variant, offset: 39, length: 8, content: 吾有寶劍五請以示, SBCK: 春春不生遂者故天不重為春春者夏}
+  - {type: variant, offset: 39, length: 8, content: 吾有寶劍五請以示, WYG: 春春不生遂者故天不重為春春者夏}
+  - {type: variant, offset: 39, length: 8, content: 吾有寶劍五請以示, krp: 春春不生遂者故天不重為春春者夏}
+  - {type: punctuation, offset: 44, content: ，, id: KR2i0002_CHANT_013-bkkpn9}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR2i0002_CHANT_013-1a.10}
+  - {type: punctuation, offset: 48, content: 。, id: KR2i0002_CHANT_013-bkkpn10}
+  - {type: punctuation, offset: 48, content: 」, id: KR2i0002_CHANT_013-bkkpn11}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2i0002_CHANT_013-1a.11}
+  - {type: variant, offset: 48, length: 6, content: 薛燭對曰愚理, SBCK: 父也故春生之夏長之秋成而殺之冬受而藏之春肅而}
+  - {type: variant, offset: 48, length: 6, content: 薛燭對曰愚理, WYG: 父也故春生之夏長之秋成而殺之冬受而藏之春肅而}
+  - {type: variant, offset: 48, length: 6, content: 薛燭對曰愚理, krp: 父也故春生之夏長之秋成而殺之冬受而藏之春肅而}
+  - {type: punctuation, offset: 52, content: ：, id: KR2i0002_CHANT_013-bkkpn12}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR2i0002_CHANT_013-1a.12}
+  - {type: punctuation, offset: 52, content: 「, id: KR2i0002_CHANT_013-bkkpn13}
+  - {type: variant, offset: 55, length: 12, content: 足以言大王請不得已乃召掌, SBCK: 生}
+  - {type: variant, offset: 55, length: 12, content: 足以言大王請不得已乃召掌, WYG: 生}
+  - {type: variant, offset: 55, length: 12, content: 足以言大王請不得已乃召掌, krp: 生}
+  - {type: punctuation, offset: 58, content: ，, id: KR2i0002_CHANT_013-bkkpn14}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR2i0002_CHANT_013-1a.13}
+  - {type: punctuation, offset: 61, content: ，, id: KR2i0002_CHANT_013-bkkpn15}
+  - {type: 'tls:seg', offset: 61, content: '', id: KR2i0002_CHANT_013-1a.14}
+  - {type: punctuation, offset: 64, content: 。, id: KR2i0002_CHANT_013-bkkpn16}
+  - {type: punctuation, offset: 64, content: 」, id: KR2i0002_CHANT_013-bkkpn17}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR2i0002_CHANT_013-1a.15}
+  - {type: punctuation, offset: 68, content: ，, id: KR2i0002_CHANT_013-bkkpn18}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR2i0002_CHANT_013-1a.16}
+  - {type: variant, offset: 69, length: 13, content: 使取毫曹薛燭對曰豪曹非寶劍, SBCK: 德不究}
+  - {type: variant, offset: 69, length: 13, content: 使取毫曹薛燭對曰豪曹非寶劍, WYG: 德不究}
+  - {type: variant, offset: 69, length: 13, content: 使取毫曹薛燭對曰豪曹非寶劍, krp: 德不究}
+  - {type: punctuation, offset: 73, content: 。, id: KR2i0002_CHANT_013-bkkpn19}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR2i0002_CHANT_013-1a.17}
+  - {type: punctuation, offset: 77, content: ：, id: KR2i0002_CHANT_013-bkkpn20}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR2i0002_CHANT_013-1a.18}
+  - {type: punctuation, offset: 77, content: 「, id: KR2i0002_CHANT_013-bkkpn21}
+  - {type: punctuation, offset: 79, content: 、, id: KR2i0002_CHANT_013-bkkpn22}
+  - {type: punctuation, offset: 83, content: 。, id: KR2i0002_CHANT_013-bkkpn23}
+  - {type: 'tls:seg', offset: 83, content: '', id: KR2i0002_CHANT_013-1a.19}
+  - {type: variant, offset: 83, length: 40, content: 夫寶劍五色並見莫能相勝豪曹已擅名矣非寶劍也王曰取巨闕薛燭曰非寶劍也寶劍者金錫和銅, SBCK: 夏寒}
+  - {type: page-break, offset: 83, content: '', id: KR2i0002_SBCK_013-5a}
+  - {type: variant, offset: 83, length: 40, content: 夫寶劍五色並見莫能相勝豪曹已擅名矣非寶劍也王曰取巨闕薛燭曰非寶劍也寶劍者金錫和銅, WYG: 夏寒}
+  - {type: variant, offset: 83, length: 40, content: 夫寶劍五色並見莫能相勝豪曹已擅名矣非寶劍也王曰取巨闕薛燭曰非寶劍也寶劍者金錫和銅, krp: 夏寒}
+  - {type: punctuation, offset: 86, content: ，, id: KR2i0002_CHANT_013-bkkpn24}
+  - {type: 'tls:seg', offset: 86, content: '', id: KR2i0002_CHANT_013-1a.20}
+  - {type: punctuation, offset: 90, content: ，, id: KR2i0002_CHANT_013-bkkpn25}
+  - {type: 'tls:seg', offset: 90, content: '', id: KR2i0002_CHANT_013-1a.21}
+  - {type: punctuation, offset: 94, content: 。, id: KR2i0002_CHANT_013-bkkpn26}
+  - {type: 'tls:seg', offset: 94, content: '', id: KR2i0002_CHANT_013-1a.22}
+  - {type: punctuation, offset: 100, content: ，, id: KR2i0002_CHANT_013-bkkpn27}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR2i0002_CHANT_013-1a.23}
+  - {type: punctuation, offset: 104, content: 。, id: KR2i0002_CHANT_013-bkkpn28}
+  - {type: punctuation, offset: 104, content: 」, id: KR2i0002_CHANT_013-bkkpn29}
+  - {type: 'tls:seg', offset: 104, content: '', id: KR2i0002_CHANT_013-1a.24}
+  - {type: punctuation, offset: 106, content: ：, id: KR2i0002_CHANT_013-bkkpn30}
+  - {type: 'tls:seg', offset: 106, content: '', id: KR2i0002_CHANT_013-1a.25}
+  - {type: punctuation, offset: 106, content: 「, id: KR2i0002_CHANT_013-bkkpn31}
+  - {type: punctuation, offset: 109, content: 。, id: KR2i0002_CHANT_013-bkkpn32}
+  - {type: punctuation, offset: 109, content: 」, id: KR2i0002_CHANT_013-bkkpn33}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR2i0002_CHANT_013-1a.26}
+  - {type: punctuation, offset: 112, content: ：, id: KR2i0002_CHANT_013-bkkpn34}
+  - {type: 'tls:seg', offset: 112, content: '', id: KR2i0002_CHANT_013-1a.27}
+  - {type: punctuation, offset: 112, content: 「, id: KR2i0002_CHANT_013-bkkpn35}
+  - {type: punctuation, offset: 116, content: 。, id: KR2i0002_CHANT_013-bkkpn36}
+  - {type: 'tls:seg', offset: 116, content: '', id: KR2i0002_CHANT_013-1a.28}
+  - {type: punctuation, offset: 119, content: ，, id: KR2i0002_CHANT_013-bkkpn37}
+  - {type: 'tls:seg', offset: 119, content: '', id: KR2i0002_CHANT_013-1a.29}
+  - {type: variant, offset: 125, length: 10, content: 離今巨闕已離矣非寶劍, SBCK: 長者臣下不奉主命}
+  - {type: variant, offset: 125, length: 10, content: 離今巨闕已離矣非寶劍, WYG: 長者臣下不奉主命}
+  - {type: variant, offset: 125, length: 10, content: 離今巨闕已離矣非寶劍, krp: 長者臣下不奉主命}
+  - {type: punctuation, offset: 126, content: 。, id: KR2i0002_CHANT_013-bkkpn38}
+  - {type: 'tls:seg', offset: 126, content: '', id: KR2i0002_CHANT_013-1a.30}
+  - {type: punctuation, offset: 132, content: ，, id: KR2i0002_CHANT_013-bkkpn39}
+  - {type: 'tls:seg', offset: 132, content: '', id: KR2i0002_CHANT_013-1a.31}
+  - {type: punctuation, offset: 136, content: 。, id: KR2i0002_CHANT_013-bkkpn40}
+  - {type: punctuation, offset: 136, content: 」, id: KR2i0002_CHANT_013-bkkpn41}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR2i0002_CHANT_013-1a.32}
+  - {type: variant, offset: 136, length: 23, content: 王曰然巨闕初成之時吾坐於露壇之上宮人有四駕白鹿, SBCK: 秋順}
+  - {type: variant, offset: 136, length: 23, content: 王曰然巨闕初成之時吾坐於露壇之上宮人有四駕白鹿, WYG: 秋順}
+  - {type: variant, offset: 136, length: 23, content: 王曰然巨闕初成之時吾坐於露壇之上宮人有四駕白鹿, krp: 秋順}
+  - {type: punctuation, offset: 138, content: ：, id: KR2i0002_CHANT_013-bkkpn42}
+  - {type: 'tls:seg', offset: 138, content: '', id: KR2i0002_CHANT_013-1a.33}
+  - {type: punctuation, offset: 138, content: 「, id: KR2i0002_CHANT_013-bkkpn43}
+  - {type: punctuation, offset: 139, content: 。, id: KR2i0002_CHANT_013-bkkpn44}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR2i0002_CHANT_013-1a.34}
+  - {type: punctuation, offset: 145, content: ，, id: KR2i0002_CHANT_013-bkkpn45}
+  - {type: 'tls:seg', offset: 145, content: '', id: KR2i0002_CHANT_013-1a.35}
+  - {type: punctuation, offset: 152, content: ，, id: KR2i0002_CHANT_013-bkkpn46}
+  - {type: 'tls:seg', offset: 152, content: '', id: KR2i0002_CHANT_013-1a.36}
+  - {type: variant, offset: 160, length: 1, content: 過, SBCK: 復榮}
+  - {type: variant, offset: 160, length: 1, content: 過, WYG: 復榮}
+  - {type: variant, offset: 160, length: 1, content: 過, krp: 復榮}
+  - {type: punctuation, offset: 162, content: ，, id: KR2i0002_CHANT_013-bkkpn47}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR2i0002_CHANT_013-1a.37}
+  - {type: variant, offset: 162, length: 7, content: 車奔馬驚吾引劍, SBCK: 百官刑不斷也冬温}
+  - {type: variant, offset: 162, length: 7, content: 車奔馬驚吾引劍, WYG: 百官刑不斷也冬温}
+  - {type: variant, offset: 162, length: 7, content: 車奔馬驚吾引劍, krp: 百官刑不斷也冬温}
+  - {type: punctuation, offset: 166, content: ，, id: KR2i0002_CHANT_013-bkkpn48}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR2i0002_CHANT_013-1a.38}
+  - {type: variant, offset: 170, length: 11, content: 指之四駕上飛揚不知其絕, SBCK: 泄者發府庫賞無功}
+  - {type: variant, offset: 170, length: 11, content: 指之四駕上飛揚不知其絕, WYG: 泄者發府庫賞無功}
+  - {type: variant, offset: 170, length: 11, content: 指之四駕上飛揚不知其絕, krp: 泄者發府庫賞無功}
+  - {type: punctuation, offset: 172, content: ，, id: KR2i0002_CHANT_013-bkkpn49}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR2i0002_CHANT_013-1a.39}
+  - {type: punctuation, offset: 177, content: ，, id: KR2i0002_CHANT_013-bkkpn50}
+  - {type: 'tls:seg', offset: 177, content: '', id: KR2i0002_CHANT_013-1a.40}
+  - {type: substitution, offset: 180, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 182, content: 。, id: KR2i0002_CHANT_013-bkkpn51}
+  - {type: 'tls:seg', offset: 182, content: '', id: KR2i0002_CHANT_013-1a.41}
+  - {type: variant, offset: 182, length: 95, content: 穿銅釜絕鐵䥶胥中決如粢米故曰巨闕王取純鈞薛燭聞之忽如敗有頃懼如悟下階而深惟簡衣而坐望之手振拂揚其華捽如芙蓉始出觀其釽爛爛如列星之行觀其光渾渾如水之將溢於溏觀其斷巖巖如瑣石觀其文煥煥如冰之將釋, SBCK: ''}
+  - {type: variant, offset: 182, length: 95, content: 穿銅釜絕鐵䥶胥中決如粢米故曰巨闕王取純鈞薛燭聞之忽如敗有頃懼如悟下階而深惟簡衣而坐望之手振拂揚其華捽如芙蓉始出觀其釽爛爛如列星之行觀其光渾渾如水之將溢於溏觀其斷巖巖如瑣石觀其文煥煥如冰之將釋, WYG: ''}
+  - {type: variant, offset: 182, length: 95, content: 穿銅釜絕鐵䥶胥中決如粢米故曰巨闕王取純鈞薛燭聞之忽如敗有頃懼如悟下階而深惟簡衣而坐望之手振拂揚其華捽如芙蓉始出觀其釽爛爛如列星之行觀其光渾渾如水之將溢於溏觀其斷巖巖如瑣石觀其文煥煥如冰之將釋, krp: ''}
+  - {type: punctuation, offset: 185, content: ，, id: KR2i0002_CHANT_013-bkkpn52}
+  - {type: 'tls:seg', offset: 185, content: '', id: KR2i0002_CHANT_013-1a.42}
+  - {type: substitution, offset: 185, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 188, content: ，, id: KR2i0002_CHANT_013-bkkpn53}
+  - {type: 'tls:seg', offset: 188, content: '', id: KR2i0002_CHANT_013-1a.43}
+  - {type: punctuation, offset: 194, content: ，, id: KR2i0002_CHANT_013-bkkpn54}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR2i0002_CHANT_013-1a.44}
+  - {type: punctuation, offset: 198, content: 。, id: KR2i0002_CHANT_013-bkkpn55}
+  - {type: punctuation, offset: 198, content: 」, id: KR2i0002_CHANT_013-bkkpn56}
+  - {type: 'tls:seg', offset: 198, content: '', id: KR2i0002_CHANT_013-1a.45}
+  - {type: punctuation, offset: 202, content: ，, id: KR2i0002_CHANT_013-bkkpn57}
+  - {type: 'tls:seg', offset: 202, content: '', id: KR2i0002_CHANT_013-1a.46}
+  - {type: punctuation, offset: 206, content: ，, id: KR2i0002_CHANT_013-bkkpn58}
+  - {type: 'tls:seg', offset: 206, content: '', id: KR2i0002_CHANT_013-1a.47}
+  - {type: punctuation, offset: 209, content: 。, id: KR2i0002_CHANT_013-bkkpn59}
+  - {type: 'tls:seg', offset: 209, content: '', id: KR2i0002_CHANT_013-1a.48}
+  - {type: punctuation, offset: 211, content: ，, id: KR2i0002_CHANT_013-bkkpn60}
+  - {type: 'tls:seg', offset: 211, content: '', id: KR2i0002_CHANT_013-1a.49}
+  - {type: punctuation, offset: 214, content: ，, id: KR2i0002_CHANT_013-bkkpn61}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR2i0002_CHANT_013-1a.50}
+  - {type: punctuation, offset: 219, content: ，, id: KR2i0002_CHANT_013-bkkpn62}
+  - {type: 'tls:seg', offset: 219, content: '', id: KR2i0002_CHANT_013-1a.51}
+  - {type: punctuation, offset: 225, content: 。, id: KR2i0002_CHANT_013-bkkpn63}
+  - {type: 'tls:seg', offset: 225, content: '', id: KR2i0002_CHANT_013-1a.52}
+  - {type: punctuation, offset: 229, content: ，, id: KR2i0002_CHANT_013-bkkpn64}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR2i0002_CHANT_013-1a.53}
+  - {type: punctuation, offset: 237, content: 。, id: KR2i0002_CHANT_013-bkkpn65}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR2i0002_CHANT_013-1a.54}
+  - {type: punctuation, offset: 240, content: ，, id: KR2i0002_CHANT_013-bkkpn66}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR2i0002_CHANT_013-1a.55}
+  - {type: punctuation, offset: 247, content: ；, id: KR2i0002_CHANT_013-bkkpn67}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR2i0002_CHANT_013-1a.56}
+  - {type: punctuation, offset: 250, content: ，, id: KR2i0002_CHANT_013-bkkpn68}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR2i0002_CHANT_013-1a.57}
+  - {type: punctuation, offset: 259, content: ；, id: KR2i0002_CHANT_013-bkkpn69}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR2i0002_CHANT_013-1a.58}
+  - {type: punctuation, offset: 262, content: ，, id: KR2i0002_CHANT_013-bkkpn70}
+  - {type: 'tls:seg', offset: 262, content: '', id: KR2i0002_CHANT_013-1a.59}
+  - {type: punctuation, offset: 267, content: ；, id: KR2i0002_CHANT_013-bkkpn71}
+  - {type: 'tls:seg', offset: 267, content: '', id: KR2i0002_CHANT_013-1a.60}
+  - {type: punctuation, offset: 270, content: ，, id: KR2i0002_CHANT_013-bkkpn72}
+  - {type: 'tls:seg', offset: 270, content: '', id: KR2i0002_CHANT_013-1a.61}
+  - {type: punctuation, offset: 277, content: 。, id: KR2i0002_CHANT_013-bkkpn73}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR2i0002_CHANT_013-1a.62}
+  - {type: punctuation, offset: 277, content: 「, id: KR2i0002_CHANT_013-bkkpn74}
+  - {type: page-break, offset: 278, content: '', id: KR2i0002_WYG_013-4b, image: WYG0463/WYG0463-0120d.png}
+  - {type: variant, offset: 280, length: 3, content: 純鈞耶, SBCK: 四時者邦之禁也越}
+  - {type: variant, offset: 280, length: 3, content: 純鈞耶, WYG: 四時者邦之禁也越}
+  - {type: variant, offset: 280, length: 3, content: 純鈞耶, krp: 四時者邦之禁也越}
+  - {type: punctuation, offset: 283, content: ？, id: KR2i0002_CHANT_013-bkkpn75}
+  - {type: punctuation, offset: 283, content: 」, id: KR2i0002_CHANT_013-bkkpn76}
+  - {type: 'tls:seg', offset: 283, content: '', id: KR2i0002_CHANT_013-1a.63}
+  - {type: punctuation, offset: 285, content: ：, id: KR2i0002_CHANT_013-bkkpn77}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR2i0002_CHANT_013-1a.64}
+  - {type: punctuation, offset: 285, content: 「, id: KR2i0002_CHANT_013-bkkpn78}
+  - {type: variant, offset: 285, length: 1, content: 是, SBCK: 寒暑不時治在於人可知}
+  - {type: variant, offset: 285, length: 1, content: 是, WYG: 寒暑不時治在於人可知}
+  - {type: variant, offset: 285, length: 1, content: 是, krp: 寒暑不時治在於人可知}
+  - {type: punctuation, offset: 287, content: 。, id: KR2i0002_CHANT_013-bkkpn79}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR2i0002_CHANT_013-1a.65}
+  - {type: variant, offset: 287, length: 1, content: 客, SBCK: 願聞嵗之美惡榖之貴賤何以紀之范子曰夫隂陽錯繆卽為惡歲人生失治卽為亂世夫一亂一治天道自然八榖亦一賤一貴極而復反言亂三千歲必}
+  - {type: variant, offset: 287, length: 1, content: 客, WYG: 願聞嵗之美惡榖之貴賤何以紀之范子曰夫隂陽錯繆即為惡嵗人生失治即為亂世夫一亂一治天道自然八榖亦一賤一貴極而復反言亂三千嵗必}
+  - {type: variant, offset: 287, length: 1, content: 客, krp: 願聞嵗之美惡榖之貴賤何以紀之范子曰夫隂陽錯繆卽為惡歲人生失治卽為亂世夫一亂一治天道自然八榖亦一賤一貴極而復反言亂三千歲必}
+  - {type: variant, offset: 289, length: 2, content: 直之, SBCK: 聖王也八榖貴賤更相勝故死凌生}
+  - {type: variant, offset: 289, length: 2, content: 直之, WYG: 聖王也八榖貴賤更相勝故死凌生}
+  - {type: variant, offset: 289, length: 2, content: 直之, krp: 聖王也八榖貴賤更相勝故死凌生}
+  - {type: page-break, offset: 291, content: '', id: KR2i0002_SBCK_013-5b}
+  - {type: punctuation, offset: 292, content: ，, id: KR2i0002_CHANT_013-bkkpn80}
+  - {type: 'tls:seg', offset: 292, content: '', id: KR2i0002_CHANT_013-1a.66}
+  - {type: variant, offset: 292, length: 19, content: 有市之鄉三駿馬千疋千戶之都二可乎薛燭對, SBCK: 逆大貴生凌死者順大賤越王}
+  - {type: variant, offset: 292, length: 19, content: 有市之鄉三駿馬千疋千戶之都二可乎薛燭對, WYG: 逆大貴生凌死者順大賤越王}
+  - {type: variant, offset: 292, length: 19, content: 有市之鄉三駿馬千疋千戶之都二可乎薛燭對, krp: 逆大貴生凌死者順大賤越王}
+  - {type: punctuation, offset: 297, content: 、, id: KR2i0002_CHANT_013-bkkpn81}
+  - {type: substitution, offset: 300, original: 疋, replacement: 匹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0036}}
+  - {type: punctuation, offset: 301, content: 、, id: KR2i0002_CHANT_013-bkkpn82}
+  - {type: punctuation, offset: 306, content: ，, id: KR2i0002_CHANT_013-bkkpn83}
+  - {type: 'tls:seg', offset: 306, content: '', id: KR2i0002_CHANT_013-1a.67}
+  - {type: punctuation, offset: 308, content: ？, id: KR2i0002_CHANT_013-bkkpn84}
+  - {type: punctuation, offset: 308, content: 」, id: KR2i0002_CHANT_013-bkkpn85}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR2i0002_CHANT_013-1a.68}
+  - {type: punctuation, offset: 312, content: ：, id: KR2i0002_CHANT_013-bkkpn86}
+  - {type: 'tls:seg', offset: 312, content: '', id: KR2i0002_CHANT_013-1a.69}
+  - {type: punctuation, offset: 312, content: 「, id: KR2i0002_CHANT_013-bkkpn87}
+  - {type: variant, offset: 312, length: 89, content: 不可當造此劍之時赤堇之山破而出錫若耶之溪涸而出銅雨師掃灑雷公擊橐蛟龍捧鑪天帝裝炭太一下觀天精下之歐冶乃因天之精神悉其伎巧造為大刑三小刑二一曰湛盧二曰純鈞三曰勝邪四曰魚腸五曰巨闕吳, SBCK: 善越}
+  - {type: variant, offset: 312, length: 89, content: 不可當造此劍之時赤堇之山破而出錫若耶之溪涸而出銅雨師掃灑雷公擊橐蛟龍捧鑪天帝裝炭太一下觀天精下之歐冶乃因天之精神悉其伎巧造為大刑三小刑二一曰湛盧二曰純鈞三曰勝邪四曰魚腸五曰巨闕吳, WYG: 善越}
+  - {type: variant, offset: 312, length: 89, content: 不可當造此劍之時赤堇之山破而出錫若耶之溪涸而出銅雨師掃灑雷公擊橐蛟龍捧鑪天帝裝炭太一下觀天精下之歐冶乃因天之精神悉其伎巧造為大刑三小刑二一曰湛盧二曰純鈞三曰勝邪四曰魚腸五曰巨闕吳, krp: 善越}
+  - {type: punctuation, offset: 314, content: 。, id: KR2i0002_CHANT_013-bkkpn88}
+  - {type: 'tls:seg', offset: 314, content: '', id: KR2i0002_CHANT_013-1a.70}
+  - {type: punctuation, offset: 320, content: ，, id: KR2i0002_CHANT_013-bkkpn89}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR2i0002_CHANT_013-1a.71}
+  - {type: punctuation, offset: 324, content: ，, id: KR2i0002_CHANT_013-bkkpn90}
+  - {type: 'tls:seg', offset: 324, content: '', id: KR2i0002_CHANT_013-1a.72}
+  - {type: punctuation, offset: 328, content: ；, id: KR2i0002_CHANT_013-bkkpn91}
+  - {type: 'tls:seg', offset: 328, content: '', id: KR2i0002_CHANT_013-1a.73}
+  - {type: punctuation, offset: 332, content: ，, id: KR2i0002_CHANT_013-bkkpn92}
+  - {type: 'tls:seg', offset: 332, content: '', id: KR2i0002_CHANT_013-1a.74}
+  - {type: punctuation, offset: 336, content: ；, id: KR2i0002_CHANT_013-bkkpn93}
+  - {type: 'tls:seg', offset: 336, content: '', id: KR2i0002_CHANT_013-1a.75}
+  - {type: punctuation, offset: 340, content: ，, id: KR2i0002_CHANT_013-bkkpn94}
+  - {type: 'tls:seg', offset: 340, content: '', id: KR2i0002_CHANT_013-1a.76}
+  - {type: punctuation, offset: 344, content: ；, id: KR2i0002_CHANT_013-bkkpn95}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR2i0002_CHANT_013-1a.77}
+  - {type: substitution, offset: 347, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0592}}
+  - {type: punctuation, offset: 348, content: ，, id: KR2i0002_CHANT_013-bkkpn96}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR2i0002_CHANT_013-1a.78}
+  - {type: punctuation, offset: 352, content: ；, id: KR2i0002_CHANT_013-bkkpn97}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR2i0002_CHANT_013-1a.79}
+  - {type: punctuation, offset: 356, content: ，, id: KR2i0002_CHANT_013-bkkpn98}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR2i0002_CHANT_013-1a.80}
+  - {type: punctuation, offset: 360, content: 。, id: KR2i0002_CHANT_013-bkkpn99}
+  - {type: 'tls:seg', offset: 360, content: '', id: KR2i0002_CHANT_013-1a.81}
+  - {type: punctuation, offset: 368, content: ，, id: KR2i0002_CHANT_013-bkkpn100}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR2i0002_CHANT_013-1a.82}
+  - {type: punctuation, offset: 372, content: ，, id: KR2i0002_CHANT_013-bkkpn101}
+  - {type: 'tls:seg', offset: 372, content: '', id: KR2i0002_CHANT_013-1a.83}
+  - {type: punctuation, offset: 377, content: 、, id: KR2i0002_CHANT_013-bkkpn102}
+  - {type: punctuation, offset: 380, content: ：, id: KR2i0002_CHANT_013-bkkpn103}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR2i0002_CHANT_013-1a.84}
+  - {type: punctuation, offset: 384, content: ；, id: KR2i0002_CHANT_013-bkkpn104}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR2i0002_CHANT_013-1a.85}
+  - {type: punctuation, offset: 388, content: ；, id: KR2i0002_CHANT_013-bkkpn105}
+  - {type: 'tls:seg', offset: 388, content: '', id: KR2i0002_CHANT_013-1a.86}
+  - {type: punctuation, offset: 392, content: ；, id: KR2i0002_CHANT_013-bkkpn106}
+  - {type: 'tls:seg', offset: 392, content: '', id: KR2i0002_CHANT_013-1a.87}
+  - {type: punctuation, offset: 396, content: ；, id: KR2i0002_CHANT_013-bkkpn107}
+  - {type: 'tls:seg', offset: 396, content: '', id: KR2i0002_CHANT_013-1a.88}
+  - {type: punctuation, offset: 400, content: 。, id: KR2i0002_CHANT_013-bkkpn108}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR2i0002_CHANT_013-1a.89}
+  - {type: variant, offset: 402, length: 16, content: 闔廬之時得其勝邪魚腸湛盧闔廬無道, SBCK: 間於范}
+  - {type: variant, offset: 402, length: 16, content: 闔廬之時得其勝邪魚腸湛盧闔廬無道, WYG: 問於范}
+  - {type: variant, offset: 402, length: 16, content: 闔廬之時得其勝邪魚腸湛盧闔廬無道, krp: 間於范}
+  - {type: punctuation, offset: 406, content: ，, id: KR2i0002_CHANT_013-bkkpn109}
+  - {type: 'tls:seg', offset: 406, content: '', id: KR2i0002_CHANT_013-1a.90}
+  - {type: punctuation, offset: 410, content: 、, id: KR2i0002_CHANT_013-bkkpn110}
+  - {type: punctuation, offset: 412, content: 、, id: KR2i0002_CHANT_013-bkkpn111}
+  - {type: punctuation, offset: 414, content: 。, id: KR2i0002_CHANT_013-bkkpn112}
+  - {type: 'tls:seg', offset: 414, content: '', id: KR2i0002_CHANT_013-1a.91}
+  - {type: punctuation, offset: 418, content: ，, id: KR2i0002_CHANT_013-bkkpn113}
+  - {type: 'tls:seg', offset: 418, content: '', id: KR2i0002_CHANT_013-1a.92}
+  - {type: variant, offset: 419, length: 189, content: 女死殺生以送之湛盧之劍去之如水行秦過楚楚王臥而窹得吳王湛盧之劍將首魁漂而存焉秦王聞而求之不得興師擊楚曰與我湛盧之劍還師去汝楚王不與時闔廬又以魚腸之劍刺吳王僚使披腸夷之甲三事闔廬使專諸為奏炙魚者引劍而刺之遂弒王僚此其小試於敵邦未見其大用於天下也今赤堇之山已合若耶之溪深而不測群神不下歐冶子即死雖復傾城量金珠玉竭河猶不能得此一物有市之鄉三駿馬千疋千戶之都二何足言哉楚王召風胡子而問之, SBCK: ''}
+  - {type: variant, offset: 419, length: 189, content: 女死殺生以送之湛盧之劍去之如水行秦過楚楚王臥而窹得吳王湛盧之劍將首魁漂而存焉秦王聞而求之不得興師擊楚曰與我湛盧之劍還師去汝楚王不與時闔廬又以魚腸之劍刺吳王僚使披腸夷之甲三事闔廬使專諸為奏炙魚者引劍而刺之遂弒王僚此其小試於敵邦未見其大用於天下也今赤堇之山已合若耶之溪深而不測群神不下歐冶子即死雖復傾城量金珠玉竭河猶不能得此一物有市之鄉三駿馬千疋千戶之都二何足言哉楚王召風胡子而問之, WYG: ''}
+  - {type: variant, offset: 419, length: 189, content: 女死殺生以送之湛盧之劍去之如水行秦過楚楚王臥而窹得吳王湛盧之劍將首魁漂而存焉秦王聞而求之不得興師擊楚曰與我湛盧之劍還師去汝楚王不與時闔廬又以魚腸之劍刺吳王僚使披腸夷之甲三事闔廬使專諸為奏炙魚者引劍而刺之遂弒王僚此其小試於敵邦未見其大用於天下也今赤堇之山已合若耶之溪深而不測群神不下歐冶子即死雖復傾城量金珠玉竭河猶不能得此一物有市之鄉三駿馬千疋千戶之都二何足言哉楚王召風胡子而問之, krp: ''}
+  - {type: punctuation, offset: 421, content: ，, id: KR2i0002_CHANT_013-bkkpn114}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR2i0002_CHANT_013-1a.93}
+  - {type: punctuation, offset: 426, content: ，, id: KR2i0002_CHANT_013-bkkpn115}
+  - {type: 'tls:seg', offset: 426, content: '', id: KR2i0002_CHANT_013-1a.94}
+  - {type: punctuation, offset: 430, content: ，, id: KR2i0002_CHANT_013-bkkpn116}
+  - {type: 'tls:seg', offset: 430, content: '', id: KR2i0002_CHANT_013-1a.95}
+  - {type: punctuation, offset: 434, content: 。, id: KR2i0002_CHANT_013-bkkpn117}
+  - {type: 'tls:seg', offset: 434, content: '', id: KR2i0002_CHANT_013-1a.96}
+  - {type: punctuation, offset: 438, content: ，, id: KR2i0002_CHANT_013-bkkpn118}
+  - {type: 'tls:seg', offset: 438, content: '', id: KR2i0002_CHANT_013-1a.97}
+  - {type: punctuation, offset: 443, content: ，, id: KR2i0002_CHANT_013-bkkpn119}
+  - {type: 'tls:seg', offset: 443, content: '', id: KR2i0002_CHANT_013-1a.98}
+  - {type: punctuation, offset: 450, content: ，, id: KR2i0002_CHANT_013-bkkpn120}
+  - {type: 'tls:seg', offset: 450, content: '', id: KR2i0002_CHANT_013-1a.99}
+  - {type: punctuation, offset: 457, content: 。, id: KR2i0002_CHANT_013-bkkpn121}
+  - {type: 'tls:seg', offset: 457, content: '', id: KR2i0002_CHANT_013-1a.100}
+  - {type: punctuation, offset: 463, content: ，, id: KR2i0002_CHANT_013-bkkpn122}
+  - {type: 'tls:seg', offset: 463, content: '', id: KR2i0002_CHANT_013-1a.101}
+  - {type: punctuation, offset: 465, content: ，, id: KR2i0002_CHANT_013-bkkpn123}
+  - {type: 'tls:seg', offset: 465, content: '', id: KR2i0002_CHANT_013-1a.102}
+  - {type: punctuation, offset: 469, content: ，, id: KR2i0002_CHANT_013-bkkpn124}
+  - {type: 'tls:seg', offset: 469, content: '', id: KR2i0002_CHANT_013-1a.103}
+  - {type: punctuation, offset: 470, content: ：, id: KR2i0002_CHANT_013-bkkpn125}
+  - {type: 'tls:seg', offset: 470, content: '', id: KR2i0002_CHANT_013-1a.104}
+  - {type: punctuation, offset: 470, content: 『, id: KR2i0002_CHANT_013-bkkpn126}
+  - {type: punctuation, offset: 476, content: ，, id: KR2i0002_CHANT_013-bkkpn127}
+  - {type: 'tls:seg', offset: 476, content: '', id: KR2i0002_CHANT_013-1a.105}
+  - {type: punctuation, offset: 480, content: 。, id: KR2i0002_CHANT_013-bkkpn128}
+  - {type: punctuation, offset: 480, content: 』, id: KR2i0002_CHANT_013-bkkpn129}
+  - {type: 'tls:seg', offset: 480, content: '', id: KR2i0002_CHANT_013-1a.106}
+  - {type: punctuation, offset: 484, content: 。, id: KR2i0002_CHANT_013-bkkpn130}
+  - {type: 'tls:seg', offset: 484, content: '', id: KR2i0002_CHANT_013-1a.107}
+  - {type: punctuation, offset: 497, content: ，, id: KR2i0002_CHANT_013-bkkpn131}
+  - {type: 'tls:seg', offset: 497, content: '', id: KR2i0002_CHANT_013-1a.108}
+  - {type: punctuation, offset: 505, content: 。, id: KR2i0002_CHANT_013-bkkpn132}
+  - {type: 'tls:seg', offset: 505, content: '', id: KR2i0002_CHANT_013-1a.109}
+  - {type: punctuation, offset: 515, content: ，, id: KR2i0002_CHANT_013-bkkpn133}
+  - {type: 'tls:seg', offset: 515, content: '', id: KR2i0002_CHANT_013-1a.110}
+  - {type: punctuation, offset: 520, content: ，, id: KR2i0002_CHANT_013-bkkpn134}
+  - {type: 'tls:seg', offset: 520, content: '', id: KR2i0002_CHANT_013-1a.111}
+  - {type: punctuation, offset: 524, content: 。, id: KR2i0002_CHANT_013-bkkpn135}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR2i0002_CHANT_013-1a.112}
+  - {type: punctuation, offset: 531, content: ，, id: KR2i0002_CHANT_013-bkkpn136}
+  - {type: 'tls:seg', offset: 531, content: '', id: KR2i0002_CHANT_013-1a.113}
+  - {type: punctuation, offset: 540, content: 。, id: KR2i0002_CHANT_013-bkkpn137}
+  - {type: 'tls:seg', offset: 540, content: '', id: KR2i0002_CHANT_013-1a.114}
+  - {type: punctuation, offset: 547, content: ，, id: KR2i0002_CHANT_013-bkkpn138}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR2i0002_CHANT_013-1a.115}
+  - {type: punctuation, offset: 555, content: ，, id: KR2i0002_CHANT_013-bkkpn139}
+  - {type: 'tls:seg', offset: 555, content: '', id: KR2i0002_CHANT_013-1a.116}
+  - {type: substitution, offset: 555, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 559, content: ，, id: KR2i0002_CHANT_013-bkkpn140}
+  - {type: 'tls:seg', offset: 559, content: '', id: KR2i0002_CHANT_013-1a.117}
+  - {type: punctuation, offset: 564, content: ，, id: KR2i0002_CHANT_013-bkkpn141}
+  - {type: 'tls:seg', offset: 564, content: '', id: KR2i0002_CHANT_013-1a.118}
+  - {type: punctuation, offset: 570, content: ，, id: KR2i0002_CHANT_013-bkkpn142}
+  - {type: 'tls:seg', offset: 570, content: '', id: KR2i0002_CHANT_013-1a.119}
+  - {type: punctuation, offset: 574, content: ，, id: KR2i0002_CHANT_013-bkkpn143}
+  - {type: 'tls:seg', offset: 574, content: '', id: KR2i0002_CHANT_013-1a.120}
+  - {type: punctuation, offset: 581, content: 。, id: KR2i0002_CHANT_013-bkkpn144}
+  - {type: 'tls:seg', offset: 581, content: '', id: KR2i0002_CHANT_013-1a.121}
+  - {type: punctuation, offset: 586, content: 、, id: KR2i0002_CHANT_013-bkkpn145}
+  - {type: substitution, offset: 589, original: 疋, replacement: 匹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0036}}
+  - {type: punctuation, offset: 590, content: 、, id: KR2i0002_CHANT_013-bkkpn146}
+  - {type: punctuation, offset: 595, content: ，, id: KR2i0002_CHANT_013-bkkpn147}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR2i0002_CHANT_013-1a.122}
+  - {type: punctuation, offset: 599, content: ！, id: KR2i0002_CHANT_013-bkkpn148}
+  - {type: punctuation, offset: 599, content: 」, id: KR2i0002_CHANT_013-bkkpn149}
+  - {type: xml-element, offset: 599, content: '', id: KR2i0002_CHANT_013-bkkxmlele2}
+  - {type: xml-element, offset: 599, content: '', id: KR2i0002_CHANT_013-bkkxmlele3}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR2i0002_CHANT_013-2a.1}
+  - {type: 'tls:seg', offset: 599, content: '', id: KR2i0002_CHANT_013-2a.2}
+  - {type: punctuation, offset: 609, content: ：, id: KR2i0002_CHANT_013-bkkpn150}
+  - {type: 'tls:seg', offset: 609, content: '', id: KR2i0002_CHANT_013-2a.3}
+  - {type: punctuation, offset: 609, content: 「, id: KR2i0002_CHANT_013-bkkpn151}
+  - {type: variant, offset: 612, length: 1, content: 吳, SBCK: 人失其魂魄者死得其魂魄者生物皆}
+  - {type: variant, offset: 612, length: 0, content: '', WYG: 人失其魂魄者死得其魂魄者生物皆有之將人也范子曰人有之萬物亦然天地之間人最為貴物之生穀為貴以生人與魂魄無異可得豫知也越王曰其善惡可得聞乎范子曰欲知八穀之貴賤上下衰極必察其魂魄視其動靜觀其所舎萬不失一問曰何謂魂魄對曰魂者槖也魄者生氣之源也故神生者出入無門上下無根見所而功自存故名之曰神神主生氣之精魂主死氣之舎也魄者主賤魂者主貴故當安靜而不動魂者方盛夏而行故萬物得以自昌神者主氣之精主貴而雲行故方盛夏之時不行則神氣稿而不成物矣故死凌生者嵗大敗生凌死者嵗大美故觀其魂魄即知嵗之善惡矣越王問於范子曰寡人聞陰陽之治不同力而功成不同氣而物生可得而知乎願聞其説范子曰臣聞陰陽氣不同處萬物生焉冬三月之時草木既死萬物各異藏故陽氣避之下藏伏壯於内使陰陽得成功於外夏三月盛暑之時萬物遂長陰氣避之下藏伏壯於内然而萬物親而信之是所謂也陽者主生萬物方夏三月之時大熱不至則萬物不能成陰氣主殺方冬三月之時地不内藏則根荄不成即春無生故一時失度即四序為不行越王曰善寡人已聞陰陽之事榖之貴賤可得而知乎范子曰陽者主貴陰者主賤故當寒而不寒者榖為之暴貴當温而不温者榖為之暴賤譬猶形影聲響相聞豈得不復哉故曰秋冬貴陽氣施於陰陽極而復貴春夏賤陰氣施於陽陽極而不復越王曰善哉以丹書帛置之枕中以為國寶越五日困於}
+  - {type: page-break, offset: 612, content: '', id: KR2i0002_WYG_013-5a, image: WYG0463/WYG0463-0121a.png}
+  - {type: page-break, offset: 612, content: '', id: KR2i0002_WYG_013-5b, image: WYG0463/WYG0463-0121b.png}
+  - {type: page-break, offset: 612, content: '', id: KR2i0002_WYG_013-6a, image: WYG0463/WYG0463-0121c.png}
+  - {type: variant, offset: 612, length: 1, content: 吳, krp: 人失其魂魄者死得其魂魄者生物皆}
+  - {type: variant, offset: 613, length: 3, content: 有干將, WYG: 請於范子曰寡人守國無術負於萬物㡬亡邦危社稷為旁邦所議無定足而立欲捐軀出死以報吳仇為之奈何范子曰臣聞聖主為不可為之行不惡人之謗已為足舉之德不德人之稱已舜循之歴山而天下從風使舜釋其所循而求天下之利則恐不全其身昔者神農之治天下務利之而已矣不望其報不貪天下之財而天下共富之所以其智能自貴於人而天下共尊之故曰富貴者天下所置不可奪也今王利地貪財接兵血刃僵屍流血欲以顯於世不亦謬乎}
+  - {type: page-break, offset: 613, content: '', id: KR2i0002_WYG_013-6b, image: WYG0463/WYG0463-0121d.png}
+  - {type: variant, offset: 614, length: 1, content: 干, SBCK: 之}
+  - {type: variant, offset: 614, length: 1, content: 干, krp: 之}
+  - {type: punctuation, offset: 616, content: ，, id: KR2i0002_CHANT_013-bkkpn152}
+  - {type: 'tls:seg', offset: 616, content: '', id: KR2i0002_CHANT_013-2a.4}
+  - {type: variant, offset: 616, length: 7, content: 越有歐冶子此二, SBCK: ''}
+  - {type: variant, offset: 616, length: 7, content: 越有歐冶子此二, krp: ''}
+  - {type: variant, offset: 617, length: 3, content: 有歐冶, WYG: 王曰上不逮於神農下不及於堯舜今}
+  - {type: page-break, offset: 617, content: '', id: KR2i0002_WYG_013-7a, image: WYG0463/WYG0463-0122a.png}
+  - {type: punctuation, offset: 621, content: ，, id: KR2i0002_CHANT_013-bkkpn153}
+  - {type: 'tls:seg', offset: 621, content: '', id: KR2i0002_CHANT_013-2a.5}
+  - {type: variant, offset: 621, length: 0, content: '', WYG: 以至聖之道以説寡人誠非吾所及也且吾聞之也父辱則子死君辱則臣死今寡人親已辱於吳矣欲行一切之變以復吳仇願子更為寡人圖之范子曰君辱則死固其義也立死下士人而求成邦者上聖之計也且夫廣天下尊萬乗之主使百姓安其居樂其業者唯兵兵之要在於人人之要在於榖故民衆則主安穀多則兵彊王而備}
+  - {type: variant, offset: 623, length: 0, content: '', WYG: 者然後可以圖之也越王曰吾欲富邦彊兵地狹民少奈何為之范子曰夫陽動於上以成天文陰動於下以成地理審察開置之要可以為富凡欲先知天門開及地户閉其術天髙五寸減天寸六分以成地謹司八穀初見出於天者是謂天門開地户閉陽氣不得下入地户故氣轉動而上下陰陽俱絶八穀不成大貴必應其嵗而起此天變見符也謹司八榖初見入於地者是謂地户閉陰陽俱㑹八穀大成其嵗大賤來年大饑此地變見端也謹司八穀初見半於}
+  - {type: page-break, offset: 623, content: '', id: KR2i0002_WYG_013-7b, image: WYG0463/WYG0463-0122b.png}
+  - {type: variant, offset: 624, length: 45, content: 甲世而生天下未嘗有精誠上通天下為烈士寡人願齎邦之重寶皆以奉子因吳王請此二人作為鐵劍可乎風胡, SBCK: 也范}
+  - {type: variant, offset: 624, length: 2, content: 甲世, WYG: 者糴平熟無災害故天倡}
+  - {type: variant, offset: 624, length: 45, content: 甲世而生天下未嘗有精誠上通天下為烈士寡人願齎邦之重寶皆以奉子因吳王請此二人作為鐵劍可乎風胡, krp: 也范}
+  - {type: variant, offset: 627, length: 1, content: 生, WYG: 見符地應而見端聖人上知}
+  - {type: page-break, offset: 627, content: '', id: KR2i0002_WYG_013-8a, image: WYG0463/WYG0463-0122c.png}
+  - {type: punctuation, offset: 628, content: ，, id: KR2i0002_CHANT_013-bkkpn154}
+  - {type: 'tls:seg', offset: 628, content: '', id: KR2i0002_CHANT_013-2a.6}
+  - {type: variant, offset: 630, length: 0, content: '', WYG: 知地中知人此之謂天平地平以此為天圖越王既已勝吳三日反邦}
+  - {type: variant, offset: 631, length: 1, content: 嘗, WYG: 至息自雄問大夫種曰夫聖人之術何以加于此乎大夫種曰不然王得范子之所言故天地之符應邦以藏聖人之心矣然而范子豫見之策未肯為王言者也越王愀然而恐面}
+  - {type: punctuation, offset: 633, content: 。, id: KR2i0002_CHANT_013-bkkpn155}
+  - {type: 'tls:seg', offset: 633, content: '', id: KR2i0002_CHANT_013-2a.7}
+  - {type: variant, offset: 633, length: 9, content: 精誠上通天下為烈士, WYG: 憂色請於范子稱曰}
+  - {type: punctuation, offset: 638, content: ，, id: KR2i0002_CHANT_013-bkkpn156}
+  - {type: 'tls:seg', offset: 638, content: '', id: KR2i0002_CHANT_013-2a.8}
+  - {type: punctuation, offset: 642, content: 。, id: KR2i0002_CHANT_013-bkkpn157}
+  - {type: 'tls:seg', offset: 642, content: '', id: KR2i0002_CHANT_013-2a.9}
+  - {type: variant, offset: 644, length: 2, content: 願齎, WYG: 用夫子之計幸得勝呉盡夫子之力也寡人聞夫子明於陰陽進退豫知未形推往引前後知千嵗可得聞乎寡人虗心垂意聽于下風范子曰夫陰陽進退前後幽㝠未見未形此特殺生之柄而王制于四海此}
+  - {type: page-break, offset: 644, content: '', id: KR2i0002_WYG_013-8b, image: WYG0463/WYG0463-0122d.png}
+  - {type: punctuation, offset: 650, content: ，, id: KR2i0002_CHANT_013-bkkpn158}
+  - {type: 'tls:seg', offset: 650, content: '', id: KR2i0002_CHANT_013-2a.10}
+  - {type: variant, offset: 650, length: 6, content: 皆以奉子因吳, WYG: 也}
+  - {type: punctuation, offset: 654, content: ，, id: KR2i0002_CHANT_013-bkkpn159}
+  - {type: 'tls:seg', offset: 654, content: '', id: KR2i0002_CHANT_013-2a.11}
+  - {type: variant, offset: 657, length: 0, content: '', WYG: 而毋泄此事臣}
+  - {type: variant, offset: 658, length: 4, content: 此二人作, WYG: ''}
+  - {type: variant, offset: 663, length: 16, content: 鐵劍可乎風胡子曰善於是乃令風胡子, WYG: 王言}
+  - {type: punctuation, offset: 665, content: ，, id: KR2i0002_CHANT_013-bkkpn160}
+  - {type: 'tls:seg', offset: 665, content: '', id: KR2i0002_CHANT_013-2a.12}
+  - {type: punctuation, offset: 667, content: ？, id: KR2i0002_CHANT_013-bkkpn161}
+  - {type: punctuation, offset: 667, content: 」, id: KR2i0002_CHANT_013-bkkpn162}
+  - {type: 'tls:seg', offset: 667, content: '', id: KR2i0002_CHANT_013-2a.13}
+  - {type: punctuation, offset: 671, content: ：, id: KR2i0002_CHANT_013-bkkpn163}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR2i0002_CHANT_013-2a.14}
+  - {type: punctuation, offset: 671, content: 「, id: KR2i0002_CHANT_013-bkkpn164}
+  - {type: variant, offset: 671, length: 0, content: '', SBCK: 人有之萬物亦然天地之間人最為貴物之生穀為貴以生人與魂魄無異可得豫知也越王曰其}
+  - {type: variant, offset: 671, length: 0, content: '', krp: 人有之萬物亦然天地之間人最為貴物之生穀為貴以生人與魂魄無異可得豫知也越王曰其}
+  - {type: punctuation, offset: 672, content: 。, id: KR2i0002_CHANT_013-bkkpn165}
+  - {type: punctuation, offset: 672, content: 」, id: KR2i0002_CHANT_013-bkkpn166}
+  - {type: 'tls:seg', offset: 672, content: '', id: KR2i0002_CHANT_013-2a.15}
+  - {type: variant, offset: 672, length: 1, content: 於, SBCK: 惡}
+  - {type: variant, offset: 672, length: 1, content: 於, krp: 惡}
+  - {type: variant, offset: 673, length: 1, content: 是, SBCK: 可}
+  - {type: variant, offset: 673, length: 1, content: 是, krp: 可}
+  - {type: variant, offset: 674, length: 1, content: 乃, SBCK: 得}
+  - {type: variant, offset: 674, length: 1, content: 乃, krp: 得}
+  - {type: variant, offset: 675, length: 1, content: 令, SBCK: 聞}
+  - {type: variant, offset: 675, length: 1, content: 令, krp: 聞}
+  - {type: variant, offset: 676, length: 1, content: 風, SBCK: 乎}
+  - {type: variant, offset: 676, length: 1, content: 風, krp: 乎}
+  - {type: variant, offset: 677, length: 1, content: 胡, SBCK: 范}
+  - {type: variant, offset: 677, length: 1, content: 胡, krp: 范}
+  - {type: variant, offset: 679, length: 0, content: '', SBCK: 曰欲知八穀}
+  - {type: variant, offset: 679, length: 0, content: '', krp: 曰欲知八穀}
+  - {type: variant, offset: 680, length: 22, content: 吳見歐冶子干將使之作為鐵劍歐冶子干將鑿茨山洩, SBCK: 貴賤上下衰極必察}
+  - {type: variant, offset: 680, length: 283, content: 吳見歐冶子干將使之作為鐵劍歐冶子干將鑿茨山洩其溪取鐵英作為鐵劍三枚一曰龍淵二曰泰阿三曰工布畢成風胡子奏之楚王楚王見此三劍之精神大悅見風胡子問之曰此三劍何物所象其名為何風胡子對曰一曰龍淵二曰泰阿三曰工布楚王曰何謂龍淵泰阿工布風胡子對曰欲知龍淵觀其狀如登高山臨深淵欲知泰阿觀其釽巍巍翼翼如流水之波欲知工布觀其釽從文間起至脊而止如珠而不可衽文若流水而不絕晉鄭王聞而求之不得興師圍楚之城三年不解倉穀粟索庫無兵革左右群臣賢士莫能禁止於是楚王聞之引泰阿之劍登城而麾之三軍破敗士卒迷惑流血千里猛獸歐瞻江水折揚晉鄭之頭畢白楚王於是大悅曰此劍威耶寡人力耶風胡子對曰劍之威也因大王之神楚, WYG: 越}
+  - {type: variant, offset: 680, length: 22, content: 吳見歐冶子干將使之作為鐵劍歐冶子干將鑿茨山洩, krp: 貴賤上下衰極必察}
+  - {type: punctuation, offset: 681, content: ，, id: KR2i0002_CHANT_013-bkkpn167}
+  - {type: 'tls:seg', offset: 681, content: '', id: KR2i0002_CHANT_013-2a.16}
+  - {type: punctuation, offset: 685, content: 、, id: KR2i0002_CHANT_013-bkkpn168}
+  - {type: punctuation, offset: 687, content: ，, id: KR2i0002_CHANT_013-bkkpn169}
+  - {type: 'tls:seg', offset: 687, content: '', id: KR2i0002_CHANT_013-2a.17}
+  - {type: punctuation, offset: 693, content: 。, id: KR2i0002_CHANT_013-bkkpn170}
+  - {type: 'tls:seg', offset: 693, content: '', id: KR2i0002_CHANT_013-2a.18}
+  - {type: punctuation, offset: 696, content: 、, id: KR2i0002_CHANT_013-bkkpn171}
+  - {type: punctuation, offset: 701, content: ，, id: KR2i0002_CHANT_013-bkkpn172}
+  - {type: 'tls:seg', offset: 701, content: '', id: KR2i0002_CHANT_013-2a.19}
+  - {type: substitution, offset: 701, original: 洩, replacement: 泄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0596}}
+  - {type: variant, offset: 703, length: 10, content: 溪取鐵英作為鐵劍三枚, SBCK: 魂魄視其動靜觀其所舎萬不失}
+  - {type: variant, offset: 703, length: 10, content: 溪取鐵英作為鐵劍三枚, krp: 魂魄視其動靜觀其所舎萬不失}
+  - {type: punctuation, offset: 704, content: ，, id: KR2i0002_CHANT_013-bkkpn173}
+  - {type: 'tls:seg', offset: 704, content: '', id: KR2i0002_CHANT_013-2a.20}
+  - {type: punctuation, offset: 707, content: ，, id: KR2i0002_CHANT_013-bkkpn174}
+  - {type: 'tls:seg', offset: 707, content: '', id: KR2i0002_CHANT_013-2a.21}
+  - {type: punctuation, offset: 713, content: ：, id: KR2i0002_CHANT_013-bkkpn175}
+  - {type: 'tls:seg', offset: 713, content: '', id: KR2i0002_CHANT_013-2a.22}
+  - {type: variant, offset: 714, length: 35, content: 曰龍淵二曰泰阿三曰工布畢成風胡子奏之楚王楚王見此三劍之精神大悅見風胡子, SBCK: ''}
+  - {type: variant, offset: 714, length: 35, content: 曰龍淵二曰泰阿三曰工布畢成風胡子奏之楚王楚王見此三劍之精神大悅見風胡子, krp: ''}
+  - {type: punctuation, offset: 717, content: ；, id: KR2i0002_CHANT_013-bkkpn176}
+  - {type: 'tls:seg', offset: 717, content: '', id: KR2i0002_CHANT_013-2a.23}
+  - {type: punctuation, offset: 721, content: ；, id: KR2i0002_CHANT_013-bkkpn177}
+  - {type: 'tls:seg', offset: 721, content: '', id: KR2i0002_CHANT_013-2a.24}
+  - {type: punctuation, offset: 725, content: 。, id: KR2i0002_CHANT_013-bkkpn178}
+  - {type: 'tls:seg', offset: 725, content: '', id: KR2i0002_CHANT_013-2a.25}
+  - {type: punctuation, offset: 727, content: ，, id: KR2i0002_CHANT_013-bkkpn179}
+  - {type: 'tls:seg', offset: 727, content: '', id: KR2i0002_CHANT_013-2a.26}
+  - {type: punctuation, offset: 734, content: 。, id: KR2i0002_CHANT_013-bkkpn180}
+  - {type: 'tls:seg', offset: 734, content: '', id: KR2i0002_CHANT_013-2a.27}
+  - {type: punctuation, offset: 743, content: ，, id: KR2i0002_CHANT_013-bkkpn181}
+  - {type: 'tls:seg', offset: 743, content: '', id: KR2i0002_CHANT_013-2a.28}
+  - {type: punctuation, offset: 745, content: ，, id: KR2i0002_CHANT_013-bkkpn182}
+  - {type: 'tls:seg', offset: 745, content: '', id: KR2i0002_CHANT_013-2a.29}
+  - {type: variant, offset: 750, length: 32, content: 之曰此三劍何物所象其名為何風胡子對曰一曰龍淵二曰泰阿三曰工布楚王, SBCK: ''}
+  - {type: variant, offset: 750, length: 32, content: 之曰此三劍何物所象其名為何風胡子對曰一曰龍淵二曰泰阿三曰工布楚王, krp: ''}
+  - {type: punctuation, offset: 752, content: ：, id: KR2i0002_CHANT_013-bkkpn183}
+  - {type: 'tls:seg', offset: 752, content: '', id: KR2i0002_CHANT_013-2a.30}
+  - {type: punctuation, offset: 752, content: 「, id: KR2i0002_CHANT_013-bkkpn184}
+  - {type: punctuation, offset: 759, content: ？, id: KR2i0002_CHANT_013-bkkpn185}
+  - {type: 'tls:seg', offset: 759, content: '', id: KR2i0002_CHANT_013-2a.31}
+  - {type: punctuation, offset: 763, content: ？, id: KR2i0002_CHANT_013-bkkpn186}
+  - {type: punctuation, offset: 763, content: 」, id: KR2i0002_CHANT_013-bkkpn187}
+  - {type: 'tls:seg', offset: 763, content: '', id: KR2i0002_CHANT_013-2a.32}
+  - {type: punctuation, offset: 768, content: ：, id: KR2i0002_CHANT_013-bkkpn188}
+  - {type: 'tls:seg', offset: 768, content: '', id: KR2i0002_CHANT_013-2a.33}
+  - {type: punctuation, offset: 768, content: 「, id: KR2i0002_CHANT_013-bkkpn189}
+  - {type: punctuation, offset: 772, content: ；, id: KR2i0002_CHANT_013-bkkpn190}
+  - {type: 'tls:seg', offset: 772, content: '', id: KR2i0002_CHANT_013-2a.34}
+  - {type: punctuation, offset: 776, content: ；, id: KR2i0002_CHANT_013-bkkpn191}
+  - {type: 'tls:seg', offset: 776, content: '', id: KR2i0002_CHANT_013-2a.35}
+  - {type: punctuation, offset: 780, content: 。, id: KR2i0002_CHANT_013-bkkpn192}
+  - {type: punctuation, offset: 780, content: 」, id: KR2i0002_CHANT_013-bkkpn193}
+  - {type: 'tls:seg', offset: 780, content: '', id: KR2i0002_CHANT_013-2a.36}
+  - {type: punctuation, offset: 783, content: ：, id: KR2i0002_CHANT_013-bkkpn194}
+  - {type: 'tls:seg', offset: 783, content: '', id: KR2i0002_CHANT_013-2a.37}
+  - {type: punctuation, offset: 783, content: 「, id: KR2i0002_CHANT_013-bkkpn195}
+  - {type: variant, offset: 785, length: 9, content: 龍淵泰阿工布風胡子, SBCK: 魂魄}
+  - {type: variant, offset: 785, length: 9, content: 龍淵泰阿工布風胡子, krp: 魂魄}
+  - {type: punctuation, offset: 787, content: 、, id: KR2i0002_CHANT_013-bkkpn196}
+  - {type: punctuation, offset: 789, content: 、, id: KR2i0002_CHANT_013-bkkpn197}
+  - {type: punctuation, offset: 791, content: ？, id: KR2i0002_CHANT_013-bkkpn198}
+  - {type: punctuation, offset: 791, content: 」, id: KR2i0002_CHANT_013-bkkpn199}
+  - {type: 'tls:seg', offset: 791, content: '', id: KR2i0002_CHANT_013-2a.38}
+  - {type: punctuation, offset: 796, content: ：, id: KR2i0002_CHANT_013-bkkpn200}
+  - {type: 'tls:seg', offset: 796, content: '', id: KR2i0002_CHANT_013-2a.39}
+  - {type: punctuation, offset: 796, content: 「, id: KR2i0002_CHANT_013-bkkpn201}
+  - {type: variant, offset: 796, length: 4, content: 欲知龍淵, SBCK: 魂者槖也魄者生氣之源也故神生者出入無門上下無根見所而功自存故名之曰神神主生氣之精魂主死氣之舎也魄者主賤魂者主貴故當安靜而不動魂者方盛夏而行故萬物得以自昌神者主氣之精主貴而雲行故方盛夏之時不行卽神氣稿而不成物矣故死凌生者歲大敗生凌死者歲大美故}
+  - {type: page-break, offset: 796, content: '', id: KR2i0002_SBCK_013-6a}
+  - {type: variant, offset: 796, length: 4, content: 欲知龍淵, krp: 魂者槖也魄者生氣之源也故神生者出入無門上下無根見所而功自存故名之曰神神主生氣之精魂主死氣之舎也魄者主賤魂者主貴故當安靜而不動魂者方盛夏而行故萬物得以自昌神者主氣之精主貴而雲行故方盛夏之時不行卽神氣稿而不成物矣故死凌生者歲大敗生凌死者歲大美故}
+  - {type: punctuation, offset: 800, content: ，, id: KR2i0002_CHANT_013-bkkpn202}
+  - {type: 'tls:seg', offset: 800, content: '', id: KR2i0002_CHANT_013-2a.40}
+  - {type: variant, offset: 802, length: 9, content: 狀如登高山臨深淵欲, SBCK: 魂魄卽}
+  - {type: variant, offset: 802, length: 9, content: 狀如登高山臨深淵欲, krp: 魂魄卽}
+  - {type: punctuation, offset: 803, content: ，, id: KR2i0002_CHANT_013-bkkpn203}
+  - {type: 'tls:seg', offset: 803, content: '', id: KR2i0002_CHANT_013-2a.41}
+  - {type: punctuation, offset: 807, content: 、, id: KR2i0002_CHANT_013-bkkpn204}
+  - {type: punctuation, offset: 810, content: ；, id: KR2i0002_CHANT_013-bkkpn205}
+  - {type: 'tls:seg', offset: 810, content: '', id: KR2i0002_CHANT_013-2a.42}
+  - {type: variant, offset: 812, length: 12, content: 泰阿觀其釽巍巍翼翼如流水, SBCK: 歲}
+  - {type: variant, offset: 812, length: 12, content: 泰阿觀其釽巍巍翼翼如流水, krp: 歲}
+  - {type: punctuation, offset: 814, content: ，, id: KR2i0002_CHANT_013-bkkpn206}
+  - {type: 'tls:seg', offset: 814, content: '', id: KR2i0002_CHANT_013-2a.43}
+  - {type: punctuation, offset: 817, content: ，, id: KR2i0002_CHANT_013-bkkpn207}
+  - {type: 'tls:seg', offset: 817, content: '', id: KR2i0002_CHANT_013-2a.44}
+  - {type: punctuation, offset: 821, content: ，, id: KR2i0002_CHANT_013-bkkpn208}
+  - {type: 'tls:seg', offset: 821, content: '', id: KR2i0002_CHANT_013-2a.45}
+  - {type: variant, offset: 825, length: 31, content: 波欲知工布觀其釽從文間起至脊而止如珠而不可衽文若流水而不絕晉鄭, SBCK: 善惡矣越}
+  - {type: variant, offset: 825, length: 31, content: 波欲知工布觀其釽從文間起至脊而止如珠而不可衽文若流水而不絕晉鄭, krp: 善惡矣越}
+  - {type: punctuation, offset: 826, content: ；, id: KR2i0002_CHANT_013-bkkpn209}
+  - {type: 'tls:seg', offset: 826, content: '', id: KR2i0002_CHANT_013-2a.46}
+  - {type: punctuation, offset: 830, content: ，, id: KR2i0002_CHANT_013-bkkpn210}
+  - {type: 'tls:seg', offset: 830, content: '', id: KR2i0002_CHANT_013-2a.47}
+  - {type: punctuation, offset: 837, content: ，, id: KR2i0002_CHANT_013-bkkpn211}
+  - {type: 'tls:seg', offset: 837, content: '', id: KR2i0002_CHANT_013-2a.48}
+  - {type: punctuation, offset: 841, content: ，, id: KR2i0002_CHANT_013-bkkpn212}
+  - {type: 'tls:seg', offset: 841, content: '', id: KR2i0002_CHANT_013-2a.49}
+  - {type: punctuation, offset: 847, content: ，, id: KR2i0002_CHANT_013-bkkpn213}
+  - {type: 'tls:seg', offset: 847, content: '', id: KR2i0002_CHANT_013-2a.50}
+  - {type: substitution, offset: 853, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 854, content: 。, id: KR2i0002_CHANT_013-bkkpn214}
+  - {type: punctuation, offset: 854, content: 」, id: KR2i0002_CHANT_013-bkkpn215}
+  - {type: xml-element, offset: 854, content: '', id: KR2i0002_CHANT_013-bkkxmlele4}
+  - {type: xml-element, offset: 854, content: '', id: KR2i0002_CHANT_013-bkkxmlele5}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR2i0002_CHANT_013-3a.1}
+  - {type: 'tls:seg', offset: 854, content: '', id: KR2i0002_CHANT_013-3a.2}
+  - {type: variant, offset: 857, length: 34, content: 聞而求之不得興師圍楚之城三年不解倉穀粟索庫無兵革左右群臣賢士莫能禁止, SBCK: 問}
+  - {type: variant, offset: 857, length: 34, content: 聞而求之不得興師圍楚之城三年不解倉穀粟索庫無兵革左右群臣賢士莫能禁止, krp: 問}
+  - {type: punctuation, offset: 861, content: ，, id: KR2i0002_CHANT_013-bkkpn216}
+  - {type: 'tls:seg', offset: 861, content: '', id: KR2i0002_CHANT_013-3a.3}
+  - {type: punctuation, offset: 863, content: ，, id: KR2i0002_CHANT_013-bkkpn217}
+  - {type: 'tls:seg', offset: 863, content: '', id: KR2i0002_CHANT_013-3a.4}
+  - {type: punctuation, offset: 869, content: ，, id: KR2i0002_CHANT_013-bkkpn218}
+  - {type: 'tls:seg', offset: 869, content: '', id: KR2i0002_CHANT_013-3a.5}
+  - {type: punctuation, offset: 873, content: 。, id: KR2i0002_CHANT_013-bkkpn219}
+  - {type: 'tls:seg', offset: 873, content: '', id: KR2i0002_CHANT_013-3a.6}
+  - {type: punctuation, offset: 877, content: ，, id: KR2i0002_CHANT_013-bkkpn220}
+  - {type: 'tls:seg', offset: 877, content: '', id: KR2i0002_CHANT_013-3a.7}
+  - {type: punctuation, offset: 881, content: 。, id: KR2i0002_CHANT_013-bkkpn221}
+  - {type: 'tls:seg', offset: 881, content: '', id: KR2i0002_CHANT_013-3a.8}
+  - {type: substitution, offset: 883, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
+  - {type: punctuation, offset: 885, content: 、, id: KR2i0002_CHANT_013-bkkpn222}
+  - {type: punctuation, offset: 887, content: ，, id: KR2i0002_CHANT_013-bkkpn223}
+  - {type: 'tls:seg', offset: 887, content: '', id: KR2i0002_CHANT_013-3a.9}
+  - {type: punctuation, offset: 891, content: 。, id: KR2i0002_CHANT_013-bkkpn224}
+  - {type: 'tls:seg', offset: 891, content: '', id: KR2i0002_CHANT_013-3a.10}
+  - {type: variant, offset: 892, length: 58, content: 是楚王聞之引泰阿之劍登城而麾之三軍破敗士卒迷惑流血千里猛獸歐瞻江水折揚晉鄭之頭畢白楚王於是大悅曰此劍威耶寡人力耶風胡, SBCK: 范}
+  - {type: variant, offset: 892, length: 58, content: 是楚王聞之引泰阿之劍登城而麾之三軍破敗士卒迷惑流血千里猛獸歐瞻江水折揚晉鄭之頭畢白楚王於是大悅曰此劍威耶寡人力耶風胡, krp: 范}
+  - {type: punctuation, offset: 897, content: ，, id: KR2i0002_CHANT_013-bkkpn225}
+  - {type: 'tls:seg', offset: 897, content: '', id: KR2i0002_CHANT_013-3a.11}
+  - {type: punctuation, offset: 902, content: ，, id: KR2i0002_CHANT_013-bkkpn226}
+  - {type: 'tls:seg', offset: 902, content: '', id: KR2i0002_CHANT_013-3a.12}
+  - {type: punctuation, offset: 907, content: 。, id: KR2i0002_CHANT_013-bkkpn227}
+  - {type: 'tls:seg', offset: 907, content: '', id: KR2i0002_CHANT_013-3a.13}
+  - {type: punctuation, offset: 911, content: ，, id: KR2i0002_CHANT_013-bkkpn228}
+  - {type: 'tls:seg', offset: 911, content: '', id: KR2i0002_CHANT_013-3a.14}
+  - {type: punctuation, offset: 915, content: ，, id: KR2i0002_CHANT_013-bkkpn229}
+  - {type: 'tls:seg', offset: 915, content: '', id: KR2i0002_CHANT_013-3a.15}
+  - {type: punctuation, offset: 919, content: ，, id: KR2i0002_CHANT_013-bkkpn230}
+  - {type: 'tls:seg', offset: 919, content: '', id: KR2i0002_CHANT_013-3a.16}
+  - {type: punctuation, offset: 923, content: ，, id: KR2i0002_CHANT_013-bkkpn231}
+  - {type: 'tls:seg', offset: 923, content: '', id: KR2i0002_CHANT_013-3a.17}
+  - {type: punctuation, offset: 927, content: ，, id: KR2i0002_CHANT_013-bkkpn232}
+  - {type: 'tls:seg', offset: 927, content: '', id: KR2i0002_CHANT_013-3a.18}
+  - {type: punctuation, offset: 933, content: 。, id: KR2i0002_CHANT_013-bkkpn233}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR2i0002_CHANT_013-3a.19}
+  - {type: punctuation, offset: 939, content: ，, id: KR2i0002_CHANT_013-bkkpn234}
+  - {type: 'tls:seg', offset: 939, content: '', id: KR2i0002_CHANT_013-3a.20}
+  - {type: punctuation, offset: 940, content: ：, id: KR2i0002_CHANT_013-bkkpn235}
+  - {type: 'tls:seg', offset: 940, content: '', id: KR2i0002_CHANT_013-3a.21}
+  - {type: punctuation, offset: 940, content: 「, id: KR2i0002_CHANT_013-bkkpn236}
+  - {type: punctuation, offset: 944, content: ？, id: KR2i0002_CHANT_013-bkkpn237}
+  - {type: 'tls:seg', offset: 944, content: '', id: KR2i0002_CHANT_013-3a.22}
+  - {type: punctuation, offset: 948, content: ？, id: KR2i0002_CHANT_013-bkkpn238}
+  - {type: punctuation, offset: 948, content: 」, id: KR2i0002_CHANT_013-bkkpn239}
+  - {type: 'tls:seg', offset: 948, content: '', id: KR2i0002_CHANT_013-3a.23}
+  - {type: variant, offset: 951, length: 169, content: 對曰劍之威也因大王之神楚王曰夫劍鐵耳固能有精神若此乎風胡子對曰時各有使然軒轅神農赫胥之時以石為兵斷樹木為宮室死而龍臧夫神聖主使然至黃帝之時以玉為兵以伐樹木為宮室鑿地夫玉亦神物也又遇聖主使然死而龍臧禹穴之時以銅為兵以鑿伊闕通龍門決江導河東注於東海天下通平治為宮室豈非聖主之力哉當此之時作鐵兵威服三軍天下聞之莫敢不服此亦鐵兵之神大王有聖德楚王, SBCK: ''}
+  - {type: variant, offset: 951, length: 169, content: 對曰劍之威也因大王之神楚王曰夫劍鐵耳固能有精神若此乎風胡子對曰時各有使然軒轅神農赫胥之時以石為兵斷樹木為宮室死而龍臧夫神聖主使然至黃帝之時以玉為兵以伐樹木為宮室鑿地夫玉亦神物也又遇聖主使然死而龍臧禹穴之時以銅為兵以鑿伊闕通龍門決江導河東注於東海天下通平治為宮室豈非聖主之力哉當此之時作鐵兵威服三軍天下聞之莫敢不服此亦鐵兵之神大王有聖德楚王, krp: ''}
+  - {type: punctuation, offset: 953, content: ：, id: KR2i0002_CHANT_013-bkkpn240}
+  - {type: 'tls:seg', offset: 953, content: '', id: KR2i0002_CHANT_013-3a.24}
+  - {type: punctuation, offset: 953, content: 「, id: KR2i0002_CHANT_013-bkkpn241}
+  - {type: punctuation, offset: 957, content: ，, id: KR2i0002_CHANT_013-bkkpn242}
+  - {type: 'tls:seg', offset: 957, content: '', id: KR2i0002_CHANT_013-3a.25}
+  - {type: punctuation, offset: 962, content: 。, id: KR2i0002_CHANT_013-bkkpn243}
+  - {type: punctuation, offset: 962, content: 」, id: KR2i0002_CHANT_013-bkkpn244}
+  - {type: 'tls:seg', offset: 962, content: '', id: KR2i0002_CHANT_013-3a.26}
+  - {type: punctuation, offset: 965, content: ：, id: KR2i0002_CHANT_013-bkkpn245}
+  - {type: 'tls:seg', offset: 965, content: '', id: KR2i0002_CHANT_013-3a.27}
+  - {type: punctuation, offset: 965, content: 「, id: KR2i0002_CHANT_013-bkkpn246}
+  - {type: variant, offset: 966, length: 3, content: 劍鐵耳, WYG: 子幸教寡人願與之自藏至死不敢忘范子曰陰陽進退者}
+  - {type: punctuation, offset: 967, content: 、, id: KR2i0002_CHANT_013-bkkpn247}
+  - {type: punctuation, offset: 969, content: ，, id: KR2i0002_CHANT_013-bkkpn248}
+  - {type: 'tls:seg', offset: 969, content: '', id: KR2i0002_CHANT_013-3a.28}
+  - {type: variant, offset: 970, length: 1, content: 能, WYG: 天道自然不足怪也夫陰入淺者即嵗善陽入深者則嵗惡幽幽𡨕𡨕豫知未形故聖人見物不疑是謂知時固聖人所不𫝊也夫堯舜禹湯皆}
+  - {type: variant, offset: 972, length: 12, content: 精神若此乎風胡子對曰時各, WYG: 豫見之勞雖}
+  - {type: punctuation, offset: 977, content: ？, id: KR2i0002_CHANT_013-bkkpn249}
+  - {type: punctuation, offset: 977, content: 」, id: KR2i0002_CHANT_013-bkkpn250}
+  - {type: 'tls:seg', offset: 977, content: '', id: KR2i0002_CHANT_013-3a.29}
+  - {type: punctuation, offset: 982, content: ：, id: KR2i0002_CHANT_013-bkkpn251}
+  - {type: 'tls:seg', offset: 982, content: '', id: KR2i0002_CHANT_013-3a.30}
+  - {type: punctuation, offset: 982, content: 「, id: KR2i0002_CHANT_013-bkkpn252}
+  - {type: variant, offset: 985, length: 21, content: 使然軒轅神農赫胥之時以石為兵斷樹木為宮室死, WYG: 凶年}
+  - {type: punctuation, offset: 987, content: 。, id: KR2i0002_CHANT_013-bkkpn253}
+  - {type: 'tls:seg', offset: 987, content: '', id: KR2i0002_CHANT_013-3a.31}
+  - {type: punctuation, offset: 989, content: 、, id: KR2i0002_CHANT_013-bkkpn254}
+  - {type: punctuation, offset: 991, content: 、, id: KR2i0002_CHANT_013-bkkpn255}
+  - {type: punctuation, offset: 995, content: ，, id: KR2i0002_CHANT_013-bkkpn256}
+  - {type: 'tls:seg', offset: 995, content: '', id: KR2i0002_CHANT_013-3a.32}
+  - {type: punctuation, offset: 999, content: ，, id: KR2i0002_CHANT_013-bkkpn257}
+  - {type: 'tls:seg', offset: 999, content: '', id: KR2i0002_CHANT_013-3a.33}
+  - {type: punctuation, offset: 1005, content: ，, id: KR2i0002_CHANT_013-bkkpn258}
+  - {type: 'tls:seg', offset: 1005, content: '', id: KR2i0002_CHANT_013-3a.34}
+  - {type: variant, offset: 1007, length: 98, content: 龍臧夫神聖主使然至黃帝之時以玉為兵以伐樹木為宮室鑿地夫玉亦神物也又遇聖主使然死而龍臧禹穴之時以銅為兵以鑿伊闕通龍門決江導河東注於東海天下通平治為宮室豈非聖主之力哉當此之時作鐵兵威服三軍天下聞之莫敢, WYG: 民}
+  - {type: punctuation, offset: 1009, content: 。, id: KR2i0002_CHANT_013-bkkpn259}
+  - {type: 'tls:seg', offset: 1009, content: '', id: KR2i0002_CHANT_013-3a.35}
+  - {type: punctuation, offset: 1015, content: 。, id: KR2i0002_CHANT_013-bkkpn260}
+  - {type: 'tls:seg', offset: 1015, content: '', id: KR2i0002_CHANT_013-3a.36}
+  - {type: punctuation, offset: 1020, content: ，, id: KR2i0002_CHANT_013-bkkpn261}
+  - {type: 'tls:seg', offset: 1020, content: '', id: KR2i0002_CHANT_013-3a.37}
+  - {type: punctuation, offset: 1024, content: ，, id: KR2i0002_CHANT_013-bkkpn262}
+  - {type: 'tls:seg', offset: 1024, content: '', id: KR2i0002_CHANT_013-3a.38}
+  - {type: punctuation, offset: 1031, content: ，, id: KR2i0002_CHANT_013-bkkpn263}
+  - {type: 'tls:seg', offset: 1031, content: '', id: KR2i0002_CHANT_013-3a.39}
+  - {type: punctuation, offset: 1033, content: 。, id: KR2i0002_CHANT_013-bkkpn264}
+  - {type: 'tls:seg', offset: 1033, content: '', id: KR2i0002_CHANT_013-3a.40}
+  - {type: punctuation, offset: 1035, content: 、, id: KR2i0002_CHANT_013-bkkpn265}
+  - {type: punctuation, offset: 1039, content: ，, id: KR2i0002_CHANT_013-bkkpn266}
+  - {type: 'tls:seg', offset: 1039, content: '', id: KR2i0002_CHANT_013-3a.41}
+  - {type: punctuation, offset: 1045, content: ，, id: KR2i0002_CHANT_013-bkkpn267}
+  - {type: 'tls:seg', offset: 1045, content: '', id: KR2i0002_CHANT_013-3a.42}
+  - {type: punctuation, offset: 1049, content: 。, id: KR2i0002_CHANT_013-bkkpn268}
+  - {type: 'tls:seg', offset: 1049, content: '', id: KR2i0002_CHANT_013-3a.43}
+  - {type: punctuation, offset: 1053, content: ，, id: KR2i0002_CHANT_013-bkkpn269}
+  - {type: 'tls:seg', offset: 1053, content: '', id: KR2i0002_CHANT_013-3a.44}
+  - {type: punctuation, offset: 1057, content: ，, id: KR2i0002_CHANT_013-bkkpn270}
+  - {type: 'tls:seg', offset: 1057, content: '', id: KR2i0002_CHANT_013-3a.45}
+  - {type: punctuation, offset: 1061, content: 、, id: KR2i0002_CHANT_013-bkkpn271}
+  - {type: punctuation, offset: 1064, content: ，, id: KR2i0002_CHANT_013-bkkpn272}
+  - {type: 'tls:seg', offset: 1064, content: '', id: KR2i0002_CHANT_013-3a.46}
+  - {type: punctuation, offset: 1068, content: ，, id: KR2i0002_CHANT_013-bkkpn273}
+  - {type: 'tls:seg', offset: 1068, content: '', id: KR2i0002_CHANT_013-3a.47}
+  - {type: punctuation, offset: 1073, content: 。, id: KR2i0002_CHANT_013-bkkpn274}
+  - {type: 'tls:seg', offset: 1073, content: '', id: KR2i0002_CHANT_013-3a.48}
+  - {type: punctuation, offset: 1077, content: ，, id: KR2i0002_CHANT_013-bkkpn275}
+  - {type: 'tls:seg', offset: 1077, content: '', id: KR2i0002_CHANT_013-3a.49}
+  - {type: punctuation, offset: 1081, content: ，, id: KR2i0002_CHANT_013-bkkpn276}
+  - {type: 'tls:seg', offset: 1081, content: '', id: KR2i0002_CHANT_013-3a.50}
+  - {type: punctuation, offset: 1088, content: ？, id: KR2i0002_CHANT_013-bkkpn277}
+  - {type: 'tls:seg', offset: 1088, content: '', id: KR2i0002_CHANT_013-3a.51}
+  - {type: punctuation, offset: 1092, content: ，, id: KR2i0002_CHANT_013-bkkpn278}
+  - {type: 'tls:seg', offset: 1092, content: '', id: KR2i0002_CHANT_013-3a.52}
+  - {type: punctuation, offset: 1095, content: ，, id: KR2i0002_CHANT_013-bkkpn279}
+  - {type: 'tls:seg', offset: 1095, content: '', id: KR2i0002_CHANT_013-3a.53}
+  - {type: punctuation, offset: 1099, content: 。, id: KR2i0002_CHANT_013-bkkpn280}
+  - {type: 'tls:seg', offset: 1099, content: '', id: KR2i0002_CHANT_013-3a.54}
+  - {type: punctuation, offset: 1103, content: ，, id: KR2i0002_CHANT_013-bkkpn281}
+  - {type: 'tls:seg', offset: 1103, content: '', id: KR2i0002_CHANT_013-3a.55}
+  - {type: variant, offset: 1106, length: 13, content: 服此亦鐵兵之神大王有聖德楚, WYG: 窮越}
+  - {type: punctuation, offset: 1107, content: 。, id: KR2i0002_CHANT_013-bkkpn282}
+  - {type: 'tls:seg', offset: 1107, content: '', id: KR2i0002_CHANT_013-3a.56}
+  - {type: punctuation, offset: 1113, content: ，, id: KR2i0002_CHANT_013-bkkpn283}
+  - {type: 'tls:seg', offset: 1113, content: '', id: KR2i0002_CHANT_013-3a.57}
+  - {type: punctuation, offset: 1118, content: 。, id: KR2i0002_CHANT_013-bkkpn284}
+  - {type: punctuation, offset: 1118, content: 」, id: KR2i0002_CHANT_013-bkkpn285}
+  - {type: 'tls:seg', offset: 1118, content: '', id: KR2i0002_CHANT_013-3a.58}
+  - {type: punctuation, offset: 1121, content: ：, id: KR2i0002_CHANT_013-bkkpn286}
+  - {type: 'tls:seg', offset: 1121, content: '', id: KR2i0002_CHANT_013-3a.59}
+  - {type: punctuation, offset: 1121, content: 「, id: KR2i0002_CHANT_013-bkkpn287}
+  - {type: variant, offset: 1121, length: 5, content: 寡人聞命矣, WYG: 善以丹書帛置之枕中以為邦寶范子已告越王立志入海此謂天地之圖也越絶書卷十三}
+  - {type: page-break, offset: 1121, content: '', id: KR2i0002_WYG_013-9a, image: WYG0463/WYG0463-0123a.png}
+  - {type: page-break, offset: 1121, content: '', id: KR2i0002_WYG_013-9b, image: WYG0463/WYG0463-0123b.png}
+  - {type: variant, offset: 1124, length: 1, content: 命, SBCK: 隂陽之治不同力而功成不同氣而物生可得而知乎願聞其説范子曰臣聞隂陽氣不同處萬物生焉冬三月之時草木既死萬物各異藏故陽氣避之下藏伏壯於内使隂陽得成功於外夏三月盛暑之時萬物遂長隂氣避之下藏伏壯於内然而萬物親而信之是所謂也陽者主生萬物方夏三月之時大熱不至則萬物不能成隂氣主殺方冬三月之時地不内藏則根荄不成卽春無生故一時失度卽四序為不行越王曰善寡人已聞隂陽之事榖之貴賤可得而知乎范子曰陽者主貴隂者主賤故當寒而不寒者榖為之㬥貴當温而不温者榖為之㬥賤譬猶形影聲響相聞豈得不復哉故曰秋冬貴陽氣施於隂隂極而復貴春夏賤隂氣施於陽陽極而不復越王曰善哉以丹書帛置之枕中以為國寶越五日困於吳請於范子曰寡人守國無術負於萬物㡬亡邦危社稷為旁邦所議無定足而立欲捐軀出死以報吳仇為之奈何范子曰臣聞聖主為不可為之行不惡人之謗巳為足舉之德不德人之稱已舜循之歷山而天下從風使舜釋其所循而求天下之利則恐不全其身昔者神農之治天下務利之而已}
+  - {type: page-break, offset: 1124, content: '', id: KR2i0002_SBCK_013-6b}
+  - {type: page-break, offset: 1124, content: '', id: KR2i0002_SBCK_013-7a}
+  - {type: page-break, offset: 1124, content: '', id: KR2i0002_SBCK_013-7b}
+  - {type: variant, offset: 1124, length: 1, content: 命, krp: 隂陽之治不同力而功成不同氣而物生可得而知乎願聞其説范子曰臣聞隂陽氣不同處萬物生焉冬三月之時草木既死萬物各異藏故陽氣避之下藏伏壯於内使隂陽得成功於外夏三月盛暑之時萬物遂長隂氣避之下藏伏壯於内然而萬物親而信之是所謂也陽者主生萬物方夏三月之時大熱不至則萬物不能成隂氣主殺方冬三月之時地不内藏則根荄不成卽春無生故一時失度卽四序為不行越王曰善寡人已聞隂陽之事榖之貴賤可得而知乎范子曰陽者主貴隂者主賤故當寒而不寒者榖為之㬥貴當温而不温者榖為之㬥賤譬猶形影聲響相聞豈得不復哉故曰秋冬貴陽氣施於隂隂極而復貴春夏賤隂氣施於陽陽極而不復越王曰善哉以丹書帛置之枕中以為國寶越五日困於吳請於范子曰寡人守國無術負於萬物㡬亡邦危社稷為旁邦所議無定足而立欲捐軀出死以報吳仇為之奈何范子曰臣聞聖主為不可為之行不惡人之謗巳為足舉之德不德人之稱已舜循之歷山而天下從風使舜釋其所循而求天下之利則恐不全其身昔者神農之治天下務利之而已}
+  - {type: punctuation, offset: 1126, content: 。, id: KR2i0002_CHANT_013-bkkpn288}
+  - {type: punctuation, offset: 1126, content: 」, id: KR2i0002_CHANT_013-bkkpn289}
+  - {type: xml-element, offset: 1126, content: '', id: KR2i0002_CHANT_013-bkkxmlele6}
+  - {type: variant, offset: 1126, length: 0, content: '', SBCK: 不望其報不貪天下之財而天下共富之所以其智能自貴於人而天下共尊之故曰富貴者天下所置不可奪也今王利地貪財接兵血刃僵尸流血欲以顯於世不亦謬乎越王曰上不逮於神農下不及於堯舜今子以至聖之道以説寡人誠非吾所及也且吾聞之也父辱則子死君辱則臣死今寡人親巳辱於吳矣欲行一切之變以復吳仇願子更為寡人圖之范子曰君辱則死固其義也立死下士人而求成邦者且聖之計也且夫廣天下尊萬乘之主使百姓安其居樂其業者唯兵兵之要在於人人之要在於榖故民衆則主安穀多則兵疆王而僃此二者然後可以圖之也越王曰吾欲富邦疆兵地狹民少奈何為之范子曰夫陽動於上以成天文隂動於下以成地理審察開置之要可以為富凡欲先知天門開及地户閉其術天高五寸减天寸六分以成地謹司八穀初見出於天者是謂天門開地户閉陽氣不得下入地户故氣轉動而上下隂陽俱絶八穀不成大貴必應其嵗而起此天變見符也謹司八榖初見入於地者是謂地户閉隂陽俱㑹八穀大成其嵗大賤來年大饑此地變見端也謹司八穀初見半於人者糴平熟無災害故天倡而見符地應而見瑞聖人上知天下知地中知人此之謂天平地平以此為天圖越王既巳勝吳三日反邦未至息自雄問大夫種曰夫聖人之術何以加於此乎大夫種曰不然王德范子之所言故天地之符應邦以藏聖人之心矣然而范子豫見之策未肎為王言者也越王愀然而恐靣有憂色請於范子稱曰寡人用夫子之計幸得勝呉盡夫子之力也寡人聞夫子明於隂陽進退豫知未形推徃引前後知千歲可得聞乎寡人虛心垂意聽於下風范子曰夫隂陽進退前後幽㝠未見未形此特殺生之柄而王制於四海此邦之重寳也王而毋泄此事臣請為王言之越王曰夫子幸教寡人願與之自藏至死不敢忘范子曰隂陽進退者固天道自然不足怪也夫隂入淺者即嵗善陽入深者則嵗惡幽幽􅄀􅄀豫知未形故聖人見物不疑是謂知時固聖人所不傳也夫堯舜禹湯皆有豫見之勞雖有凶年而民不窮越王曰善以丹書帛置之枕中以為邦寳范子巳告越王立志入海此謂天地之圖也越絶卷第十三}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-8a}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-8b}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-9a}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-9b}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-10a}
+  - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-10b}
+  - {type: variant, offset: 1126, length: 0, content: '', krp: 不望其報不貪天下之財而天下共富之所以其智能自貴於人而天下共尊之故曰富貴者天下所置不可奪也今王利地貪財接兵血刃僵尸流血欲以顯於世不亦謬乎越王曰上不逮於神農下不及於堯舜今子以至聖之道以説寡人誠非吾所及也且吾聞之也父辱則子死君辱則臣死今寡人親巳辱於吳矣欲行一切之變以復吳仇願子更為寡人圖之范子曰君辱則死固其義也立死下士人而求成邦者且聖之計也且夫廣天下尊萬乘之主使百姓安其居樂其業者唯兵兵之要在於人人之要在於榖故民衆則主安穀多則兵疆王而僃此二者然後可以圖之也越王曰吾欲富邦疆兵地狹民少奈何為之范子曰夫陽動於上以成天文隂動於下以成地理審察開置之要可以為富凡欲先知天門開及地户閉其術天高五寸减天寸六分以成地謹司八穀初見出於天者是謂天門開地户閉陽氣不得下入地户故氣轉動而上下隂陽俱絶八穀不成大貴必應其嵗而起此天變見符也謹司八榖初見入於地者是謂地户閉隂陽俱㑹八穀大成其嵗大賤來年大饑此地變見端也謹司八穀初見半於人者糴平熟無災害故天倡而見符地應而見瑞聖人上知天下知地中知人此之謂天平地平以此為天圖越王既巳勝吳三日反邦未至息自雄問大夫種曰夫聖人之術何以加於此乎大夫種曰不然王德范子之所言故天地之符應邦以藏聖人之心矣然而范子豫見之策未肎為王言者也越王愀然而恐靣有憂色請於范子稱曰寡人用夫子之計幸得勝呉盡夫子之力也寡人聞夫子明於隂陽進退豫知未形推徃引前後知千歲可得聞乎寡人虛心垂意聽於下風范子曰夫隂陽進退前後幽㝠未見未形此特殺生之柄而王制於四海此邦之重寳也王而毋泄此事臣請為王言之越王曰夫子幸教寡人願與之自藏至死不敢忘范子曰隂陽進退者固天道自然不足怪也夫隂入淺者即嵗善陽入深者則嵗惡幽幽冥冥豫知未形故聖人見物不疑是謂知時固聖人所不傳也夫堯舜禹湯皆有豫見之勞雖有凶年而民不窮越王曰善以丹書帛置之枕中以為邦寳范子巳告越王立志入海此謂天地之圖也越絶卷第十三}
+  back: []
+hash: sha256:7ff299968741745616174395c3d4884d628768b47715e1aebf94e99abe854f9a

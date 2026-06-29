@@ -1,0 +1,275 @@
+canonical_identifier: bkk:krp/KR2i0002/v1
+canonical_location: https://kanripo.org/bkk/KR2i0002/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 越絕書
+  identifiers:
+    krp: KR2i0002
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR2i
+    tls-internal:
+    - swl
+    - tr-en
+    - tr-zh
+  source:
+    repository: tls-texts
+    path: data/tls/KR2i0002.xml
+  edition:
+    short: bkk
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR2i0002_001.yaml, hash: 'sha256:a180715d248963502adaad5cbded6d847b8caf22e317697b2ec801176007fc21'}
+  - {seq: 2, filename: KR2i0002_002.yaml, hash: 'sha256:953cb2f738c116a0e9e18b57c29d1abd4f32f8d197f5ca8a680479e9ff2690b3'}
+  - {seq: 3, filename: KR2i0002_003.yaml, hash: 'sha256:e31b2e4bf0b61b2ef04c800c9ee9447d8275eff7d4953b15f0c1c02f15039391'}
+  - {seq: 4, filename: KR2i0002_004.yaml, hash: 'sha256:83fddc2eb9922996a2cd3ede0bbfc0c8a23721e6eeee34cc106f88e3dd9955e9'}
+  - {seq: 5, filename: KR2i0002_005.yaml, hash: 'sha256:640e60e782d3cf1d25c51588ac848e4428867ab2177c191d2f323ce1b1e22467'}
+  - {seq: 6, filename: KR2i0002_006.yaml, hash: 'sha256:8d8bee5fcec1f26479c1ac500ac05094b028abb73041015ce89e88d03b7e178e'}
+  - {seq: 7, filename: KR2i0002_007.yaml, hash: 'sha256:ae27015829a91d9616020585c5c905a8882b62cc7629c9cf4fa363661f49eb4e'}
+  - {seq: 8, filename: KR2i0002_008.yaml, hash: 'sha256:89f1cf67761a9751a13cf8215c28008ea30abb6c6b063173c512370fda9b7440'}
+  - {seq: 9, filename: KR2i0002_009.yaml, hash: 'sha256:4379a34d9cc23d99ee30ef10ec5f6e28fc0f9b58265a3dd94e3d474f513ca532'}
+  - {seq: 10, filename: KR2i0002_010.yaml, hash: 'sha256:f17fb433c6c1571b8b91431f53290690eaf62cbd72d6cc0d4a032494292188c1'}
+  - {seq: 11, filename: KR2i0002_011.yaml, hash: 'sha256:d9fc3cf4bc244c6b45705add660a72b335b180f5aee9ad931952b4bbc8835c78'}
+  - {seq: 12, filename: KR2i0002_012.yaml, hash: 'sha256:49075cffb0e86524683384360317b3a35b8035397dc30727a227478a916af7ea'}
+  - {seq: 13, filename: KR2i0002_013.yaml, hash: 'sha256:307ac277a186624c4b7e3ff287b46d89ffd9cc1c7c393787e3ce31a095d9f1a2'}
+  - {seq: 14, filename: KR2i0002_014.yaml, hash: 'sha256:1ee1a04edb728270618e87f090322dad0e3c06eebf51e4f7b71b153dc23ffff9'}
+  - {seq: 15, filename: KR2i0002_015.yaml, hash: 'sha256:fb832008a0aa2e4a907f37319987dcd077b19a1f9bc9a2d97c8627d5e7959cc4'}
+  - {seq: 16, filename: KR2i0002_016.yaml, hash: 'sha256:a402d82286322ef8ced60d9360ef0cf65b857311275f10da7292475a412f32aa'}
+  - {seq: 17, filename: KR2i0002_017.yaml, hash: 'sha256:aa951813bf6f05bb1a45dad938cd2821fadcf9a56241e69a0a5567f37985417a'}
+  - {seq: 18, filename: KR2i0002_018.yaml, hash: 'sha256:dea71fad178cd64d61e9a891c9f64fe16d8264d65e06b280db9028e00927bdeb'}
+  - {seq: 19, filename: KR2i0002_019.yaml, hash: 'sha256:137c45c8089d54cdf814a86fff04a9db82952a94e196717eab3302cafcf333a9'}
+  - {seq: 20, filename: KR2i0002_020.yaml, hash: 'sha256:3ff0dce49aa2c776e0822d1db06fda54ab3202e143c766d01466b1aa75faddb5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2i0002_001.markers.yaml, hash: 'sha256:cb6d2de13abd3a6222d4161a4db89ac5c1538a2fc0cfd026f3bb22826767ac35'}
+  - {seq: 2, role: markers, filename: assets/KR2i0002_002.markers.yaml, hash: 'sha256:e6250a8459dfce681df3c673353449ab2831a026a83e8ef5633a1c78703e5294'}
+  - {seq: 3, role: markers, filename: assets/KR2i0002_003.markers.yaml, hash: 'sha256:3815f1b3d014959b0978249303b8ab272bb32001c4a4e2fee826cc1e186e4c70'}
+  - {seq: 4, role: markers, filename: assets/KR2i0002_004.markers.yaml, hash: 'sha256:8a20964540be9807b17dd4995e9baf8aac306c0b31c2f9ef2aa27d4a756f5f1f'}
+  - {seq: 5, role: markers, filename: assets/KR2i0002_005.markers.yaml, hash: 'sha256:af74b2c1e4c0b86210303b9ad9072fddee8c58dfa50c8030a980d69ac8dd5ef9'}
+  - {seq: 6, role: markers, filename: assets/KR2i0002_006.markers.yaml, hash: 'sha256:31169964a7a1fac51d2f7b55cfa41f33d83d02da46a6f03f448a51907e876175'}
+  - {seq: 7, role: markers, filename: assets/KR2i0002_007.markers.yaml, hash: 'sha256:12c9e9ca01279a1a94bd994dc1ab03b67fd2ea21571635cffa7bef7c163197ec'}
+  - {seq: 8, role: markers, filename: assets/KR2i0002_008.markers.yaml, hash: 'sha256:1c1a2d7d8430143667523a24d54de6925d851b268514fc7112c5fdfa5aedf7a1'}
+  - {seq: 9, role: markers, filename: assets/KR2i0002_009.markers.yaml, hash: 'sha256:230e139c63b3df31fdba29ee09e6e8b2d2d4b49520be7b7a3811333ab422095b'}
+  - {seq: 10, role: markers, filename: assets/KR2i0002_010.markers.yaml, hash: 'sha256:ba4ac5735d996d9ce815e70675939874ac21e6220fe38ae3ad615d8a28196b2e'}
+  - {seq: 11, role: markers, filename: assets/KR2i0002_011.markers.yaml, hash: 'sha256:3ddcd31c1840cfdee7ffa1122904f20c3288b0f5a4e8401d4be456f7b18d0ade'}
+  - {seq: 12, role: markers, filename: assets/KR2i0002_012.markers.yaml, hash: 'sha256:1c42d61cb4ecd1fe415bbdd81faa64e80f0b73c5e1628fbeb893a6a493006557'}
+  - {seq: 13, role: markers, filename: assets/KR2i0002_013.markers.yaml, hash: 'sha256:7ff299968741745616174395c3d4884d628768b47715e1aebf94e99abe854f9a'}
+  - {seq: 14, role: markers, filename: assets/KR2i0002_014.markers.yaml, hash: 'sha256:899c9fe9fa22626c774feaee42d29a1ac6345cc2fad1f5f75aea20793159d4f0'}
+  - {seq: 15, role: markers, filename: assets/KR2i0002_015.markers.yaml, hash: 'sha256:e14898ba32463045d1a4be79c5b9bdfc6cce33f45e5f69dc90aaffdc5890b752'}
+  - {seq: 16, role: markers, filename: assets/KR2i0002_016.markers.yaml, hash: 'sha256:9fd3c65b36a5fda46b60715ecdc448e8ee57d10efad61b14264f58750023a688'}
+  - {seq: 17, role: markers, filename: assets/KR2i0002_017.markers.yaml, hash: 'sha256:9cbacd0e0bd2f103b9f3d2070f05db97aebec92cd9c2e087776cdc4aecd1f097'}
+  - {seq: 18, role: markers, filename: assets/KR2i0002_018.markers.yaml, hash: 'sha256:68e7f7253c842574a6db8c407fea4679dae201315f30b0ecffe4aec264a3e0d2'}
+  - {seq: 19, role: markers, filename: assets/KR2i0002_019.markers.yaml, hash: 'sha256:e50f1f36f88ab5df05dc6bf546cd269abb241e7ba6140acf78e2377aaca107fb'}
+  - {seq: 20, role: markers, filename: assets/KR2i0002_020.markers.yaml, hash: 'sha256:655b8269fea5b98e71ede2f994850353b32079e6307f02c4b709115e1a563529'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2i0002_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1071
+  label: 越絕外傳本事第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2i0002_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 1215
+  label: 越絕荊平王內傳第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2i0002_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 3236
+  label: 越絕外傳記吳地傳第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2i0002_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 2104
+  label: 越絕吳內傳第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2i0002_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 1922
+  label: 越絕計倪內經第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2i0002_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 2242
+  label: 越絕請糴內傳第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2i0002_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 1473
+  label: 越絕外傳紀策考第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2i0002_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 518
+  label: 越絕外傳記范伯第八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2i0002_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 2293
+  label: 越絕內傳陳成恒第九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2i0002_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 3177
+  label: 越絕外傳記越地傳第十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2i0002_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 1201
+  label: 越絕外傳計倪第十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2i0002_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 1596
+  label: 越絕外傳記吳王占夢第十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2i0002_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 1126
+  label: 越絕外傳記寶劍第十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2i0002_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 581
+  label: 越絕內經九術第十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2i0002_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 1011
+  label: 越絕外傳記軍氣第十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2i0002_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 2628
+  label: 越絕外傳枕中第十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2i0002_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 558
+  label: 越絕外傳春申君第十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2i0002_CHANT_018-1a.1-h
+    span:
+    - front
+    - 0
+    - 1168
+  label: 越絕德序外傳記第十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR2i0002_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 1968
+  label: 越絕篇敘外傳記第十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR2i0002_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 1454
+  label: 越絕書佚文
+  type: section
+  level: 1
+hash: sha256:af3a6d2cc56734a22960bb0ba79912ee700d25cf0ae231f7b8bfbbb092200f56
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

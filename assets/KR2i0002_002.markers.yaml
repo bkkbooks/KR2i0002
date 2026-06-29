@@ -1,0 +1,788 @@
+canonical_identifier: bkk:krp/KR2i0002/bkk/v1/markers/2
+seq: 2
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_SBCK_002-1a}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_WYG_002-1a, image: WYG0463/WYG0463-0079a.png}
+  body:
+  - {type: variant, offset: 1, length: 5, content: 絕荊平王內, SBCK: 絶卷第二越絶外傳記吳地}
+  - {type: variant, offset: 1, length: 5, content: 絕荊平王內, WYG: 絶書卷二漢袁康撰外}
+  - {type: variant, offset: 1, length: 5, content: 絕荊平王內, krp: 絶卷第二越絶外傳記吳地}
+  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: variant, offset: 7, length: 2, content: 第二, WYG: 記吳地傳}
+  - {type: variant, offset: 8, length: 1, content: 二, SBCK: 三}
+  - {type: variant, offset: 8, length: 1, content: 二, krp: 三}
+  - {type: xml-element, offset: 9, content: '', id: KR2i0002_CHANT_002-bkkxmlele1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR2i0002_CHANT_002-1a.1}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR2i0002_CHANT_002-1a.2}
+  - {type: punctuation, offset: 11, content: ，, id: KR2i0002_CHANT_002-bkkpn1}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR2i0002_CHANT_002-1a.3}
+  - {type: variant, offset: 11, length: 1, content: 荊, SBCK: 呉之先君太伯周之世武王封太伯於呉到夫差計二十六世且千嵗闔廬之時大霸築吳越城城中有小城二徙治胥山後二三而至夫差立二十三年越王句踐滅之闔廬宫在髙}
+  - {type: variant, offset: 11, length: 1, content: 荊, WYG: 呉之先君太伯周之世武士封太伯於呉到夫差計二十六世且千嵗闔廬之時大霸築吳越城城中有小城二徙治胥山後二世而至夫差立二十三年越王句踐滅之闔廬宫在髙}
+  - {type: page-break, offset: 11, content: '', id: KR2i0002_WYG_002-1b, image: WYG0463/WYG0463-0079b.png}
+  - {type: variant, offset: 11, length: 1, content: 荊, krp: 呉之先君太伯周之世武王封太伯於呉到夫差計二十六世且千嵗闔廬之時大霸築吳越城城中有小城二徙治胥山後二三而至夫差立二十三年越王句踐滅之闔廬宫在髙}
+  - {type: variant, offset: 13, length: 0, content: '', SBCK: 里射臺二一在華池昌里一在安陽里南越宫在長樂里東到春申君府秋冬治城中春夏治姑胥之臺旦食於紐山晝遊於胥毋射於軀陂馳於遊臺興與一作樂越走犬長洲吳}
+  - {type: page-break, offset: 13, content: '', id: KR2i0002_SBCK_002-1b}
+  - {type: variant, offset: 13, length: 0, content: '', WYG: 里射臺二一在華池昌里一在安陽里南越宫在長樂里東到春申君府秋冬治城中春夏治姑胥之臺旦食於紐山晝遊於胥毋射於軀陂馳於遊臺興一作與樂越走犬長洲吳}
+  - {type: variant, offset: 13, length: 0, content: '', krp: 里射臺二一在華池昌里一在安陽里南越宫在長樂里東到春申君府秋冬治城中春夏治姑胥之臺旦食於紐山晝遊於胥毋射於軀陂馳於遊臺興與一作樂越走犬長洲吳}
+  - {type: variant, offset: 14, length: 3, content: 有臣伍, SBCK: 大霸楚昭王孔}
+  - {type: variant, offset: 14, length: 3, content: 有臣伍, WYG: 大霸楚昭王孔}
+  - {type: variant, offset: 14, length: 3, content: 有臣伍, krp: 大霸楚昭王孔}
+  - {type: variant, offset: 18, length: 9, content: 奢奢得罪於王且殺之, SBCK: 時也吳大城周四十七里二百一十步二尺陸門八}
+  - {type: variant, offset: 18, length: 9, content: 奢奢得罪於王且殺之, WYG: 時也吳大城周四十七里二百一十步二尺陸門八}
+  - {type: variant, offset: 18, length: 9, content: 奢奢得罪於王且殺之, krp: 時也吳大城周四十七里二百一十步二尺陸門八}
+  - {type: punctuation, offset: 19, content: 。, id: KR2i0002_CHANT_002-bkkpn2}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR2i0002_CHANT_002-1a.4}
+  - {type: punctuation, offset: 24, content: ，, id: KR2i0002_CHANT_002-bkkpn3}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR2i0002_CHANT_002-1a.5}
+  - {type: punctuation, offset: 27, content: ，, id: KR2i0002_CHANT_002-bkkpn4}
+  - {type: 'tls:seg', offset: 27, content: '', id: KR2i0002_CHANT_002-1a.6}
+  - {type: variant, offset: 29, length: 7, content: 子出走伍子尚奔, SBCK: 有樓水門八南靣十里四十二步五尺西靣七里百一十二步三尺北靣八里二百二十六步三尺東靣十一里七十九步一尺闔廬所造也}
+  - {type: page-break, offset: 29, content: '', id: KR2i0002_SBCK_002-2a}
+  - {type: variant, offset: 29, length: 7, content: 子出走伍子尚奔, WYG: 有樓水門八南面十里四十二步五尺西面七里百一十二步三尺北面八里二百二十六步三尺東面十一里七十九步一尺闔廬所造也}
+  - {type: page-break, offset: 29, content: '', id: KR2i0002_WYG_002-2a, image: WYG0463/WYG0463-0079c.png}
+  - {type: variant, offset: 29, length: 7, content: 子出走伍子尚奔, krp: 有樓水門八南靣十里四十二步五尺西靣七里百一十二步三尺北靣八里二百二十六步三尺東靣十一里七十九步一尺闔廬所造也}
+  - {type: punctuation, offset: 32, content: ，, id: KR2i0002_CHANT_002-bkkpn5}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR2i0002_CHANT_002-1a.7}
+  - {type: punctuation, offset: 37, content: ，, id: KR2i0002_CHANT_002-bkkpn6}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR2i0002_CHANT_002-1a.8}
+  - {type: variant, offset: 37, length: 0, content: '', SBCK: 郭周六十八里六十步呉小城周十二里其下廣二丈七丈七尺門三皆有樓其二増水門二其一有樓一増柴路東宫周一里二百七十步路西宫在長秋周一里二十六步秦始皇帝十一年守宫者照燕失火燒之}
+  - {type: variant, offset: 37, length: 0, content: '', WYG: 郭周六十八里六十步呉小城周十二里其下廣二丈七尺髙四丈七尺門三皆有樓其二増水門二其一有樓一増柴路東宫周一里二百七十步路西宫在長秋周一里二十六步秦始皇帝十一年守宫者照燕失火燒之}
+  - {type: variant, offset: 37, length: 0, content: '', krp: 郭周六十八里六十步呉小城周十二里其下廣二丈七丈七尺門三皆有樓其二増水門二其一有樓一増柴路東宫周一里二百七十步路西宫在長秋周一里二十六步秦始皇帝十一年守宫者照燕失火燒之}
+  - {type: variant, offset: 40, length: 2, content: 奔鄭, SBCK: 城周九里二百七十步小城東西從武里面從小城北邑中徑從閶門到婁門九里七十二步陸道廣二十三步平門到蛇門十里七十五步陸道廣三十三步水道廣二十八步吳古故陸道出胥明奏出土山度灌邑奏髙頸過猶山奏大湖隨北顧以西度陽下溪過歴山陽龍尾西大決通安湖吳古故水道出平門上郭池入瀆出巢湖上歷地過梅亭入楊湖出漁浦入大江奏廣陵吳古故從由拳辟塞度㑹夷奏山陰辟塞者吳備候塞也居東城者闔廬所遊城也去縣二十里柴碎亭到語兒就李吳侵以為戰地百尺瀆奏江吳以達糧千里廬虚者闔廬以鑄千將劒歐治僮女三百人去縣二里南達江閶門外髙頸山東桓石人古者名石公去縣二十里閶門外郭中􅃁者闔廬冰室也闔廬􅃁在閶門外名虎丘下池廣六十步水深丈五尺銅槨三重墳池六尺玉鳬之流扁諸之劒三千方圓之口三千時耗魚腸之劒在焉千萬人築治之取土臨湖口築三日而白虎居上故號爲虎丘虎丘北莫格􅃁古賢者避世􅃁去縣二十里被奏􅃁鄧大􅃁是也去縣四十里闔廬子女􅃁在閶門外道北下方池廣四十八步水深二丈五尺池廣六十步水深丈五寸􅎬出廟路以南通姑胥門并周六里舞鶴吳市殺生以送死餘杭城者襄}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_SBCK_002-2b}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_SBCK_002-3a}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_SBCK_002-3b}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_SBCK_002-4a}
+  - {type: variant, offset: 40, length: 2, content: 奔鄭, WYG: 城周九里二百七十步小城東西從武里面從小城北邑中徑從閶門到婁門九里七十二步陸道廣二十三步平門到蛇門十里七十五步陸道廣三十三步水道廣二十八步吳古故陸道出胥明奏出土山度灌邑奏髙頸過猶山奏太湖隨北顧以西度陽下溪過歴山陽龍尾西大決通安湖吳古故水道出平門上郭池入瀆出巢湖上歴地過梅亭入楊湖出漁浦入大江奏廣陵吳古故從由拳辟塞度㑹夷奏山陰辟塞者吳備候塞也居東城者闔廬所遊城也去縣二十里柴碎亭到語兒就李吳侵以為戰地百尺瀆奏江吳以達糧千里廬虚者闔廬以鑄干將劒歐冶僮女三百人去縣二里南達江閶門外髙頸山東桓石人古者名石公去縣二十里閶門外郭中冡者闔廬冰室也闔廬冡在閶門外名虎丘下池廣六十步水深丈五尺銅槨三重墳池六尺玉鳬之流扁諸之劒三千方圓之口三千時耗魚腸之劒在焉千萬人築治之取土臨湖口築三日而白虎居上故號虎丘虎丘北莫格冡古賢者避世冡去縣二十里被奏冡鄧大冡是也去縣四十里闔廬子女冡在閶門外道北下方池廣四十八步水深二丈五尺池廣六十步水深丈五寸􅎬出廟路以南通姑胥門并周六里舞鶴吳市殺生以送死餘杭城者襄}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_WYG_002-2b, image: WYG0463/WYG0463-0079d.png}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_WYG_002-3a, image: WYG0463/WYG0463-0080a.png}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_WYG_002-3b, image: WYG0463/WYG0463-0080b.png}
+  - {type: page-break, offset: 40, content: '', id: KR2i0002_WYG_002-4a, image: WYG0463/WYG0463-0080c.png}
+  - {type: variant, offset: 40, length: 2, content: 奔鄭, krp: 城周九里二百七十步小城東西從武里面從小城北邑中徑從閶門到婁門九里七十二步陸道廣二十三步平門到蛇門十里七十五步陸道廣三十三步水道廣二十八步吳古故陸道出胥明奏出土山度灌邑奏髙頸過猶山奏大湖隨北顧以西度陽下溪過歴山陽龍尾西大決通安湖吳古故水道出平門上郭池入瀆出巢湖上歷地過梅亭入楊湖出漁浦入大江奏廣陵吳古故從由拳辟塞度㑹夷奏山陰辟塞者吳備候塞也居東城者闔廬所遊城也去縣二十里柴碎亭到語兒就李吳侵以為戰地百尺瀆奏江吳以達糧千里廬虚者闔廬以鑄千將劒歐治僮女三百人去縣二里南達江閶門外髙頸山東桓石人古者名石公去縣二十里閶門外郭中冡者闔廬冰室也闔廬冡在閶門外名虎丘下池廣六十步水深丈五尺銅槨三重墳池六尺玉鳬之流扁諸之劒三千方圓之口三千時耗魚腸之劒在焉千萬人築治之取土臨湖口築三日而白虎居上故號爲虎丘虎丘北莫格冡古賢者避世冡去縣二十里被奏冡鄧大冡是也去縣四十里闔廬子女冡在閶門外道北下方池廣四十八步水深二丈五尺池廣六十步水深丈五寸𡑞出廟路以南通姑胥門并周六里舞鶴吳市殺生以送死餘杭城者襄}
+  - {type: punctuation, offset: 42, content: 。, id: KR2i0002_CHANT_002-bkkpn7}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR2i0002_CHANT_002-1a.9}
+  - {type: variant, offset: 43, length: 3, content: 召奢而, SBCK: 時神女所葬也神多靈巫門外糜湖西城越宋王城也時與揺城王周宋君戰於語招殺周宋君母頭騎歸至武里死亡葬武里南城午日死也巫門外􅃁者闔廬冰室也巫門外大􅃁吳王客齊孫武􅃁也去縣十里善為兵法地門外塘波洋中世子塘者故曰王世子造以為田塘去縣二十五里洋中塘去縣二十六里蛇門外大丘吳王不審名􅃁也去縣十五里築塘北山者吳王不審名􅃁也去縣二十里近門外欐溪櫝中連鄉大丘者吳故神巫所􅁙也去縣十五里婁門外馬亭溪上復城者故越王餘復君所治也去縣八十里是時烈王歸於越所載襄王之後不可繼述其事書之馬亭溪婁門外鴻城者故越王城也去縣百五十里婁門外雞陂墟故吳王所畜雞使李保養之去縣二十里胥門外有九曲路闔廬造以遊姑胥之臺以望太湖中闚百姓去縣三十里齊門闔廬伐齊大克取齊王女為質子為造齊門置於水海虚其臺在車道左水海右去縣七十里齊女思其國死葬虞西山吳北野禺櫟東所舎大疁者吳王田也去縣八十里吳西野鹿陂者呉王田也今分為耦瀆胥卑虚去縣二十里吳北野胥主疁者呉王女胥主田也去縣八十里麋湖城者闔廬所置䴢也去縣五十里欐溪城者闔廬所置船宫也闔廬所造婁門外力士者闔廬所造以備外越巫欐城者闔廬所置諸侯逺客離城也去縣十五里由鍾窮隆山者古赤松子所取赤石脂也去縣二十里子胥死民思祭之莋碓山故為鶴阜山禹遊天下引湖中柯山置之鶴阜更名莋碓放山者在莋碓山南以取長之人一作莋碓山下故有鄉名莋邑吳王惡其名内郭中名通陵鄉莋碓山南有大石古者名為墜星去縣二十里撫侯山者故闔廬治以諸侯􅃁次去縣二十里吳東米一作徐亭東西南北通溪者越荆王所置與麋湖相通也馬安溪上干城者越干王之城也去縣七十里巫門外寃山大􅃁故越王王史􅃁也去縣二十里揺城者吳王子居焉後越揺王居之稻田三百頃在邑東南肥饒水絶去縣五十里胥女大􅃁吳王不審名􅃁也去縣四十五里蒲姑大􅃁呉王不審名􅃁也去縣三十里古城者吳王闔廬所置羙人離城也去縣七十里通江南陵揺越所鑿以伐上舎君去縣五十里婁東十里坑者古名長人坑從海上來去縣十里海鹽縣始為武原鄉婁北武城闔廬所以候外越也去縣三十里今為鄉也宿甲者吳宿兵候外越也去縣百里其東大􅃁揺王􅃁也烏程餘杭黝歙無湖石城縣以南皆故大越徙民也秦始皇帝刻石徙之烏傷縣常山古人所採藥也髙且神齊鄉周十里二百一十步其城六里三十步牆髙丈二尺百七十步竹門三其二有屋虞山者巫咸所出也虞故神出奇怪去縣百五里母陵道陽朔三年太守周君造陵道語昭郭周十里百一十步牆髙丈二尺陵門四皆有君水門二無錫城周二里十九步髙二丈七尺門一樓四其郭周十一里百二十八步牆一丈七尺門皆有屋無錫歴山春申君時盛祠以牛立無錫塘去吳百二十里無錫湖者春申君治以為陂鑿語昭瀆以東到大田田名胥卑鑿胥卑下以南注大湖以寫西野去縣三十五里無錫西龍尾陵道者春申君初封呉所造也屬於無錫縣以奏吳北野胥主疁曲阿故為雲陽縣毗陵故為延陵吳季子所居毗陵縣南城故古淹君地也東南大􅃁淹君子女􅃁也去縣十八里吳所葬毗陵上湖中􅃁者延陵季子􅃁也去縣七十里上湖通上洲季子􅃁古名延陵墟蒸山南面夏駕大􅃁者越王不審名􅃁去縣三十五里秦餘杭山者越王棲吳夫差山也去縣五十里山有湖水近太湖夫差􅃁在猶髙西卑猶位越王候干戈人二累土以葬之近太湖去縣十七里三臺者太宰嚭逢同妻子死所在也去縣十七里太湖周三萬六千頃其千頃烏程也去縣五十里無錫湖周萬五千頃其一千三頃毗陵上湖也去縣五十里一名射貴湖尸湖周二千二百頃去縣百七十里小湖周千三百二十頃去縣百里耆湖周六萬五千頃去縣百二十里乗湖周五百頃去縣五里猶湖周三百二十頃去縣十七里語昭湖周二百八十頃去縣五十里作湖周百八十頃聚魚多物去縣五十五里昆湖周七十六頃一畞去縣一百七十五里一名隱湖湖王湖當}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-4b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-5a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-5b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-6a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-6b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-7a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-7b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-8a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-8b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-9a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-9b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-10a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-10b}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-11a}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_SBCK_002-11b}
+  - {type: variant, offset: 43, length: 3, content: 召奢而, WYG: 時神女所葬也神多靈巫門外糜湖西城越宋王城也時與揺城王周宋君戰於語招殺周宋君母頭騎歸至武里死亡葬武里南城午日死也巫門外冡者闔廬冰室也巫門外大冡吳王客齊孫武冡也去縣十里善為兵法地門外塘波洋中世子塘者故曰王世子造以為田塘去縣二十五里洋中塘去縣二十六里蛇門外大丘吳王不審名冡也去縣十五里築塘北山者吳王不審名冡也去縣二十里近門外欐溪櫝中連鄉大丘者吳故神巫所𦵏也去縣十五里婁門外馬亭溪上復城者故越王餘復君所治也去縣八十里是時烈王歸於越所載襄王之後不可繼述其事書之馬亭溪婁門外鴻城者故越王城也去縣百五十里婁門外鷄陂墟故吳王所畜雞使李保養之去縣二十里胥門外有九曲路闔廬造以遊姑胥之臺以望太湖中闚百姓去縣三十里齊門闔廬伐齊大克取齊王女為質子為造齊門置於水海虚其臺在車道左水海右去縣七十里齊女思其國死葬虞西山吳北野禺櫟東所舎大疁者吳王田也去縣八十里吳西野鹿陂者呉王田也今分為耦瀆胥卑虚去縣二十里吳北野胥主疁者呉王女胥主田也去縣八十里麋湖城者闔廬所置䴢也去縣五十里欐溪城者闔廬所置船宫也闔廬所造婁門外力士者闔廬所造以備外越巫欐城者闔廬所置諸侯逺客離城也去縣十五里由鍾窮隆山者古赤松子所取赤石脂也去縣二十里子胥死民思祭之莋碓山故為鶴阜山禹遊天下引湖中柯山置之鶴阜更名莋碓放山者在莋碓山南以取長之一作人莋碓山下故有鄉名莋邑吳王惡其名内郭中名通陵鄉莋碓山南有大石古者名為墜星去縣二十里撫侯山者故闔廬治以諸侯冡次去縣二十里吳東一作米徐亭東西南北通溪者越荆王所置與麋湖相通也馬安溪上干城者越干王之城也去縣七十里巫門外寃山大冡故越王王史冡也去縣二十里揺城者吳王子居焉後越揺王居之稻田三百項在邑東南肥饒水絶去縣五十里胥女大冡吳王不審名冢也去縣四十五里蒲姑大冡呉王不審名冡也去縣三十里古城者吳王闔廬所置美人離城也去縣七十里通江南陵揺越所鑿以伐上舎君去縣五十里婁東十里坑者古名長人坑從海上來去縣十里海鹽縣始為武原鄉婁北武城闔廬所以候外越也去縣三十里今為鄉也宿甲者吳宿兵候外越也去縣百里其東大冡揺王冡也烏程餘杭黝歙無湖石城縣以南皆故大越徙民也秦始皇帝刻石徙之烏傷縣常山古人所採藥也髙且神齊鄉周十里二百一十步其城六里三十步牆髙丈二尺百七十步竹門三其二有屋虞山者巫咸所出也虞故神出奇怪去縣百五里母陵道陽朔三年太守周君造陵道語昭郭周十里百一十步牆髙丈二尺陵門四皆有屋水門二無錫城周二里十九步髙二丈七尺門一樓四其郭周十一里百二十八步牆一丈七尺門皆有屋無錫歴山春申君時盛祠以牛立無錫塘去吳百二十里無錫湖者春申君治以為陂鑿語昭瀆以東到大田田名胥卑鑿胥卑下以南注太湖以寫西野去縣三十五里無錫西龍尾陵道者春申君初封呉所造也屬於無錫縣以奏吳北野胥主疁曲阿故為雲陽縣毗陵故為延陵吳季子所居毗陵縣南城故古淹君地也東南大冡淹君子女冡也去縣十八里吳所葬毗陵上湖中冡者延陵季子冡也去縣七十里上湖通上洲季子冡古名延陵墟蒸山南面夏駕大冡者越王不審名冡去縣三十五里秦餘杭山者越王棲吳夫差山也去縣五十里山有湖水近太湖夫差冡在猶髙西卑猶位越王候干戈人一累土以葬之近太湖去縣十七里三臺者太宰嚭逢同妻子死所在也去縣十七里太湖周三萬六千頃其千頃烏程也去縣五十里無錫湖周萬五千頃其一千三頃毗陵上湖也去縣五十里一名射貴湖尸湖周二千二百頃去縣百七十里小湖周千三百二十頃去縣百里耆湖周六萬五千頃去縣百二十里乗湖周五百頃去縣五里猶湖周三百二十頃去縣五十里語昭湖周二百八十頃去縣五十里作湖周百八十頃聚魚多物去縣五十五里昆湖周七十六頃一畝去縣一百七十五里一名隱湖湖王湖當}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-4b, image: WYG0463/WYG0463-0080d.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-5a, image: WYG0463/WYG0463-0081a.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-5b, image: WYG0463/WYG0463-0081b.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-6a, image: WYG0463/WYG0463-0081c.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-6b, image: WYG0463/WYG0463-0081d.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-7a, image: WYG0463/WYG0463-0082a.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-7b, image: WYG0463/WYG0463-0082b.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-8a, image: WYG0463/WYG0463-0082c.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-8b, image: WYG0463/WYG0463-0082d.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-9a, image: WYG0463/WYG0463-0083a.png}
+  - {type: page-break, offset: 43, content: '', id: KR2i0002_WYG_002-9b, image: WYG0463/WYG0463-0083b.png}
+  - {type: variant, offset: 43, length: 3, content: 召奢而, krp: 時神女所葬也神多靈巫門外糜湖西城越宋王城也時與揺城王周宋君戰於語招殺周宋君母頭騎歸至武里死亡葬武里南城午日死也巫門外冡者闔廬冰室也巫門外大冡吳王客齊孫武冡也去縣十里善為兵法地門外塘波洋中世子塘者故曰王世子造以為田塘去縣二十五里洋中塘去縣二十六里蛇門外大丘吳王不審名冡也去縣十五里築塘北山者吳王不審名冡也去縣二十里近門外欐溪櫝中連鄉大丘者吳故神巫所葬也去縣十五里婁門外馬亭溪上復城者故越王餘復君所治也去縣八十里是時烈王歸於越所載襄王之後不可繼述其事書之馬亭溪婁門外鴻城者故越王城也去縣百五十里婁門外雞陂墟故吳王所畜雞使李保養之去縣二十里胥門外有九曲路闔廬造以遊姑胥之臺以望太湖中闚百姓去縣三十里齊門闔廬伐齊大克取齊王女為質子為造齊門置於水海虚其臺在車道左水海右去縣七十里齊女思其國死葬虞西山吳北野禺櫟東所舎大疁者吳王田也去縣八十里吳西野鹿陂者呉王田也今分為耦瀆胥卑虚去縣二十里吳北野胥主疁者呉王女胥主田也去縣八十里麋湖城者闔廬所置䴢也去縣五十里欐溪城者闔廬所置船宫也闔廬所造婁門外力士者闔廬所造以備外越巫欐城者闔廬所置諸侯逺客離城也去縣十五里由鍾窮隆山者古赤松子所取赤石脂也去縣二十里子胥死民思祭之莋碓山故為鶴阜山禹遊天下引湖中柯山置之鶴阜更名莋碓放山者在莋碓山南以取長之人一作莋碓山下故有鄉名莋邑吳王惡其名内郭中名通陵鄉莋碓山南有大石古者名為墜星去縣二十里撫侯山者故闔廬治以諸侯冡次去縣二十里吳東米一作徐亭東西南北通溪者越荆王所置與麋湖相通也馬安溪上干城者越干王之城也去縣七十里巫門外寃山大冡故越王王史冡也去縣二十里揺城者吳王子居焉後越揺王居之稻田三百頃在邑東南肥饒水絶去縣五十里胥女大冡吳王不審名冡也去縣四十五里蒲姑大冡呉王不審名冡也去縣三十里古城者吳王闔廬所置羙人離城也去縣七十里通江南陵揺越所鑿以伐上舎君去縣五十里婁東十里坑者古名長人坑從海上來去縣十里海鹽縣始為武原鄉婁北武城闔廬所以候外越也去縣三十里今為鄉也宿甲者吳宿兵候外越也去縣百里其東大冡揺王冡也烏程餘杭黝歙無湖石城縣以南皆故大越徙民也秦始皇帝刻石徙之烏傷縣常山古人所採藥也髙且神齊鄉周十里二百一十步其城六里三十步牆髙丈二尺百七十步竹門三其二有屋虞山者巫咸所出也虞故神出奇怪去縣百五里母陵道陽朔三年太守周君造陵道語昭郭周十里百一十步牆髙丈二尺陵門四皆有君水門二無錫城周二里十九步髙二丈七尺門一樓四其郭周十一里百二十八步牆一丈七尺門皆有屋無錫歴山春申君時盛祠以牛立無錫塘去吳百二十里無錫湖者春申君治以為陂鑿語昭瀆以東到大田田名胥卑鑿胥卑下以南注大湖以寫西野去縣三十五里無錫西龍尾陵道者春申君初封呉所造也屬於無錫縣以奏吳北野胥主疁曲阿故為雲陽縣毗陵故為延陵吳季子所居毗陵縣南城故古淹君地也東南大冡淹君子女冡也去縣十八里吳所葬毗陵上湖中冡者延陵季子冡也去縣七十里上湖通上洲季子冡古名延陵墟蒸山南面夏駕大冡者越王不審名冡去縣三十五里秦餘杭山者越王棲吳夫差山也去縣五十里山有湖水近太湖夫差冡在猶髙西卑猶位越王候干戈人二累土以葬之近太湖去縣十七里三臺者太宰嚭逢同妻子死所在也去縣十七里太湖周三萬六千頃其千頃烏程也去縣五十里無錫湖周萬五千頃其一千三頃毗陵上湖也去縣五十里一名射貴湖尸湖周二千二百頃去縣百七十里小湖周千三百二十頃去縣百里耆湖周六萬五千頃去縣百二十里乗湖周五百頃去縣五里猶湖周三百二十頃去縣十七里語昭湖周二百八十頃去縣五十里作湖周百八十頃聚魚多物去縣五十五里昆湖周七十六頃一畞去縣一百七十五里一名隱湖湖王湖當}
+  - {type: punctuation, offset: 48, content: ，, id: KR2i0002_CHANT_002-bkkpn8}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2i0002_CHANT_002-1a.10}
+  - {type: variant, offset: 48, length: 3, content: 曰若召, SBCK: 丹湖當問之呉古故祠江漢海一作於棠浦東江南為方牆以利朝夕水古太伯君吳到闔廬時絶胥女南小蜀山春申君客衛公}
+  - {type: variant, offset: 48, length: 3, content: 曰若召, WYG: 丹湖當問之呉王故祠江漢一作海於棠浦東江南為方牆以利朝夕水古太伯君吳到闔廬時絶胥女南小蜀山春申君客衛公}
+  - {type: page-break, offset: 48, content: '', id: KR2i0002_WYG_002-10a, image: WYG0463/WYG0463-0083c.png}
+  - {type: variant, offset: 48, length: 3, content: 曰若召, krp: 丹湖當問之呉古故祠江漢海一作於棠浦東江南為方牆以利朝夕水古太伯君吳到闔廬時絶胥女南小蜀山春申君客衛公}
+  - {type: punctuation, offset: 49, content: ：, id: KR2i0002_CHANT_002-bkkpn9}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR2i0002_CHANT_002-1a.11}
+  - {type: punctuation, offset: 49, content: 「, id: KR2i0002_CHANT_002-bkkpn10}
+  - {type: punctuation, offset: 52, content: ，, id: KR2i0002_CHANT_002-bkkpn11}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR2i0002_CHANT_002-1a.12}
+  - {type: variant, offset: 52, length: 2, content: 孰來, SBCK: 􅃁}
+  - {type: variant, offset: 52, length: 2, content: 孰來, WYG: 冡}
+  - {type: variant, offset: 52, length: 2, content: 孰來, krp: 冡}
+  - {type: punctuation, offset: 55, content: ？, id: KR2i0002_CHANT_002-bkkpn12}
+  - {type: punctuation, offset: 55, content: 」, id: KR2i0002_CHANT_002-bkkpn13}
+  - {type: 'tls:seg', offset: 55, content: '', id: KR2i0002_CHANT_002-1a.13}
+  - {type: variant, offset: 55, length: 20, content: 子奢對曰王問臣對而畏死不對不知子之心者尚, SBCK: 去縣三十五里白石公一作山故}
+  - {type: variant, offset: 55, length: 20, content: 子奢對曰王問臣對而畏死不對不知子之心者尚, WYG: 去縣三十五里白石一作公山故}
+  - {type: variant, offset: 55, length: 20, content: 子奢對曰王問臣對而畏死不對不知子之心者尚, krp: 去縣三十五里白石公一作山故}
+  - {type: punctuation, offset: 59, content: ：, id: KR2i0002_CHANT_002-bkkpn14}
+  - {type: 'tls:seg', offset: 59, content: '', id: KR2i0002_CHANT_002-1a.14}
+  - {type: punctuation, offset: 59, content: 「, id: KR2i0002_CHANT_002-bkkpn15}
+  - {type: punctuation, offset: 62, content: ，, id: KR2i0002_CHANT_002-bkkpn16}
+  - {type: 'tls:seg', offset: 62, content: '', id: KR2i0002_CHANT_002-1a.15}
+  - {type: punctuation, offset: 66, content: ，, id: KR2i0002_CHANT_002-bkkpn17}
+  - {type: 'tls:seg', offset: 66, content: '', id: KR2i0002_CHANT_002-1a.16}
+  - {type: punctuation, offset: 74, content: 。, id: KR2i0002_CHANT_002-bkkpn18}
+  - {type: 'tls:seg', offset: 74, content: '', id: KR2i0002_CHANT_002-1a.17}
+  - {type: variant, offset: 76, length: 9, content: 人也仁且智來之必入, SBCK: ''}
+  - {type: variant, offset: 76, length: 9, content: 人也仁且智來之必入, WYG: ''}
+  - {type: variant, offset: 76, length: 9, content: 人也仁且智來之必入, krp: ''}
+  - {type: punctuation, offset: 78, content: ，, id: KR2i0002_CHANT_002-bkkpn19}
+  - {type: 'tls:seg', offset: 78, content: '', id: KR2i0002_CHANT_002-1a.18}
+  - {type: punctuation, offset: 81, content: ，, id: KR2i0002_CHANT_002-bkkpn20}
+  - {type: 'tls:seg', offset: 81, content: '', id: KR2i0002_CHANT_002-1a.19}
+  - {type: punctuation, offset: 85, content: ；, id: KR2i0002_CHANT_002-bkkpn21}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR2i0002_CHANT_002-1a.20}
+  - {type: variant, offset: 86, length: 13, content: 為人也勇且智來必不入胥且奔, SBCK: 女山春申君初封}
+  - {type: variant, offset: 86, length: 13, content: 為人也勇且智來必不入胥且奔, WYG: 女山春申君初封}
+  - {type: variant, offset: 86, length: 13, content: 為人也勇且智來必不入胥且奔, krp: 女山春申君初封}
+  - {type: punctuation, offset: 89, content: ，, id: KR2i0002_CHANT_002-bkkpn22}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR2i0002_CHANT_002-1a.21}
+  - {type: punctuation, offset: 92, content: ，, id: KR2i0002_CHANT_002-bkkpn23}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR2i0002_CHANT_002-1a.22}
+  - {type: punctuation, offset: 96, content: 。, id: KR2i0002_CHANT_002-bkkpn24}
+  - {type: 'tls:seg', offset: 96, content: '', id: KR2i0002_CHANT_002-1a.23}
+  - {type: variant, offset: 100, length: 292, content: 邦君王必早閉而晏開胥將使邊境有大憂於是王即使使者召子尚於吳曰子父有罪子入則免之不入則殺之子胥聞之使人告子尚於吳吾聞荊平王召子子必毋入胥聞之入者窮出者報仇入者皆死是不智也死而不報父之讎是非勇也子尚對曰入則免父之死不入則不仁愛身之死絕父之望賢士不為也意不同謀不合子其居尚請入荊平王復使使者召子胥於鄭曰子入則免父死不入則殺之子胥介冑彀弓出見使者謝曰介冑之士固不拜矣請有道於使者王以奢為無罪赦而蓄之其子又何適乎使者還報荊平王王知子胥不入也殺子奢而并殺子尚子胥聞之即從橫嶺上大山北望齊晉謂其舍人曰去此邦堂堂被山帶河其民重移於是乃南奔吳至江上見漁者曰來渡我漁者知其非常人也欲往渡之恐人知之即歌而往, SBCK: ''}
+  - {type: variant, offset: 100, length: 292, content: 邦君王必早閉而晏開胥將使邊境有大憂於是王即使使者召子尚於吳曰子父有罪子入則免之不入則殺之子胥聞之使人告子尚於吳吾聞荊平王召子子必毋入胥聞之入者窮出者報仇入者皆死是不智也死而不報父之讎是非勇也子尚對曰入則免父之死不入則不仁愛身之死絕父之望賢士不為也意不同謀不合子其居尚請入荊平王復使使者召子胥於鄭曰子入則免父死不入則殺之子胥介冑彀弓出見使者謝曰介冑之士固不拜矣請有道於使者王以奢為無罪赦而蓄之其子又何適乎使者還報荊平王王知子胥不入也殺子奢而并殺子尚子胥聞之即從橫嶺上大山北望齊晉謂其舍人曰去此邦堂堂被山帶河其民重移於是乃南奔吳至江上見漁者曰來渡我漁者知其非常人也欲往渡之恐人知之即歌而往, WYG: ''}
+  - {type: variant, offset: 100, length: 292, content: 邦君王必早閉而晏開胥將使邊境有大憂於是王即使使者召子尚於吳曰子父有罪子入則免之不入則殺之子胥聞之使人告子尚於吳吾聞荊平王召子子必毋入胥聞之入者窮出者報仇入者皆死是不智也死而不報父之讎是非勇也子尚對曰入則免父之死不入則不仁愛身之死絕父之望賢士不為也意不同謀不合子其居尚請入荊平王復使使者召子胥於鄭曰子入則免父死不入則殺之子胥介冑彀弓出見使者謝曰介冑之士固不拜矣請有道於使者王以奢為無罪赦而蓄之其子又何適乎使者還報荊平王王知子胥不入也殺子奢而并殺子尚子胥聞之即從橫嶺上大山北望齊晉謂其舍人曰去此邦堂堂被山帶河其民重移於是乃南奔吳至江上見漁者曰來渡我漁者知其非常人也欲往渡之恐人知之即歌而往, krp: ''}
+  - {type: punctuation, offset: 101, content: ，, id: KR2i0002_CHANT_002-bkkpn25}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR2i0002_CHANT_002-1a.24}
+  - {type: punctuation, offset: 109, content: ，, id: KR2i0002_CHANT_002-bkkpn26}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR2i0002_CHANT_002-1a.25}
+  - {type: punctuation, offset: 117, content: 。, id: KR2i0002_CHANT_002-bkkpn27}
+  - {type: punctuation, offset: 117, content: 」, id: KR2i0002_CHANT_002-bkkpn28}
+  - {type: xml-element, offset: 117, content: '', id: KR2i0002_CHANT_002-bkkxmlele2}
+  - {type: xml-element, offset: 117, content: '', id: KR2i0002_CHANT_002-bkkxmlele3}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR2i0002_CHANT_002-2a.1}
+  - {type: 'tls:seg', offset: 117, content: '', id: KR2i0002_CHANT_002-2a.2}
+  - {type: punctuation, offset: 129, content: ，, id: KR2i0002_CHANT_002-bkkpn29}
+  - {type: 'tls:seg', offset: 129, content: '', id: KR2i0002_CHANT_002-2a.3}
+  - {type: punctuation, offset: 130, content: ：, id: KR2i0002_CHANT_002-bkkpn30}
+  - {type: 'tls:seg', offset: 130, content: '', id: KR2i0002_CHANT_002-2a.4}
+  - {type: punctuation, offset: 130, content: 「, id: KR2i0002_CHANT_002-bkkpn31}
+  - {type: punctuation, offset: 134, content: ，, id: KR2i0002_CHANT_002-bkkpn32}
+  - {type: 'tls:seg', offset: 134, content: '', id: KR2i0002_CHANT_002-2a.5}
+  - {type: punctuation, offset: 136, content: ，, id: KR2i0002_CHANT_002-bkkpn33}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR2i0002_CHANT_002-2a.6}
+  - {type: punctuation, offset: 139, content: ；, id: KR2i0002_CHANT_002-bkkpn34}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR2i0002_CHANT_002-2a.7}
+  - {type: punctuation, offset: 141, content: ，, id: KR2i0002_CHANT_002-bkkpn35}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR2i0002_CHANT_002-2a.8}
+  - {type: punctuation, offset: 144, content: 。, id: KR2i0002_CHANT_002-bkkpn36}
+  - {type: punctuation, offset: 144, content: 」, id: KR2i0002_CHANT_002-bkkpn37}
+  - {type: 'tls:seg', offset: 144, content: '', id: KR2i0002_CHANT_002-2a.9}
+  - {type: punctuation, offset: 148, content: ，, id: KR2i0002_CHANT_002-bkkpn38}
+  - {type: 'tls:seg', offset: 148, content: '', id: KR2i0002_CHANT_002-2a.10}
+  - {type: punctuation, offset: 155, content: ：, id: KR2i0002_CHANT_002-bkkpn39}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR2i0002_CHANT_002-2a.11}
+  - {type: punctuation, offset: 155, content: 「, id: KR2i0002_CHANT_002-bkkpn40}
+  - {type: punctuation, offset: 162, content: ，, id: KR2i0002_CHANT_002-bkkpn41}
+  - {type: 'tls:seg', offset: 162, content: '', id: KR2i0002_CHANT_002-2a.12}
+  - {type: punctuation, offset: 166, content: 。, id: KR2i0002_CHANT_002-bkkpn42}
+  - {type: 'tls:seg', offset: 166, content: '', id: KR2i0002_CHANT_002-2a.13}
+  - {type: punctuation, offset: 169, content: ，, id: KR2i0002_CHANT_002-bkkpn43}
+  - {type: 'tls:seg', offset: 169, content: '', id: KR2i0002_CHANT_002-2a.14}
+  - {type: punctuation, offset: 172, content: ，, id: KR2i0002_CHANT_002-bkkpn44}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR2i0002_CHANT_002-2a.15}
+  - {type: punctuation, offset: 176, content: 。, id: KR2i0002_CHANT_002-bkkpn45}
+  - {type: 'tls:seg', offset: 176, content: '', id: KR2i0002_CHANT_002-2a.16}
+  - {type: punctuation, offset: 180, content: ，, id: KR2i0002_CHANT_002-bkkpn46}
+  - {type: 'tls:seg', offset: 180, content: '', id: KR2i0002_CHANT_002-2a.17}
+  - {type: punctuation, offset: 184, content: ；, id: KR2i0002_CHANT_002-bkkpn47}
+  - {type: 'tls:seg', offset: 184, content: '', id: KR2i0002_CHANT_002-2a.18}
+  - {type: punctuation, offset: 191, content: ，, id: KR2i0002_CHANT_002-bkkpn48}
+  - {type: 'tls:seg', offset: 191, content: '', id: KR2i0002_CHANT_002-2a.19}
+  - {type: punctuation, offset: 195, content: 。, id: KR2i0002_CHANT_002-bkkpn49}
+  - {type: punctuation, offset: 195, content: 」, id: KR2i0002_CHANT_002-bkkpn50}
+  - {type: 'tls:seg', offset: 195, content: '', id: KR2i0002_CHANT_002-2a.20}
+  - {type: punctuation, offset: 199, content: ：, id: KR2i0002_CHANT_002-bkkpn51}
+  - {type: 'tls:seg', offset: 199, content: '', id: KR2i0002_CHANT_002-2a.21}
+  - {type: punctuation, offset: 199, content: 「, id: KR2i0002_CHANT_002-bkkpn52}
+  - {type: punctuation, offset: 205, content: ，, id: KR2i0002_CHANT_002-bkkpn53}
+  - {type: 'tls:seg', offset: 205, content: '', id: KR2i0002_CHANT_002-2a.22}
+  - {type: punctuation, offset: 210, content: 。, id: KR2i0002_CHANT_002-bkkpn54}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR2i0002_CHANT_002-2a.23}
+  - {type: punctuation, offset: 214, content: ，, id: KR2i0002_CHANT_002-bkkpn55}
+  - {type: 'tls:seg', offset: 214, content: '', id: KR2i0002_CHANT_002-2a.24}
+  - {type: substitution, offset: 214, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
+  - {type: punctuation, offset: 218, content: ，, id: KR2i0002_CHANT_002-bkkpn56}
+  - {type: 'tls:seg', offset: 218, content: '', id: KR2i0002_CHANT_002-2a.25}
+  - {type: punctuation, offset: 223, content: 。, id: KR2i0002_CHANT_002-bkkpn57}
+  - {type: 'tls:seg', offset: 223, content: '', id: KR2i0002_CHANT_002-2a.26}
+  - {type: punctuation, offset: 226, content: ，, id: KR2i0002_CHANT_002-bkkpn58}
+  - {type: 'tls:seg', offset: 226, content: '', id: KR2i0002_CHANT_002-2a.27}
+  - {type: punctuation, offset: 229, content: ，, id: KR2i0002_CHANT_002-bkkpn59}
+  - {type: 'tls:seg', offset: 229, content: '', id: KR2i0002_CHANT_002-2a.28}
+  - {type: punctuation, offset: 232, content: ，, id: KR2i0002_CHANT_002-bkkpn60}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR2i0002_CHANT_002-2a.29}
+  - {type: punctuation, offset: 235, content: 。, id: KR2i0002_CHANT_002-bkkpn61}
+  - {type: punctuation, offset: 235, content: 」, id: KR2i0002_CHANT_002-bkkpn62}
+  - {type: 'tls:seg', offset: 235, content: '', id: KR2i0002_CHANT_002-2a.30}
+  - {type: punctuation, offset: 247, content: ，, id: KR2i0002_CHANT_002-bkkpn63}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR2i0002_CHANT_002-2a.31}
+  - {type: punctuation, offset: 248, content: ：, id: KR2i0002_CHANT_002-bkkpn64}
+  - {type: 'tls:seg', offset: 248, content: '', id: KR2i0002_CHANT_002-2a.32}
+  - {type: punctuation, offset: 248, content: 「, id: KR2i0002_CHANT_002-bkkpn65}
+  - {type: punctuation, offset: 250, content: ，, id: KR2i0002_CHANT_002-bkkpn66}
+  - {type: 'tls:seg', offset: 250, content: '', id: KR2i0002_CHANT_002-2a.33}
+  - {type: punctuation, offset: 254, content: ；, id: KR2i0002_CHANT_002-bkkpn67}
+  - {type: 'tls:seg', offset: 254, content: '', id: KR2i0002_CHANT_002-2a.34}
+  - {type: punctuation, offset: 256, content: ，, id: KR2i0002_CHANT_002-bkkpn68}
+  - {type: 'tls:seg', offset: 256, content: '', id: KR2i0002_CHANT_002-2a.35}
+  - {type: punctuation, offset: 259, content: 。, id: KR2i0002_CHANT_002-bkkpn69}
+  - {type: punctuation, offset: 259, content: 」, id: KR2i0002_CHANT_002-bkkpn70}
+  - {type: 'tls:seg', offset: 259, content: '', id: KR2i0002_CHANT_002-2a.36}
+  - {type: substitution, offset: 262, original: 冑, replacement: 胄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4138}}
+  - {type: punctuation, offset: 265, content: ，, id: KR2i0002_CHANT_002-bkkpn71}
+  - {type: 'tls:seg', offset: 265, content: '', id: KR2i0002_CHANT_002-2a.37}
+  - {type: punctuation, offset: 269, content: ，, id: KR2i0002_CHANT_002-bkkpn72}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR2i0002_CHANT_002-2a.38}
+  - {type: punctuation, offset: 271, content: ：, id: KR2i0002_CHANT_002-bkkpn73}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR2i0002_CHANT_002-2a.39}
+  - {type: punctuation, offset: 271, content: 「, id: KR2i0002_CHANT_002-bkkpn74}
+  - {type: substitution, offset: 272, original: 冑, replacement: 胄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4138}}
+  - {type: punctuation, offset: 275, content: ，, id: KR2i0002_CHANT_002-bkkpn75}
+  - {type: 'tls:seg', offset: 275, content: '', id: KR2i0002_CHANT_002-2a.40}
+  - {type: punctuation, offset: 279, content: 。, id: KR2i0002_CHANT_002-bkkpn76}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR2i0002_CHANT_002-2a.41}
+  - {type: punctuation, offset: 285, content: ：, id: KR2i0002_CHANT_002-bkkpn77}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR2i0002_CHANT_002-2a.42}
+  - {type: punctuation, offset: 291, content: ，, id: KR2i0002_CHANT_002-bkkpn78}
+  - {type: 'tls:seg', offset: 291, content: '', id: KR2i0002_CHANT_002-2a.43}
+  - {type: punctuation, offset: 295, content: ，, id: KR2i0002_CHANT_002-bkkpn79}
+  - {type: 'tls:seg', offset: 295, content: '', id: KR2i0002_CHANT_002-2a.44}
+  - {type: punctuation, offset: 301, content: ？, id: KR2i0002_CHANT_002-bkkpn80}
+  - {type: punctuation, offset: 301, content: 」, id: KR2i0002_CHANT_002-bkkpn81}
+  - {type: 'tls:seg', offset: 301, content: '', id: KR2i0002_CHANT_002-2a.45}
+  - {type: punctuation, offset: 308, content: 。, id: KR2i0002_CHANT_002-bkkpn82}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR2i0002_CHANT_002-2a.46}
+  - {type: punctuation, offset: 315, content: ，, id: KR2i0002_CHANT_002-bkkpn83}
+  - {type: 'tls:seg', offset: 315, content: '', id: KR2i0002_CHANT_002-2a.47}
+  - {type: punctuation, offset: 323, content: 。, id: KR2i0002_CHANT_002-bkkpn84}
+  - {type: xml-element, offset: 323, content: '', id: KR2i0002_CHANT_002-bkkxmlele4}
+  - {type: xml-element, offset: 323, content: '', id: KR2i0002_CHANT_002-bkkxmlele5}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR2i0002_CHANT_002-3a.1}
+  - {type: 'tls:seg', offset: 323, content: '', id: KR2i0002_CHANT_002-3a.2}
+  - {type: punctuation, offset: 327, content: ，, id: KR2i0002_CHANT_002-bkkpn85}
+  - {type: 'tls:seg', offset: 327, content: '', id: KR2i0002_CHANT_002-3a.3}
+  - {type: punctuation, offset: 334, content: ，, id: KR2i0002_CHANT_002-bkkpn86}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR2i0002_CHANT_002-3a.4}
+  - {type: punctuation, offset: 338, content: ，, id: KR2i0002_CHANT_002-bkkpn87}
+  - {type: 'tls:seg', offset: 338, content: '', id: KR2i0002_CHANT_002-3a.5}
+  - {type: punctuation, offset: 343, content: ：, id: KR2i0002_CHANT_002-bkkpn88}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR2i0002_CHANT_002-3a.6}
+  - {type: punctuation, offset: 343, content: 「, id: KR2i0002_CHANT_002-bkkpn89}
+  - {type: punctuation, offset: 344, content: ，, id: KR2i0002_CHANT_002-bkkpn90}
+  - {type: 'tls:seg', offset: 344, content: '', id: KR2i0002_CHANT_002-3a.7}
+  - {type: punctuation, offset: 348, content: ，, id: KR2i0002_CHANT_002-bkkpn91}
+  - {type: 'tls:seg', offset: 348, content: '', id: KR2i0002_CHANT_002-3a.8}
+  - {type: punctuation, offset: 352, content: ，, id: KR2i0002_CHANT_002-bkkpn92}
+  - {type: 'tls:seg', offset: 352, content: '', id: KR2i0002_CHANT_002-3a.9}
+  - {type: punctuation, offset: 356, content: 。, id: KR2i0002_CHANT_002-bkkpn93}
+  - {type: punctuation, offset: 356, content: 」, id: KR2i0002_CHANT_002-bkkpn94}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR2i0002_CHANT_002-3a.10}
+  - {type: punctuation, offset: 362, content: 。, id: KR2i0002_CHANT_002-bkkpn95}
+  - {type: 'tls:seg', offset: 362, content: '', id: KR2i0002_CHANT_002-3a.11}
+  - {type: punctuation, offset: 365, content: ，, id: KR2i0002_CHANT_002-bkkpn96}
+  - {type: 'tls:seg', offset: 365, content: '', id: KR2i0002_CHANT_002-3a.12}
+  - {type: punctuation, offset: 368, content: 。, id: KR2i0002_CHANT_002-bkkpn97}
+  - {type: 'tls:seg', offset: 368, content: '', id: KR2i0002_CHANT_002-3a.13}
+  - {type: punctuation, offset: 369, content: ：, id: KR2i0002_CHANT_002-bkkpn98}
+  - {type: 'tls:seg', offset: 369, content: '', id: KR2i0002_CHANT_002-3a.14}
+  - {type: punctuation, offset: 369, content: 「, id: KR2i0002_CHANT_002-bkkpn99}
+  - {type: punctuation, offset: 370, content: ，, id: KR2i0002_CHANT_002-bkkpn100}
+  - {type: 'tls:seg', offset: 370, content: '', id: KR2i0002_CHANT_002-3a.15}
+  - {type: punctuation, offset: 372, content: 。, id: KR2i0002_CHANT_002-bkkpn101}
+  - {type: punctuation, offset: 372, content: 」, id: KR2i0002_CHANT_002-bkkpn102}
+  - {type: 'tls:seg', offset: 372, content: '', id: KR2i0002_CHANT_002-3a.16}
+  - {type: punctuation, offset: 380, content: ，, id: KR2i0002_CHANT_002-bkkpn103}
+  - {type: 'tls:seg', offset: 380, content: '', id: KR2i0002_CHANT_002-3a.17}
+  - {type: punctuation, offset: 384, content: ，, id: KR2i0002_CHANT_002-bkkpn104}
+  - {type: 'tls:seg', offset: 384, content: '', id: KR2i0002_CHANT_002-3a.18}
+  - {type: punctuation, offset: 388, content: ，, id: KR2i0002_CHANT_002-bkkpn105}
+  - {type: 'tls:seg', offset: 388, content: '', id: KR2i0002_CHANT_002-3a.19}
+  - {type: variant, offset: 393, length: 102, content: 之曰日昭昭侵以施與子期甫蘆之碕子胥即從漁者之蘆碕日入漁者復歌往曰心中有悲日已施子可渡河何為不出船到即載入船而伏半江而仰謂漁者曰子之姓為誰還得報子之厚德漁者曰縱荊邦之賊者我也報荊邦之仇者子也兩而不仁何相問姓, SBCK: 更}
+  - {type: variant, offset: 393, length: 102, content: 之曰日昭昭侵以施與子期甫蘆之碕子胥即從漁者之蘆碕日入漁者復歌往曰心中有悲日已施子可渡河何為不出船到即載入船而伏半江而仰謂漁者曰子之姓為誰還得報子之厚德漁者曰縱荊邦之賊者我也報荊邦之仇者子也兩而不仁何相問姓, WYG: 更}
+  - {type: variant, offset: 393, length: 102, content: 之曰日昭昭侵以施與子期甫蘆之碕子胥即從漁者之蘆碕日入漁者復歌往曰心中有悲日已施子可渡河何為不出船到即載入船而伏半江而仰謂漁者曰子之姓為誰還得報子之厚德漁者曰縱荊邦之賊者我也報荊邦之仇者子也兩而不仁何相問姓, krp: 更}
+  - {type: punctuation, offset: 394, content: ，, id: KR2i0002_CHANT_002-bkkpn106}
+  - {type: 'tls:seg', offset: 394, content: '', id: KR2i0002_CHANT_002-3a.20}
+  - {type: punctuation, offset: 395, content: ：, id: KR2i0002_CHANT_002-bkkpn107}
+  - {type: 'tls:seg', offset: 395, content: '', id: KR2i0002_CHANT_002-3a.21}
+  - {type: punctuation, offset: 395, content: 「, id: KR2i0002_CHANT_002-bkkpn108}
+  - {type: punctuation, offset: 398, content: ，, id: KR2i0002_CHANT_002-bkkpn109}
+  - {type: 'tls:seg', offset: 398, content: '', id: KR2i0002_CHANT_002-3a.22}
+  - {type: punctuation, offset: 401, content: ，, id: KR2i0002_CHANT_002-bkkpn110}
+  - {type: 'tls:seg', offset: 401, content: '', id: KR2i0002_CHANT_002-3a.23}
+  - {type: substitution, offset: 407, original: 碕, replacement: 崎, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3684}}
+  - {type: punctuation, offset: 408, content: 。, id: KR2i0002_CHANT_002-bkkpn111}
+  - {type: punctuation, offset: 408, content: 」, id: KR2i0002_CHANT_002-bkkpn112}
+  - {type: 'tls:seg', offset: 408, content: '', id: KR2i0002_CHANT_002-3a.24}
+  - {type: substitution, offset: 416, original: 碕, replacement: 崎, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3684}}
+  - {type: punctuation, offset: 417, content: 。, id: KR2i0002_CHANT_002-bkkpn113}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR2i0002_CHANT_002-3a.25}
+  - {type: punctuation, offset: 419, content: ，, id: KR2i0002_CHANT_002-bkkpn114}
+  - {type: 'tls:seg', offset: 419, content: '', id: KR2i0002_CHANT_002-3a.26}
+  - {type: punctuation, offset: 424, content: ，, id: KR2i0002_CHANT_002-bkkpn115}
+  - {type: 'tls:seg', offset: 424, content: '', id: KR2i0002_CHANT_002-3a.27}
+  - {type: punctuation, offset: 425, content: ：, id: KR2i0002_CHANT_002-bkkpn116}
+  - {type: 'tls:seg', offset: 425, content: '', id: KR2i0002_CHANT_002-3a.28}
+  - {type: punctuation, offset: 425, content: 「, id: KR2i0002_CHANT_002-bkkpn117}
+  - {type: punctuation, offset: 429, content: ，, id: KR2i0002_CHANT_002-bkkpn118}
+  - {type: 'tls:seg', offset: 429, content: '', id: KR2i0002_CHANT_002-3a.29}
+  - {type: punctuation, offset: 432, content: ，, id: KR2i0002_CHANT_002-bkkpn119}
+  - {type: 'tls:seg', offset: 432, content: '', id: KR2i0002_CHANT_002-3a.30}
+  - {type: punctuation, offset: 436, content: ，, id: KR2i0002_CHANT_002-bkkpn120}
+  - {type: 'tls:seg', offset: 436, content: '', id: KR2i0002_CHANT_002-3a.31}
+  - {type: punctuation, offset: 440, content: ？, id: KR2i0002_CHANT_002-bkkpn121}
+  - {type: punctuation, offset: 440, content: 」, id: KR2i0002_CHANT_002-bkkpn122}
+  - {type: 'tls:seg', offset: 440, content: '', id: KR2i0002_CHANT_002-3a.32}
+  - {type: punctuation, offset: 444, content: ，, id: KR2i0002_CHANT_002-bkkpn123}
+  - {type: 'tls:seg', offset: 444, content: '', id: KR2i0002_CHANT_002-3a.33}
+  - {type: punctuation, offset: 448, content: 。, id: KR2i0002_CHANT_002-bkkpn124}
+  - {type: 'tls:seg', offset: 448, content: '', id: KR2i0002_CHANT_002-3a.34}
+  - {type: punctuation, offset: 450, content: ，, id: KR2i0002_CHANT_002-bkkpn125}
+  - {type: 'tls:seg', offset: 450, content: '', id: KR2i0002_CHANT_002-3a.35}
+  - {type: punctuation, offset: 456, content: ：, id: KR2i0002_CHANT_002-bkkpn126}
+  - {type: 'tls:seg', offset: 456, content: '', id: KR2i0002_CHANT_002-3a.36}
+  - {type: punctuation, offset: 456, content: 「, id: KR2i0002_CHANT_002-bkkpn127}
+  - {type: punctuation, offset: 461, content: ？, id: KR2i0002_CHANT_002-bkkpn128}
+  - {type: 'tls:seg', offset: 461, content: '', id: KR2i0002_CHANT_002-3a.37}
+  - {type: punctuation, offset: 462, content: ，, id: KR2i0002_CHANT_002-bkkpn129}
+  - {type: 'tls:seg', offset: 462, content: '', id: KR2i0002_CHANT_002-3a.38}
+  - {type: punctuation, offset: 468, content: 。, id: KR2i0002_CHANT_002-bkkpn130}
+  - {type: punctuation, offset: 468, content: 」, id: KR2i0002_CHANT_002-bkkpn131}
+  - {type: 'tls:seg', offset: 468, content: '', id: KR2i0002_CHANT_002-3a.39}
+  - {type: punctuation, offset: 471, content: ：, id: KR2i0002_CHANT_002-bkkpn132}
+  - {type: 'tls:seg', offset: 471, content: '', id: KR2i0002_CHANT_002-3a.40}
+  - {type: punctuation, offset: 471, content: 「, id: KR2i0002_CHANT_002-bkkpn133}
+  - {type: punctuation, offset: 477, content: ，, id: KR2i0002_CHANT_002-bkkpn134}
+  - {type: 'tls:seg', offset: 477, content: '', id: KR2i0002_CHANT_002-3a.41}
+  - {type: punctuation, offset: 479, content: ；, id: KR2i0002_CHANT_002-bkkpn135}
+  - {type: 'tls:seg', offset: 479, content: '', id: KR2i0002_CHANT_002-3a.42}
+  - {type: punctuation, offset: 485, content: ，, id: KR2i0002_CHANT_002-bkkpn136}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR2i0002_CHANT_002-3a.43}
+  - {type: punctuation, offset: 487, content: ：, id: KR2i0002_CHANT_002-bkkpn137}
+  - {type: 'tls:seg', offset: 487, content: '', id: KR2i0002_CHANT_002-3a.44}
+  - {type: punctuation, offset: 491, content: ，, id: KR2i0002_CHANT_002-bkkpn138}
+  - {type: 'tls:seg', offset: 491, content: '', id: KR2i0002_CHANT_002-3a.45}
+  - {type: punctuation, offset: 497, content: ？, id: KR2i0002_CHANT_002-bkkpn139}
+  - {type: punctuation, offset: 497, content: 」, id: KR2i0002_CHANT_002-bkkpn140}
+  - {type: 'tls:seg', offset: 497, content: '', id: KR2i0002_CHANT_002-3a.46}
+  - {type: variant, offset: 497, length: 0, content: '', SBCK: 白石去縣四十里今太守舎者春申君所造後壁屋以為棰夏宫今宫者春申君}
+  - {type: page-break, offset: 497, content: '', id: KR2i0002_SBCK_002-12a}
+  - {type: variant, offset: 497, length: 0, content: '', WYG: 白石去縣四十里今太守舎者春申君所造後壁屋以為桃夏宫今宫者春申君}
+  - {type: variant, offset: 497, length: 0, content: '', krp: 白石去縣四十里今太守舎者春申君所造後壁屋以為棰夏宫今宫者春申君}
+  - {type: variant, offset: 498, length: 5, content: 胥即解其劍, SBCK: 假君宫也前殿屋葢地東西十七丈五尺南北十五丈七尺堂髙四丈十霤髙丈八尺殿屋蓋地東西十五丈南北十丈二尺七寸户霤髙丈二尺庫東鄉屋南北四十丈八尺上下户各二南鄉屋東西六十四丈四尺上户四下户三西鄉屋南北四十二丈九尺上户三下户二凡百四十九丈一尺檐髙五丈二尺霤髙二丈九尺周一里二百四十一步春申君所造吳兩倉春申君所造西倉名曰均輸東倉周一里八步後燒更始五年太守李君治東倉為屬縣屋不成呉市者春申君所造闕兩城}
+  - {type: page-break, offset: 498, content: '', id: KR2i0002_SBCK_002-12b}
+  - {type: variant, offset: 498, length: 5, content: 胥即解其劍, WYG: 假君宫也前殿屋葢地東西十七丈五尺南北十五丈七尺堂髙四丈十霤髙丈八尺殿屋蓋地東西十五丈南北十丈二尺七寸户霤髙丈二尺庫東鄉屋南北四十丈八尺上下户各二南鄉屋東西六十四丈四尺上户四下户三西鄉屋南北四十二丈九尺上户三下户二凡百四十九丈一尺檐髙五丈二尺霤髙二丈九尺周一里二百四十一步春申君所造吳兩倉春申君所造西倉名曰均輸東倉周一里八步後燒更始五年太守李君治東倉為屬縣屋不成呉市者春申君所造闕兩城}
+  - {type: page-break, offset: 498, content: '', id: KR2i0002_WYG_002-10b, image: WYG0463/WYG0463-0083d.png}
+  - {type: variant, offset: 498, length: 5, content: 胥即解其劍, krp: 假君宫也前殿屋葢地東西十七丈五尺南北十五丈七尺堂髙四丈十霤髙丈八尺殿屋蓋地東西十五丈南北十丈二尺七寸户霤髙丈二尺庫東鄉屋南北四十丈八尺上下户各二南鄉屋東西六十四丈四尺上户四下户三西鄉屋南北四十二丈九尺上户三下户二凡百四十九丈一尺檐髙五丈二尺霤髙二丈九尺周一里二百四十一步春申君所造吳兩倉春申君所造西倉名曰均輸東倉周一里八步後燒更始五年太守李君治東倉為屬縣屋不成呉市者春申君所造闕兩城}
+  - {type: punctuation, offset: 503, content: ，, id: KR2i0002_CHANT_002-bkkpn141}
+  - {type: 'tls:seg', offset: 503, content: '', id: KR2i0002_CHANT_002-3a.47}
+  - {type: variant, offset: 504, length: 2, content: 與漁, SBCK: 為市在湖里吳諸里大閈春申君所造吳獄庭周三里春申君時造土云一作山}
+  - {type: page-break, offset: 504, content: '', id: KR2i0002_SBCK_002-13a}
+  - {type: variant, offset: 504, length: 2, content: 與漁, WYG: 為市在湖里吳諸里大閈春申君所造吳獄庭周三里春申君時造土一作云山}
+  - {type: page-break, offset: 504, content: '', id: KR2i0002_WYG_002-11a, image: WYG0463/WYG0463-0084a.png}
+  - {type: variant, offset: 504, length: 2, content: 與漁, krp: 為市在湖里吳諸里大閈春申君所造吳獄庭周三里春申君時造土云一作山}
+  - {type: punctuation, offset: 507, content: ，, id: KR2i0002_CHANT_002-bkkpn142}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR2i0002_CHANT_002-3a.48}
+  - {type: variant, offset: 507, length: 3, content: 曰吾先, SBCK: 春申君時治以為貴}
+  - {type: variant, offset: 507, length: 3, content: 曰吾先, WYG: 春申君時治以為貴}
+  - {type: variant, offset: 507, length: 3, content: 曰吾先, krp: 春申君時治以為貴}
+  - {type: punctuation, offset: 508, content: ：, id: KR2i0002_CHANT_002-bkkpn143}
+  - {type: 'tls:seg', offset: 508, content: '', id: KR2i0002_CHANT_002-3a.49}
+  - {type: punctuation, offset: 508, content: 「, id: KR2i0002_CHANT_002-bkkpn144}
+  - {type: variant, offset: 511, length: 0, content: '', SBCK: 􅃁次去縣十六里楚門春申君所造楚人從}
+  - {type: variant, offset: 511, length: 0, content: '', WYG: 冡次去縣十六里楚門春申君所造楚人從}
+  - {type: variant, offset: 511, length: 0, content: '', krp: 冡次去縣十六里楚門春申君所造楚人從}
+  - {type: variant, offset: 512, length: 5, content: 劍直百金請, SBCK: 故為楚門路丘大􅃁春申君客􅃁不立}
+  - {type: variant, offset: 512, length: 5, content: 劍直百金請, WYG: 故為楚門路丘大冡春申君客冡不立}
+  - {type: variant, offset: 512, length: 5, content: 劍直百金請, krp: 故為楚門路丘大冡春申君客冡不立}
+  - {type: punctuation, offset: 513, content: ，, id: KR2i0002_CHANT_002-bkkpn145}
+  - {type: 'tls:seg', offset: 513, content: '', id: KR2i0002_CHANT_002-3a.50}
+  - {type: punctuation, offset: 516, content: ，, id: KR2i0002_CHANT_002-bkkpn146}
+  - {type: 'tls:seg', offset: 516, content: '', id: KR2i0002_CHANT_002-3a.51}
+  - {type: variant, offset: 518, length: 2, content: 與子, SBCK: 道終之去縣十里春申君楚考烈王相}
+  - {type: variant, offset: 518, length: 2, content: 與子, WYG: 道終之去縣十里春申君楚考烈王相}
+  - {type: variant, offset: 518, length: 2, content: 與子, krp: 道終之去縣十里春申君楚考烈王相}
+  - {type: punctuation, offset: 521, content: 。, id: KR2i0002_CHANT_002-bkkpn147}
+  - {type: punctuation, offset: 521, content: 」, id: KR2i0002_CHANT_002-bkkpn148}
+  - {type: 'tls:seg', offset: 521, content: '', id: KR2i0002_CHANT_002-3a.52}
+  - {type: variant, offset: 521, length: 7, content: 漁者曰吾聞荊平, SBCK: 烈}
+  - {type: variant, offset: 521, length: 7, content: 漁者曰吾聞荊平, WYG: 烈}
+  - {type: variant, offset: 521, length: 7, content: 漁者曰吾聞荊平, krp: 烈}
+  - {type: punctuation, offset: 524, content: ：, id: KR2i0002_CHANT_002-bkkpn149}
+  - {type: 'tls:seg', offset: 524, content: '', id: KR2i0002_CHANT_002-3a.53}
+  - {type: punctuation, offset: 524, content: 「, id: KR2i0002_CHANT_002-bkkpn150}
+  - {type: variant, offset: 529, length: 19, content: 有令曰得伍子胥者購之千金今吾不欲得荊平, SBCK: 死幽}
+  - {type: variant, offset: 529, length: 19, content: 有令曰得伍子胥者購之千金今吾不欲得荊平, WYG: 死幽}
+  - {type: variant, offset: 529, length: 19, content: 有令曰得伍子胥者購之千金今吾不欲得荊平, krp: 死幽}
+  - {type: punctuation, offset: 532, content: ：, id: KR2i0002_CHANT_002-bkkpn151}
+  - {type: 'tls:seg', offset: 532, content: '', id: KR2i0002_CHANT_002-3a.54}
+  - {type: punctuation, offset: 537, content: ，, id: KR2i0002_CHANT_002-bkkpn152}
+  - {type: 'tls:seg', offset: 537, content: '', id: KR2i0002_CHANT_002-3a.55}
+  - {type: punctuation, offset: 541, content: 。, id: KR2i0002_CHANT_002-bkkpn153}
+  - {type: 'tls:seg', offset: 541, content: '', id: KR2i0002_CHANT_002-3a.56}
+  - {type: variant, offset: 549, length: 105, content: 之千金何以百金之劍為漁者渡于于斧之津乃發其簞飯清其壺漿而食之曰亟食而去毋令追者及子也子胥曰諾子胥食已而去顧謂漁者曰掩爾壺漿無令之露漁者曰諾子胥行即覆船挾匕首自刎而死江水之中明無洩也子胥遂行至溧陽界中見一女子擊絮, SBCK: 立封春申君}
+  - {type: variant, offset: 549, length: 105, content: 之千金何以百金之劍為漁者渡于于斧之津乃發其簞飯清其壺漿而食之曰亟食而去毋令追者及子也子胥曰諾子胥食已而去顧謂漁者曰掩爾壺漿無令之露漁者曰諾子胥行即覆船挾匕首自刎而死江水之中明無洩也子胥遂行至溧陽界中見一女子擊絮, WYG: 立封春申君}
+  - {type: variant, offset: 549, length: 105, content: 之千金何以百金之劍為漁者渡于于斧之津乃發其簞飯清其壺漿而食之曰亟食而去毋令追者及子也子胥曰諾子胥食已而去顧謂漁者曰掩爾壺漿無令之露漁者曰諾子胥行即覆船挾匕首自刎而死江水之中明無洩也子胥遂行至溧陽界中見一女子擊絮, krp: 立封春申君}
+  - {type: punctuation, offset: 552, content: ，, id: KR2i0002_CHANT_002-bkkpn154}
+  - {type: 'tls:seg', offset: 552, content: '', id: KR2i0002_CHANT_002-3a.57}
+  - {type: punctuation, offset: 559, content: ？, id: KR2i0002_CHANT_002-bkkpn155}
+  - {type: punctuation, offset: 559, content: 」, id: KR2i0002_CHANT_002-bkkpn156}
+  - {type: 'tls:seg', offset: 559, content: '', id: KR2i0002_CHANT_002-3a.58}
+  - {type: punctuation, offset: 567, content: ，, id: KR2i0002_CHANT_002-bkkpn157}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR2i0002_CHANT_002-3a.59}
+  - {type: punctuation, offset: 572, content: ，, id: KR2i0002_CHANT_002-bkkpn158}
+  - {type: 'tls:seg', offset: 572, content: '', id: KR2i0002_CHANT_002-3a.60}
+  - {type: punctuation, offset: 579, content: ，, id: KR2i0002_CHANT_002-bkkpn159}
+  - {type: 'tls:seg', offset: 579, content: '', id: KR2i0002_CHANT_002-3a.61}
+  - {type: punctuation, offset: 580, content: ：, id: KR2i0002_CHANT_002-bkkpn160}
+  - {type: 'tls:seg', offset: 580, content: '', id: KR2i0002_CHANT_002-3a.62}
+  - {type: punctuation, offset: 580, content: 「, id: KR2i0002_CHANT_002-bkkpn161}
+  - {type: punctuation, offset: 584, content: ，, id: KR2i0002_CHANT_002-bkkpn162}
+  - {type: 'tls:seg', offset: 584, content: '', id: KR2i0002_CHANT_002-3a.63}
+  - {type: punctuation, offset: 591, content: 。, id: KR2i0002_CHANT_002-bkkpn163}
+  - {type: punctuation, offset: 591, content: 」, id: KR2i0002_CHANT_002-bkkpn164}
+  - {type: 'tls:seg', offset: 591, content: '', id: KR2i0002_CHANT_002-3a.64}
+  - {type: punctuation, offset: 594, content: ：, id: KR2i0002_CHANT_002-bkkpn165}
+  - {type: 'tls:seg', offset: 594, content: '', id: KR2i0002_CHANT_002-3a.65}
+  - {type: punctuation, offset: 594, content: 「, id: KR2i0002_CHANT_002-bkkpn166}
+  - {type: punctuation, offset: 595, content: 。, id: KR2i0002_CHANT_002-bkkpn167}
+  - {type: punctuation, offset: 595, content: 」, id: KR2i0002_CHANT_002-bkkpn168}
+  - {type: 'tls:seg', offset: 595, content: '', id: KR2i0002_CHANT_002-3a.66}
+  - {type: punctuation, offset: 601, content: ，, id: KR2i0002_CHANT_002-bkkpn169}
+  - {type: 'tls:seg', offset: 601, content: '', id: KR2i0002_CHANT_002-3a.67}
+  - {type: punctuation, offset: 606, content: ：, id: KR2i0002_CHANT_002-bkkpn170}
+  - {type: 'tls:seg', offset: 606, content: '', id: KR2i0002_CHANT_002-3a.68}
+  - {type: punctuation, offset: 606, content: 「, id: KR2i0002_CHANT_002-bkkpn171}
+  - {type: punctuation, offset: 610, content: ，, id: KR2i0002_CHANT_002-bkkpn172}
+  - {type: 'tls:seg', offset: 610, content: '', id: KR2i0002_CHANT_002-3a.69}
+  - {type: punctuation, offset: 614, content: 。, id: KR2i0002_CHANT_002-bkkpn173}
+  - {type: punctuation, offset: 614, content: 」, id: KR2i0002_CHANT_002-bkkpn174}
+  - {type: 'tls:seg', offset: 614, content: '', id: KR2i0002_CHANT_002-3a.70}
+  - {type: punctuation, offset: 617, content: ：, id: KR2i0002_CHANT_002-bkkpn175}
+  - {type: 'tls:seg', offset: 617, content: '', id: KR2i0002_CHANT_002-3a.71}
+  - {type: punctuation, offset: 617, content: 「, id: KR2i0002_CHANT_002-bkkpn176}
+  - {type: punctuation, offset: 618, content: 。, id: KR2i0002_CHANT_002-bkkpn177}
+  - {type: punctuation, offset: 618, content: 」, id: KR2i0002_CHANT_002-bkkpn178}
+  - {type: 'tls:seg', offset: 618, content: '', id: KR2i0002_CHANT_002-3a.72}
+  - {type: punctuation, offset: 621, content: ，, id: KR2i0002_CHANT_002-bkkpn179}
+  - {type: 'tls:seg', offset: 621, content: '', id: KR2i0002_CHANT_002-3a.73}
+  - {type: punctuation, offset: 624, content: ，, id: KR2i0002_CHANT_002-bkkpn180}
+  - {type: 'tls:seg', offset: 624, content: '', id: KR2i0002_CHANT_002-3a.74}
+  - {type: punctuation, offset: 635, content: ，, id: KR2i0002_CHANT_002-bkkpn181}
+  - {type: 'tls:seg', offset: 635, content: '', id: KR2i0002_CHANT_002-3a.75}
+  - {type: substitution, offset: 637, original: 洩, replacement: 泄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0596}}
+  - {type: punctuation, offset: 639, content: 。, id: KR2i0002_CHANT_002-bkkpn182}
+  - {type: 'tls:seg', offset: 639, content: '', id: KR2i0002_CHANT_002-3a.76}
+  - {type: punctuation, offset: 643, content: 。, id: KR2i0002_CHANT_002-bkkpn183}
+  - {type: 'tls:seg', offset: 643, content: '', id: KR2i0002_CHANT_002-3a.77}
+  - {type: punctuation, offset: 648, content: ，, id: KR2i0002_CHANT_002-bkkpn184}
+  - {type: 'tls:seg', offset: 648, content: '', id: KR2i0002_CHANT_002-3a.78}
+  - {type: variant, offset: 655, length: 270, content: 瀨水之中子胥曰豈可得託食乎女子曰諾即發簞飯清其壺漿而食之子胥食已而去謂女子曰掩爾壺漿毋令之露女子曰諾子胥行五步還顧女子自縱於瀨水之中而死子胥遂行至吳徒跣被髮乞於吳市三日市正疑之而道於闔廬曰市中人有非常人徒跣被髮乞於吳市三日矣闔廬曰吾聞荊平王殺其臣伍子奢而非其罪其子子胥勇且智彼必經諸侯之邦可以報其父仇者王即使召子胥入吳王下階迎而唁數之曰吾知子非恒人也何素窮如此子胥跪而垂泣曰胥父無罪而平王殺之而并其子尚子胥遯逃出走唯大王可以歸骸骨者惟大王哀之吳王曰諾上殿與語三日三夜語無復者王乃號令邦中無貴賤長少有不聽子胥之教者猶不聽寡人也罪至死不赦子胥居, SBCK: ''}
+  - {type: variant, offset: 655, length: 270, content: 瀨水之中子胥曰豈可得託食乎女子曰諾即發簞飯清其壺漿而食之子胥食已而去謂女子曰掩爾壺漿毋令之露女子曰諾子胥行五步還顧女子自縱於瀨水之中而死子胥遂行至吳徒跣被髮乞於吳市三日市正疑之而道於闔廬曰市中人有非常人徒跣被髮乞於吳市三日矣闔廬曰吾聞荊平王殺其臣伍子奢而非其罪其子子胥勇且智彼必經諸侯之邦可以報其父仇者王即使召子胥入吳王下階迎而唁數之曰吾知子非恒人也何素窮如此子胥跪而垂泣曰胥父無罪而平王殺之而并其子尚子胥遯逃出走唯大王可以歸骸骨者惟大王哀之吳王曰諾上殿與語三日三夜語無復者王乃號令邦中無貴賤長少有不聽子胥之教者猶不聽寡人也罪至死不赦子胥居, WYG: ''}
+  - {type: variant, offset: 655, length: 270, content: 瀨水之中子胥曰豈可得託食乎女子曰諾即發簞飯清其壺漿而食之子胥食已而去謂女子曰掩爾壺漿毋令之露女子曰諾子胥行五步還顧女子自縱於瀨水之中而死子胥遂行至吳徒跣被髮乞於吳市三日市正疑之而道於闔廬曰市中人有非常人徒跣被髮乞於吳市三日矣闔廬曰吾聞荊平王殺其臣伍子奢而非其罪其子子胥勇且智彼必經諸侯之邦可以報其父仇者王即使召子胥入吳王下階迎而唁數之曰吾知子非恒人也何素窮如此子胥跪而垂泣曰胥父無罪而平王殺之而并其子尚子胥遯逃出走唯大王可以歸骸骨者惟大王哀之吳王曰諾上殿與語三日三夜語無復者王乃號令邦中無貴賤長少有不聽子胥之教者猶不聽寡人也罪至死不赦子胥居, krp: ''}
+  - {type: punctuation, offset: 659, content: ，, id: KR2i0002_CHANT_002-bkkpn185}
+  - {type: 'tls:seg', offset: 659, content: '', id: KR2i0002_CHANT_002-3a.79}
+  - {type: punctuation, offset: 662, content: ：, id: KR2i0002_CHANT_002-bkkpn186}
+  - {type: 'tls:seg', offset: 662, content: '', id: KR2i0002_CHANT_002-3a.80}
+  - {type: punctuation, offset: 662, content: 「, id: KR2i0002_CHANT_002-bkkpn187}
+  - {type: punctuation, offset: 668, content: ？, id: KR2i0002_CHANT_002-bkkpn188}
+  - {type: punctuation, offset: 668, content: 」, id: KR2i0002_CHANT_002-bkkpn189}
+  - {type: 'tls:seg', offset: 668, content: '', id: KR2i0002_CHANT_002-3a.81}
+  - {type: punctuation, offset: 671, content: ：, id: KR2i0002_CHANT_002-bkkpn190}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR2i0002_CHANT_002-3a.82}
+  - {type: punctuation, offset: 671, content: 「, id: KR2i0002_CHANT_002-bkkpn191}
+  - {type: punctuation, offset: 672, content: 。, id: KR2i0002_CHANT_002-bkkpn192}
+  - {type: punctuation, offset: 672, content: 」, id: KR2i0002_CHANT_002-bkkpn193}
+  - {type: 'tls:seg', offset: 672, content: '', id: KR2i0002_CHANT_002-3a.83}
+  - {type: punctuation, offset: 676, content: ，, id: KR2i0002_CHANT_002-bkkpn194}
+  - {type: 'tls:seg', offset: 676, content: '', id: KR2i0002_CHANT_002-3a.84}
+  - {type: punctuation, offset: 683, content: 。, id: KR2i0002_CHANT_002-bkkpn195}
+  - {type: 'tls:seg', offset: 683, content: '', id: KR2i0002_CHANT_002-3a.85}
+  - {type: punctuation, offset: 689, content: ，, id: KR2i0002_CHANT_002-bkkpn196}
+  - {type: 'tls:seg', offset: 689, content: '', id: KR2i0002_CHANT_002-3a.86}
+  - {type: punctuation, offset: 693, content: ：, id: KR2i0002_CHANT_002-bkkpn197}
+  - {type: 'tls:seg', offset: 693, content: '', id: KR2i0002_CHANT_002-3a.87}
+  - {type: punctuation, offset: 693, content: 「, id: KR2i0002_CHANT_002-bkkpn198}
+  - {type: punctuation, offset: 697, content: ，, id: KR2i0002_CHANT_002-bkkpn199}
+  - {type: 'tls:seg', offset: 697, content: '', id: KR2i0002_CHANT_002-3a.88}
+  - {type: punctuation, offset: 701, content: 。, id: KR2i0002_CHANT_002-bkkpn200}
+  - {type: punctuation, offset: 701, content: 」, id: KR2i0002_CHANT_002-bkkpn201}
+  - {type: 'tls:seg', offset: 701, content: '', id: KR2i0002_CHANT_002-3a.89}
+  - {type: punctuation, offset: 704, content: ：, id: KR2i0002_CHANT_002-bkkpn202}
+  - {type: 'tls:seg', offset: 704, content: '', id: KR2i0002_CHANT_002-3a.90}
+  - {type: punctuation, offset: 704, content: 「, id: KR2i0002_CHANT_002-bkkpn203}
+  - {type: punctuation, offset: 705, content: 。, id: KR2i0002_CHANT_002-bkkpn204}
+  - {type: punctuation, offset: 705, content: 」, id: KR2i0002_CHANT_002-bkkpn205}
+  - {type: 'tls:seg', offset: 705, content: '', id: KR2i0002_CHANT_002-3a.91}
+  - {type: punctuation, offset: 710, content: ，, id: KR2i0002_CHANT_002-bkkpn206}
+  - {type: 'tls:seg', offset: 710, content: '', id: KR2i0002_CHANT_002-3a.92}
+  - {type: punctuation, offset: 714, content: ，, id: KR2i0002_CHANT_002-bkkpn207}
+  - {type: 'tls:seg', offset: 714, content: '', id: KR2i0002_CHANT_002-3a.93}
+  - {type: punctuation, offset: 723, content: 。, id: KR2i0002_CHANT_002-bkkpn208}
+  - {type: xml-element, offset: 723, content: '', id: KR2i0002_CHANT_002-bkkxmlele6}
+  - {type: xml-element, offset: 723, content: '', id: KR2i0002_CHANT_002-bkkxmlele7}
+  - {type: 'tls:seg', offset: 723, content: '', id: KR2i0002_CHANT_002-4a.1}
+  - {type: 'tls:seg', offset: 723, content: '', id: KR2i0002_CHANT_002-4a.2}
+  - {type: punctuation, offset: 727, content: 。, id: KR2i0002_CHANT_002-bkkpn209}
+  - {type: 'tls:seg', offset: 727, content: '', id: KR2i0002_CHANT_002-4a.3}
+  - {type: punctuation, offset: 729, content: 。, id: KR2i0002_CHANT_002-bkkpn210}
+  - {type: 'tls:seg', offset: 729, content: '', id: KR2i0002_CHANT_002-4a.4}
+  - {type: punctuation, offset: 733, content: ，, id: KR2i0002_CHANT_002-bkkpn211}
+  - {type: 'tls:seg', offset: 733, content: '', id: KR2i0002_CHANT_002-4a.5}
+  - {type: punctuation, offset: 737, content: 。, id: KR2i0002_CHANT_002-bkkpn212}
+  - {type: 'tls:seg', offset: 737, content: '', id: KR2i0002_CHANT_002-4a.6}
+  - {type: punctuation, offset: 739, content: ，, id: KR2i0002_CHANT_002-bkkpn213}
+  - {type: 'tls:seg', offset: 739, content: '', id: KR2i0002_CHANT_002-4a.7}
+  - {type: punctuation, offset: 743, content: ，, id: KR2i0002_CHANT_002-bkkpn214}
+  - {type: 'tls:seg', offset: 743, content: '', id: KR2i0002_CHANT_002-4a.8}
+  - {type: punctuation, offset: 749, content: ：, id: KR2i0002_CHANT_002-bkkpn215}
+  - {type: 'tls:seg', offset: 749, content: '', id: KR2i0002_CHANT_002-4a.9}
+  - {type: punctuation, offset: 749, content: 「, id: KR2i0002_CHANT_002-bkkpn216}
+  - {type: punctuation, offset: 756, content: ，, id: KR2i0002_CHANT_002-bkkpn217}
+  - {type: 'tls:seg', offset: 756, content: '', id: KR2i0002_CHANT_002-4a.10}
+  - {type: punctuation, offset: 760, content: ，, id: KR2i0002_CHANT_002-bkkpn218}
+  - {type: 'tls:seg', offset: 760, content: '', id: KR2i0002_CHANT_002-4a.11}
+  - {type: punctuation, offset: 767, content: 。, id: KR2i0002_CHANT_002-bkkpn219}
+  - {type: punctuation, offset: 767, content: 」, id: KR2i0002_CHANT_002-bkkpn220}
+  - {type: 'tls:seg', offset: 767, content: '', id: KR2i0002_CHANT_002-4a.12}
+  - {type: punctuation, offset: 770, content: ：, id: KR2i0002_CHANT_002-bkkpn221}
+  - {type: 'tls:seg', offset: 770, content: '', id: KR2i0002_CHANT_002-4a.13}
+  - {type: punctuation, offset: 770, content: 「, id: KR2i0002_CHANT_002-bkkpn222}
+  - {type: punctuation, offset: 785, content: ，, id: KR2i0002_CHANT_002-bkkpn223}
+  - {type: 'tls:seg', offset: 785, content: '', id: KR2i0002_CHANT_002-4a.14}
+  - {type: punctuation, offset: 789, content: ，, id: KR2i0002_CHANT_002-bkkpn224}
+  - {type: 'tls:seg', offset: 789, content: '', id: KR2i0002_CHANT_002-4a.15}
+  - {type: punctuation, offset: 792, content: ，, id: KR2i0002_CHANT_002-bkkpn225}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR2i0002_CHANT_002-4a.16}
+  - {type: punctuation, offset: 806, content: 。, id: KR2i0002_CHANT_002-bkkpn226}
+  - {type: punctuation, offset: 806, content: 」, id: KR2i0002_CHANT_002-bkkpn227}
+  - {type: 'tls:seg', offset: 806, content: '', id: KR2i0002_CHANT_002-4a.17}
+  - {type: punctuation, offset: 812, content: 。, id: KR2i0002_CHANT_002-bkkpn228}
+  - {type: 'tls:seg', offset: 812, content: '', id: KR2i0002_CHANT_002-4a.18}
+  - {type: punctuation, offset: 813, content: ，, id: KR2i0002_CHANT_002-bkkpn229}
+  - {type: 'tls:seg', offset: 813, content: '', id: KR2i0002_CHANT_002-4a.19}
+  - {type: punctuation, offset: 822, content: ，, id: KR2i0002_CHANT_002-bkkpn230}
+  - {type: 'tls:seg', offset: 822, content: '', id: KR2i0002_CHANT_002-4a.20}
+  - {type: punctuation, offset: 823, content: ：, id: KR2i0002_CHANT_002-bkkpn231}
+  - {type: 'tls:seg', offset: 823, content: '', id: KR2i0002_CHANT_002-4a.21}
+  - {type: punctuation, offset: 823, content: 「, id: KR2i0002_CHANT_002-bkkpn232}
+  - {type: substitution, offset: 827, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4383}}
+  - {type: punctuation, offset: 830, content: ，, id: KR2i0002_CHANT_002-bkkpn233}
+  - {type: 'tls:seg', offset: 830, content: '', id: KR2i0002_CHANT_002-4a.22}
+  - {type: punctuation, offset: 835, content: ？, id: KR2i0002_CHANT_002-bkkpn234}
+  - {type: punctuation, offset: 835, content: 」, id: KR2i0002_CHANT_002-bkkpn235}
+  - {type: 'tls:seg', offset: 835, content: '', id: KR2i0002_CHANT_002-4a.23}
+  - {type: punctuation, offset: 842, content: ：, id: KR2i0002_CHANT_002-bkkpn236}
+  - {type: 'tls:seg', offset: 842, content: '', id: KR2i0002_CHANT_002-4a.24}
+  - {type: punctuation, offset: 842, content: 「, id: KR2i0002_CHANT_002-bkkpn237}
+  - {type: punctuation, offset: 851, content: ，, id: KR2i0002_CHANT_002-bkkpn238}
+  - {type: 'tls:seg', offset: 851, content: '', id: KR2i0002_CHANT_002-4a.25}
+  - {type: punctuation, offset: 856, content: 。, id: KR2i0002_CHANT_002-bkkpn239}
+  - {type: 'tls:seg', offset: 856, content: '', id: KR2i0002_CHANT_002-4a.26}
+  - {type: substitution, offset: 858, original: 遯, replacement: 遁, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2204}}
+  - {type: punctuation, offset: 862, content: ，, id: KR2i0002_CHANT_002-bkkpn240}
+  - {type: 'tls:seg', offset: 862, content: '', id: KR2i0002_CHANT_002-4a.27}
+  - {type: punctuation, offset: 871, content: ，, id: KR2i0002_CHANT_002-bkkpn241}
+  - {type: 'tls:seg', offset: 871, content: '', id: KR2i0002_CHANT_002-4a.28}
+  - {type: punctuation, offset: 876, content: 。, id: KR2i0002_CHANT_002-bkkpn242}
+  - {type: punctuation, offset: 876, content: 」, id: KR2i0002_CHANT_002-bkkpn243}
+  - {type: 'tls:seg', offset: 876, content: '', id: KR2i0002_CHANT_002-4a.29}
+  - {type: punctuation, offset: 879, content: ：, id: KR2i0002_CHANT_002-bkkpn244}
+  - {type: 'tls:seg', offset: 879, content: '', id: KR2i0002_CHANT_002-4a.30}
+  - {type: punctuation, offset: 879, content: 「, id: KR2i0002_CHANT_002-bkkpn245}
+  - {type: punctuation, offset: 880, content: 。, id: KR2i0002_CHANT_002-bkkpn246}
+  - {type: punctuation, offset: 880, content: 」, id: KR2i0002_CHANT_002-bkkpn247}
+  - {type: 'tls:seg', offset: 880, content: '', id: KR2i0002_CHANT_002-4a.31}
+  - {type: punctuation, offset: 884, content: ，, id: KR2i0002_CHANT_002-bkkpn248}
+  - {type: 'tls:seg', offset: 884, content: '', id: KR2i0002_CHANT_002-4a.32}
+  - {type: punctuation, offset: 888, content: ，, id: KR2i0002_CHANT_002-bkkpn249}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR2i0002_CHANT_002-4a.33}
+  - {type: punctuation, offset: 892, content: 。, id: KR2i0002_CHANT_002-bkkpn250}
+  - {type: 'tls:seg', offset: 892, content: '', id: KR2i0002_CHANT_002-4a.34}
+  - {type: punctuation, offset: 898, content: ：, id: KR2i0002_CHANT_002-bkkpn251}
+  - {type: 'tls:seg', offset: 898, content: '', id: KR2i0002_CHANT_002-4a.35}
+  - {type: punctuation, offset: 898, content: 「, id: KR2i0002_CHANT_002-bkkpn252}
+  - {type: punctuation, offset: 903, content: ，, id: KR2i0002_CHANT_002-bkkpn253}
+  - {type: 'tls:seg', offset: 903, content: '', id: KR2i0002_CHANT_002-4a.36}
+  - {type: punctuation, offset: 911, content: ，, id: KR2i0002_CHANT_002-bkkpn254}
+  - {type: 'tls:seg', offset: 911, content: '', id: KR2i0002_CHANT_002-4a.37}
+  - {type: punctuation, offset: 917, content: ，, id: KR2i0002_CHANT_002-bkkpn255}
+  - {type: 'tls:seg', offset: 917, content: '', id: KR2i0002_CHANT_002-4a.38}
+  - {type: punctuation, offset: 922, content: ！, id: KR2i0002_CHANT_002-bkkpn256}
+  - {type: punctuation, offset: 922, content: 」, id: KR2i0002_CHANT_002-bkkpn257}
+  - {type: xml-element, offset: 922, content: '', id: KR2i0002_CHANT_002-bkkxmlele8}
+  - {type: xml-element, offset: 922, content: '', id: KR2i0002_CHANT_002-bkkxmlele9}
+  - {type: 'tls:seg', offset: 922, content: '', id: KR2i0002_CHANT_002-5a.1}
+  - {type: 'tls:seg', offset: 922, content: '', id: KR2i0002_CHANT_002-5a.2}
+  - {type: punctuation, offset: 928, content: ，, id: KR2i0002_CHANT_002-bkkpn258}
+  - {type: 'tls:seg', offset: 928, content: '', id: KR2i0002_CHANT_002-5a.3}
+  - {type: variant, offset: 928, length: 0, content: '', SBCK: 幽王徴春申為楚令尹春申君自使其子為假君治呉十一年幽王徴假君與春申君幷殺之二君治吳凡十四年後十六年秦始皇并楚百越叛去東名}
+  - {type: page-break, offset: 928, content: '', id: KR2i0002_SBCK_002-13b}
+  - {type: variant, offset: 928, length: 0, content: '', WYG: 幽王徴春申為楚令尹春申君自使其子為假君治呉十一年幽王徴假君與春申君并殺之二君治吳凡十四年後十六年秦始皇并楚百越叛去東名}
+  - {type: page-break, offset: 928, content: '', id: KR2i0002_WYG_002-11b, image: WYG0463/WYG0463-0084b.png}
+  - {type: variant, offset: 928, length: 0, content: '', krp: 幽王徴春申為楚令尹春申君自使其子為假君治呉十一年幽王徴假君與春申君幷殺之二君治吳凡十四年後十六年秦始皇并楚百越叛去東名}
+  - {type: variant, offset: 929, length: 1, content: 得, SBCK: 越為山陰也春申君姓黄名歇巫門外罘罳者春申君去}
+  - {type: variant, offset: 929, length: 1, content: 得, WYG: 越為山陰也春申君姓黄名歇巫門外罘罳者春申君去}
+  - {type: variant, offset: 929, length: 1, content: 得, krp: 越為山陰也春申君姓黄名歇巫門外罘罳者春申君去}
+  - {type: variant, offset: 931, length: 15, content: 眾闔廬將為之報仇子胥曰不可臣聞, SBCK: 假君所思處也去縣二十三里夀春東鳬陵亢者古}
+  - {type: variant, offset: 931, length: 15, content: 眾闔廬將為之報仇子胥曰不可臣聞, WYG: 假君所思處也去縣二十三里夀春東鳬陵亢者古}
+  - {type: variant, offset: 931, length: 15, content: 眾闔廬將為之報仇子胥曰不可臣聞, krp: 假君所思處也去縣二十三里夀春東鳬陵亢者古}
+  - {type: substitution, offset: 931, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: punctuation, offset: 932, content: 。, id: KR2i0002_CHANT_002-bkkpn259}
+  - {type: 'tls:seg', offset: 932, content: '', id: KR2i0002_CHANT_002-5a.4}
+  - {type: punctuation, offset: 939, content: ，, id: KR2i0002_CHANT_002-bkkpn260}
+  - {type: 'tls:seg', offset: 939, content: '', id: KR2i0002_CHANT_002-5a.5}
+  - {type: punctuation, offset: 942, content: ：, id: KR2i0002_CHANT_002-bkkpn261}
+  - {type: 'tls:seg', offset: 942, content: '', id: KR2i0002_CHANT_002-5a.6}
+  - {type: punctuation, offset: 942, content: 「, id: KR2i0002_CHANT_002-bkkpn262}
+  - {type: punctuation, offset: 944, content: 。, id: KR2i0002_CHANT_002-bkkpn263}
+  - {type: 'tls:seg', offset: 944, content: '', id: KR2i0002_CHANT_002-5a.7}
+  - {type: variant, offset: 948, length: 1, content: 不, SBCK: 王所葬也楚威王與越王無彊竝威王後烈王子幽王後懷王也懷王子頃襄王也秦始皇㓕之秦始皇造通陵南可通陵道到由拳塞同起馬塘湛以}
+  - {type: page-break, offset: 948, content: '', id: KR2i0002_SBCK_002-14a}
+  - {type: variant, offset: 948, length: 1, content: 不, WYG: 王所葬也楚威王與越王無疆並威王後烈王子幽王後懷王也懷王子頃襄王也秦始皇滅之秦始皇造通陵南可通陵道到由拳塞同起馬塘湛以}
+  - {type: variant, offset: 948, length: 1, content: 不, krp: 王所葬也楚威王與越王無彊竝威王後烈王子幽王後懷王也懷王子頃襄王也秦始皇㓕之秦始皇造通陵南可通陵道到由拳塞同起馬塘湛以}
+  - {type: variant, offset: 950, length: 28, content: 匹夫興師於是止其後荊將伐蔡子胥言之闔廬即使子胥救蔡而伐荊, SBCK: 陂治陵水道致錢唐越地通浙江秦始皇發㑹稽適戎卒治通陵髙以南陵道縣相屬秦始皇帝三十七年壞諸侯郡縣城太守府大殿者秦始皇刻石所起也到更始元年太守許時燒六年十二月乙卯鑿官池東西}
+  - {type: variant, offset: 950, length: 28, content: 匹夫興師於是止其後荊將伐蔡子胥言之闔廬即使子胥救蔡而伐荊, WYG: 陂治陵水道致錢唐越地通浙江秦始皇發㑹稽適戎卒治通陵髙以南陵道縣相屬秦始皇帝三十七年壞諸侯郡縣城太守府大殿者秦始皇刻石所起也到更始元年太守許時燒六年十二月乙夘鑿官池東西}
+  - {type: page-break, offset: 950, content: '', id: KR2i0002_WYG_002-12a, image: WYG0463/WYG0463-0084c.png}
+  - {type: variant, offset: 950, length: 28, content: 匹夫興師於是止其後荊將伐蔡子胥言之闔廬即使子胥救蔡而伐荊, krp: 陂治陵水道致錢唐越地通浙江秦始皇發㑹稽適戎卒治通陵髙以南陵道縣相屬秦始皇帝三十七年壞諸侯郡縣城太守府大殿者秦始皇刻石所起也到更始元年太守許時燒六年十二月乙卯鑿官池東西}
+  - {type: punctuation, offset: 954, content: 。, id: KR2i0002_CHANT_002-bkkpn264}
+  - {type: punctuation, offset: 954, content: 」, id: KR2i0002_CHANT_002-bkkpn265}
+  - {type: 'tls:seg', offset: 954, content: '', id: KR2i0002_CHANT_002-5a.8}
+  - {type: punctuation, offset: 957, content: 。, id: KR2i0002_CHANT_002-bkkpn266}
+  - {type: 'tls:seg', offset: 957, content: '', id: KR2i0002_CHANT_002-5a.9}
+  - {type: punctuation, offset: 963, content: ，, id: KR2i0002_CHANT_002-bkkpn267}
+  - {type: 'tls:seg', offset: 963, content: '', id: KR2i0002_CHANT_002-5a.10}
+  - {type: punctuation, offset: 969, content: ，, id: KR2i0002_CHANT_002-bkkpn268}
+  - {type: 'tls:seg', offset: 969, content: '', id: KR2i0002_CHANT_002-5a.11}
+  - {type: punctuation, offset: 978, content: 。, id: KR2i0002_CHANT_002-bkkpn269}
+  - {type: 'tls:seg', offset: 978, content: '', id: KR2i0002_CHANT_002-5a.12}
+  - {type: variant, offset: 980, length: 1, content: 戰, SBCK: 丈七尺南北三}
+  - {type: variant, offset: 980, length: 1, content: 戰, WYG: 丈七尺南北三}
+  - {type: variant, offset: 980, length: 1, content: 戰, krp: 丈七尺南北三}
+  - {type: punctuation, offset: 981, content: ，, id: KR2i0002_CHANT_002-bkkpn270}
+  - {type: 'tls:seg', offset: 981, content: '', id: KR2i0002_CHANT_002-5a.13}
+  - {type: variant, offset: 982, length: 0, content: '', SBCK: 丈漢髙帝封有功劉賈為荆王幷有吳賈築呉市西城名曰定錯城屬小城北到平門丁將軍築治之十一年淮南王反殺劉賈後十年髙皇帝更封兄子濞為吳王治廣陵幷有吳立二十一年東渡之吳十日還去立三十二年反西到陳留縣還奔丹陽從東歐越王弟夷烏將軍殺濞東歐王為彭澤王夷烏將軍今為平都王濞父字為仲匠近一作門外信士里東廣平地者吳王濞時宗廟也太公髙祖在西孝文在東去縣}
+  - {type: page-break, offset: 982, content: '', id: KR2i0002_SBCK_002-14b}
+  - {type: page-break, offset: 982, content: '', id: KR2i0002_SBCK_002-15a}
+  - {type: variant, offset: 982, length: 0, content: '', WYG: 丈漢髙帝封有功劉賈為荆王并有吳賈築呉市西城名曰定錯城屬小城北到平門丁將軍築治之十一年淮南王反殺劉賈後十年髙皇帝更封兄子濞為吳王治廣陵并有吳立二十一年東渡之吳十日還去立三十二年反西到陳留縣還奔丹陽從東甌越王弟夷烏將軍殺濞東甌王為彭澤王夷烏將軍今為平都王濞父字為仲匠一作近門外信士里東廣平地者吳王濞時宗廟也太公髙祖在西孝文在東去縣}
+  - {type: page-break, offset: 982, content: '', id: KR2i0002_WYG_002-12b, image: WYG0463/WYG0463-0084d.png}
+  - {type: variant, offset: 982, length: 0, content: '', krp: 丈漢髙帝封有功劉賈為荆王幷有吳賈築呉市西城名曰定錯城屬小城北到平門丁將軍築治之十一年淮南王反殺劉賈後十年髙皇帝更封兄子濞為吳王治廣陵幷有吳立二十一年東渡之吳十日還去立三十二年反西到陳留縣還奔丹陽從東歐越王弟夷烏將軍殺濞東歐王為彭澤王夷烏將軍今為平都王濞父字為仲匠近一作門外信士里東廣平地者吳王濞時宗廟也太公髙祖在西孝文在東去縣}
+  - {type: variant, offset: 983, length: 122, content: 勝荊平王已死子胥將卒六千操鞭捶笞平王之墓而數之曰昔者吾先人無罪而子殺之今此報子也後子昭王臣司馬子期令尹子西歸相與計謀子胥不死又不入荊邦猶未得安為之柰何莫若求之而與之同邦乎昭王乃使使者報子胥於吳曰昔者吾先人殺子之父而非其罪也寡人尚少未有所識也今子, SBCK: 里永光四年孝元帝時貢}
+  - {type: variant, offset: 983, length: 122, content: 勝荊平王已死子胥將卒六千操鞭捶笞平王之墓而數之曰昔者吾先人無罪而子殺之今此報子也後子昭王臣司馬子期令尹子西歸相與計謀子胥不死又不入荊邦猶未得安為之柰何莫若求之而與之同邦乎昭王乃使使者報子胥於吳曰昔者吾先人殺子之父而非其罪也寡人尚少未有所識也今子, WYG: 里永光四年孝元帝時貢}
+  - {type: variant, offset: 983, length: 122, content: 勝荊平王已死子胥將卒六千操鞭捶笞平王之墓而數之曰昔者吾先人無罪而子殺之今此報子也後子昭王臣司馬子期令尹子西歸相與計謀子胥不死又不入荊邦猶未得安為之柰何莫若求之而與之同邦乎昭王乃使使者報子胥於吳曰昔者吾先人殺子之父而非其罪也寡人尚少未有所識也今子, krp: 里永光四年孝元帝時貢}
+  - {type: punctuation, offset: 984, content: 。, id: KR2i0002_CHANT_002-bkkpn271}
+  - {type: 'tls:seg', offset: 984, content: '', id: KR2i0002_CHANT_002-5a.14}
+  - {type: punctuation, offset: 989, content: ，, id: KR2i0002_CHANT_002-bkkpn272}
+  - {type: 'tls:seg', offset: 989, content: '', id: KR2i0002_CHANT_002-5a.15}
+  - {type: punctuation, offset: 995, content: ，, id: KR2i0002_CHANT_002-bkkpn273}
+  - {type: 'tls:seg', offset: 995, content: '', id: KR2i0002_CHANT_002-5a.16}
+  - {type: punctuation, offset: 1007, content: ：, id: KR2i0002_CHANT_002-bkkpn274}
+  - {type: 'tls:seg', offset: 1007, content: '', id: KR2i0002_CHANT_002-5a.17}
+  - {type: punctuation, offset: 1007, content: 「, id: KR2i0002_CHANT_002-bkkpn275}
+  - {type: punctuation, offset: 1018, content: ，, id: KR2i0002_CHANT_002-bkkpn276}
+  - {type: 'tls:seg', offset: 1018, content: '', id: KR2i0002_CHANT_002-5a.18}
+  - {type: punctuation, offset: 1023, content: ！, id: KR2i0002_CHANT_002-bkkpn277}
+  - {type: punctuation, offset: 1023, content: 」, id: KR2i0002_CHANT_002-bkkpn278}
+  - {type: 'tls:seg', offset: 1023, content: '', id: KR2i0002_CHANT_002-5a.19}
+  - {type: punctuation, offset: 1024, content: ，, id: KR2i0002_CHANT_002-bkkpn279}
+  - {type: 'tls:seg', offset: 1024, content: '', id: KR2i0002_CHANT_002-5a.20}
+  - {type: punctuation, offset: 1027, content: 、, id: KR2i0002_CHANT_002-bkkpn280}
+  - {type: punctuation, offset: 1032, content: 、, id: KR2i0002_CHANT_002-bkkpn281}
+  - {type: punctuation, offset: 1037, content: ，, id: KR2i0002_CHANT_002-bkkpn282}
+  - {type: 'tls:seg', offset: 1037, content: '', id: KR2i0002_CHANT_002-5a.21}
+  - {type: punctuation, offset: 1041, content: ：, id: KR2i0002_CHANT_002-bkkpn283}
+  - {type: 'tls:seg', offset: 1041, content: '', id: KR2i0002_CHANT_002-5a.22}
+  - {type: punctuation, offset: 1041, content: 「, id: KR2i0002_CHANT_002-bkkpn284}
+  - {type: punctuation, offset: 1045, content: ，, id: KR2i0002_CHANT_002-bkkpn285}
+  - {type: 'tls:seg', offset: 1045, content: '', id: KR2i0002_CHANT_002-5a.23}
+  - {type: punctuation, offset: 1049, content: ，, id: KR2i0002_CHANT_002-bkkpn286}
+  - {type: 'tls:seg', offset: 1049, content: '', id: KR2i0002_CHANT_002-5a.24}
+  - {type: punctuation, offset: 1054, content: ，, id: KR2i0002_CHANT_002-bkkpn287}
+  - {type: 'tls:seg', offset: 1054, content: '', id: KR2i0002_CHANT_002-5a.25}
+  - {type: substitution, offset: 1056, original: 柰, replacement: 奈, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3139}}
+  - {type: punctuation, offset: 1058, content: ？, id: KR2i0002_CHANT_002-bkkpn288}
+  - {type: 'tls:seg', offset: 1058, content: '', id: KR2i0002_CHANT_002-5a.26}
+  - {type: punctuation, offset: 1068, content: ？, id: KR2i0002_CHANT_002-bkkpn289}
+  - {type: punctuation, offset: 1068, content: 」, id: KR2i0002_CHANT_002-bkkpn290}
+  - {type: 'tls:seg', offset: 1068, content: '', id: KR2i0002_CHANT_002-5a.27}
+  - {type: punctuation, offset: 1079, content: ，, id: KR2i0002_CHANT_002-bkkpn291}
+  - {type: 'tls:seg', offset: 1079, content: '', id: KR2i0002_CHANT_002-5a.28}
+  - {type: punctuation, offset: 1080, content: ：, id: KR2i0002_CHANT_002-bkkpn292}
+  - {type: 'tls:seg', offset: 1080, content: '', id: KR2i0002_CHANT_002-5a.29}
+  - {type: punctuation, offset: 1080, content: 「, id: KR2i0002_CHANT_002-bkkpn293}
+  - {type: punctuation, offset: 1089, content: ，, id: KR2i0002_CHANT_002-bkkpn294}
+  - {type: 'tls:seg', offset: 1089, content: '', id: KR2i0002_CHANT_002-5a.30}
+  - {type: punctuation, offset: 1094, content: 。, id: KR2i0002_CHANT_002-bkkpn295}
+  - {type: 'tls:seg', offset: 1094, content: '', id: KR2i0002_CHANT_002-5a.31}
+  - {type: punctuation, offset: 1098, content: ，, id: KR2i0002_CHANT_002-bkkpn296}
+  - {type: 'tls:seg', offset: 1098, content: '', id: KR2i0002_CHANT_002-5a.32}
+  - {type: punctuation, offset: 1103, content: 。, id: KR2i0002_CHANT_002-bkkpn297}
+  - {type: 'tls:seg', offset: 1103, content: '', id: KR2i0002_CHANT_002-5a.33}
+  - {type: variant, offset: 1107, length: 3, content: 報寡人, SBCK: 請罷之桑里東今舎西者故吳所畜牛羊豕雞}
+  - {type: variant, offset: 1107, length: 3, content: 報寡人, WYG: 請罷之桑里東今舎西者故吳所畜牛羊豕雞}
+  - {type: variant, offset: 1107, length: 3, content: 報寡人, krp: 請罷之桑里東今舎西者故吳所畜牛羊豕雞}
+  - {type: variant, offset: 1111, length: 6, content: 特甚然寡人亦, SBCK: 名為牛宫今以為園漢文帝前九年㑹稽幷故鄣郡太守治故鄣都尉治山陰前十六年太守治吳郡都尉治錢唐漢孝景帝五年五月㑹稽屬漢屬漢者始幷事也漢孝武帝元封元年陽都侯歸義置由鍾由鍾初立去縣五十里漢孝武元封二年故鄣以為丹陽郡天漢五年四月錢唐浙江岑石}
+  - {type: page-break, offset: 1111, content: '', id: KR2i0002_SBCK_002-15b}
+  - {type: variant, offset: 1111, length: 6, content: 特甚然寡人亦, WYG: 名為牛宫今以為園漢文帝前九年㑹稽并故鄣郡太守治故鄣都尉治山陰前十六年太守治吳郡都尉治錢唐漢孝景帝五年五月㑹稽屬漢屬漢者始并事也漢孝武帝元封元年陽都侯歸義置由鍾由鍾初立去縣五十里漢孝武元封二年故鄣以為丹陽郡天漢五年四月錢唐浙江岑石}
+  - {type: page-break, offset: 1111, content: '', id: KR2i0002_WYG_002-13a, image: WYG0463/WYG0463-0085a.png}
+  - {type: variant, offset: 1111, length: 6, content: 特甚然寡人亦, krp: 名為牛宫今以為園漢文帝前九年㑹稽幷故鄣郡太守治故鄣都尉治山陰前十六年太守治吳郡都尉治錢唐漢孝景帝五年五月㑹稽屬漢屬漢者始幷事也漢孝武帝元封元年陽都侯歸義置由鍾由鍾初立去縣五十里漢孝武元封二年故鄣以為丹陽郡天漢五年四月錢唐浙江岑石}
+  - {type: punctuation, offset: 1113, content: ，, id: KR2i0002_CHANT_002-bkkpn298}
+  - {type: 'tls:seg', offset: 1113, content: '', id: KR2i0002_CHANT_002-5a.34}
+  - {type: variant, offset: 1118, length: 3, content: 敢怨子, SBCK: 見到七年岑石復見越王句踐徙瑯邪凡二百四十年楚考烈王幷越於瑯邪後四十餘年秦幷楚復四十年漢幷秦到}
+  - {type: variant, offset: 1118, length: 3, content: 敢怨子, WYG: 見到七年岑石復見越王句踐徙瑯邪凡二百四十年楚考烈王并越於瑯邪後四十餘年秦并楚復四十年漢并秦到}
+  - {type: page-break, offset: 1118, content: '', id: KR2i0002_WYG_002-13b, image: WYG0463/WYG0463-0085b.png}
+  - {type: variant, offset: 1118, length: 3, content: 敢怨子, krp: 見到七年岑石復見越王句踐徙瑯邪凡二百四十年楚考烈王幷越於瑯邪後四十餘年秦幷楚復四十年漢幷秦到}
+  - {type: punctuation, offset: 1121, content: 。, id: KR2i0002_CHANT_002-bkkpn299}
+  - {type: 'tls:seg', offset: 1121, content: '', id: KR2i0002_CHANT_002-5a.35}
+  - {type: variant, offset: 1122, length: 93, content: 子大夫何不來歸子故墳墓丘冢為我邦雖小與子同有之民雖少與子同使之子胥曰以此為名名即章以此為利利即重矣前為父報仇後求其利賢者不為也父已死子食其祿非父之義也使者遂還乃報荊昭王曰子胥不入荊邦明矣, SBCK: 二百四十二年句踐徙瑯邪到建武二十八年凡五百六十七年越絶卷第二}
+  - {type: page-break, offset: 1122, content: '', id: KR2i0002_SBCK_002-16a}
+  - {type: page-break, offset: 1122, content: '', id: KR2i0002_SBCK_002-16b}
+  - {type: variant, offset: 1122, length: 93, content: 子大夫何不來歸子故墳墓丘冢為我邦雖小與子同有之民雖少與子同使之子胥曰以此為名名即章以此為利利即重矣前為父報仇後求其利賢者不為也父已死子食其祿非父之義也使者遂還乃報荊昭王曰子胥不入荊邦明矣, WYG: 二百四十二年句踐徙瑯邪到建武二十八年凡五百六十七年越絶書卷二}
+  - {type: variant, offset: 1122, length: 93, content: 子大夫何不來歸子故墳墓丘冢為我邦雖小與子同有之民雖少與子同使之子胥曰以此為名名即章以此為利利即重矣前為父報仇後求其利賢者不為也父已死子食其祿非父之義也使者遂還乃報荊昭王曰子胥不入荊邦明矣, krp: 二百四十二年句踐徙瑯邪到建武二十八年凡五百六十七年越絶卷第二}
+  - {type: punctuation, offset: 1136, content: ？, id: KR2i0002_CHANT_002-bkkpn300}
+  - {type: 'tls:seg', offset: 1136, content: '', id: KR2i0002_CHANT_002-5a.36}
+  - {type: punctuation, offset: 1140, content: ，, id: KR2i0002_CHANT_002-bkkpn301}
+  - {type: 'tls:seg', offset: 1140, content: '', id: KR2i0002_CHANT_002-5a.37}
+  - {type: punctuation, offset: 1145, content: ；, id: KR2i0002_CHANT_002-bkkpn302}
+  - {type: 'tls:seg', offset: 1145, content: '', id: KR2i0002_CHANT_002-5a.38}
+  - {type: punctuation, offset: 1148, content: ，, id: KR2i0002_CHANT_002-bkkpn303}
+  - {type: 'tls:seg', offset: 1148, content: '', id: KR2i0002_CHANT_002-5a.39}
+  - {type: punctuation, offset: 1153, content: 。, id: KR2i0002_CHANT_002-bkkpn304}
+  - {type: punctuation, offset: 1153, content: 」, id: KR2i0002_CHANT_002-bkkpn305}
+  - {type: 'tls:seg', offset: 1153, content: '', id: KR2i0002_CHANT_002-5a.40}
+  - {type: punctuation, offset: 1156, content: ：, id: KR2i0002_CHANT_002-bkkpn306}
+  - {type: 'tls:seg', offset: 1156, content: '', id: KR2i0002_CHANT_002-5a.41}
+  - {type: punctuation, offset: 1156, content: 「, id: KR2i0002_CHANT_002-bkkpn307}
+  - {type: punctuation, offset: 1160, content: ，, id: KR2i0002_CHANT_002-bkkpn308}
+  - {type: 'tls:seg', offset: 1160, content: '', id: KR2i0002_CHANT_002-5a.42}
+  - {type: punctuation, offset: 1163, content: ；, id: KR2i0002_CHANT_002-bkkpn309}
+  - {type: 'tls:seg', offset: 1163, content: '', id: KR2i0002_CHANT_002-5a.43}
+  - {type: punctuation, offset: 1167, content: ，, id: KR2i0002_CHANT_002-bkkpn310}
+  - {type: 'tls:seg', offset: 1167, content: '', id: KR2i0002_CHANT_002-5a.44}
+  - {type: punctuation, offset: 1171, content: 。, id: KR2i0002_CHANT_002-bkkpn311}
+  - {type: 'tls:seg', offset: 1171, content: '', id: KR2i0002_CHANT_002-5a.45}
+  - {type: punctuation, offset: 1176, content: ，, id: KR2i0002_CHANT_002-bkkpn312}
+  - {type: 'tls:seg', offset: 1176, content: '', id: KR2i0002_CHANT_002-5a.46}
+  - {type: punctuation, offset: 1180, content: ，, id: KR2i0002_CHANT_002-bkkpn313}
+  - {type: 'tls:seg', offset: 1180, content: '', id: KR2i0002_CHANT_002-5a.47}
+  - {type: punctuation, offset: 1185, content: 。, id: KR2i0002_CHANT_002-bkkpn314}
+  - {type: 'tls:seg', offset: 1185, content: '', id: KR2i0002_CHANT_002-5a.48}
+  - {type: punctuation, offset: 1188, content: ，, id: KR2i0002_CHANT_002-bkkpn315}
+  - {type: 'tls:seg', offset: 1188, content: '', id: KR2i0002_CHANT_002-5a.49}
+  - {type: punctuation, offset: 1192, content: ，, id: KR2i0002_CHANT_002-bkkpn316}
+  - {type: 'tls:seg', offset: 1192, content: '', id: KR2i0002_CHANT_002-5a.50}
+  - {type: punctuation, offset: 1197, content: 。, id: KR2i0002_CHANT_002-bkkpn317}
+  - {type: punctuation, offset: 1197, content: 」, id: KR2i0002_CHANT_002-bkkpn318}
+  - {type: 'tls:seg', offset: 1197, content: '', id: KR2i0002_CHANT_002-5a.51}
+  - {type: punctuation, offset: 1201, content: ，, id: KR2i0002_CHANT_002-bkkpn319}
+  - {type: 'tls:seg', offset: 1201, content: '', id: KR2i0002_CHANT_002-5a.52}
+  - {type: punctuation, offset: 1207, content: ：, id: KR2i0002_CHANT_002-bkkpn320}
+  - {type: 'tls:seg', offset: 1207, content: '', id: KR2i0002_CHANT_002-5a.53}
+  - {type: punctuation, offset: 1207, content: 「, id: KR2i0002_CHANT_002-bkkpn321}
+  - {type: punctuation, offset: 1213, content: ，, id: KR2i0002_CHANT_002-bkkpn322}
+  - {type: 'tls:seg', offset: 1213, content: '', id: KR2i0002_CHANT_002-5a.54}
+  - {type: punctuation, offset: 1215, content: 。, id: KR2i0002_CHANT_002-bkkpn323}
+  - {type: punctuation, offset: 1215, content: 」, id: KR2i0002_CHANT_002-bkkpn324}
+  - {type: xml-element, offset: 1215, content: '', id: KR2i0002_CHANT_002-bkkxmlele10}
+  back: []
+hash: sha256:e6250a8459dfce681df3c673353449ab2831a026a83e8ef5633a1c78703e5294

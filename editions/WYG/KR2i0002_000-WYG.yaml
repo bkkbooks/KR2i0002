@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2i0002/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部九
+  hash: sha256:7259abc35f9c57e48d61e8bd9fb410aa10fef2792f2e1139b2461e6b899d1fba
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_WYG_000-1a, image: WYG0463/WYG0463-0073a.png}
+body:
+  text: 越絶書載記𩔖提要臣等謹案越絶書十五卷不著撰人名氏書中呉地𫝊稱勾踐徙瑯琊到建武二十八年凡五百六十七年則後漢初人也書末叙外𫝊記以廋詞隠其
+  hash: sha256:5aa95a90f462717a61b506885c55488e277e0ce3d17a0ee2a35a398aae7c2920
+metadata:
+  title: 越絶書
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-10 23:33:09.322693'
+  source:
+    repository: kanripo
+    path: KR2i0002/KR2i0002_000.txt
+hash: sha256:49923225fcf31c7133998935bf6c3d2c2659057e40f619d0cf19429383740c38

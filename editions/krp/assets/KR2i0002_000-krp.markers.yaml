@@ -1,0 +1,221 @@
+canonical_identifier: bkk:krp/KR2i0002/krp/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2i0002_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 1, content: 刻, WYG: 欽定四庫全書史部九}
+  - {type: page-break, offset: 0, content: '', id: KR2i0002_WYG_000-1a, image: WYG0463/WYG0463-0073a.png}
+  - {type: variant, offset: 4, length: 11, content: 序明進士白馬今西蜀張焦, WYG: 載記𩔖提要臣等謹案}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2i0002_SBCK_000-1a02}
+  - {type: indent, offset: 0, content: 　　　　　　　　, id: KR2i0002_krp_000-bkkind1}
+  - {type: 'kr:newline', offset: 10, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 10, content: '', id: KR2i0002_SBCK_000-1a03}
+  - {type: variant, offset: 12, length: 12, content: 名實群籍辨者非一咸無核焉, WYG: ''}
+  - {type: variant, offset: 25, length: 447, content: 盖古而末攷按載多呉越事崇文摠目謂端木賜作尤非其文辯而竒慱而機藏知周信重讐明勇與國策譎權傾押者異獨陳成子篇愚間列國操緃成敗固逰士譚也據春秌哀公使賜正呉尋盟以尊魯斯後人襲事騁辭且將嫁于善言子貢微信焉慱材如子長史記亦云然也不知伯術耻稱聖門兹書及秦漢陳氏謂戰國人所爲漢人從而附益似矣賜也乎哉舊本自宋嘉定間刻于吾蜀䕫門再刻㑹嵇乃久遠不眞甞思廣傳黎陽盧少楩岀孟汝再家藏舊本于予頗爲完善二子好古慱文推㑹斯志爰校刻焉交成厥羙云爾嘉靖三十三年夏六月朔日序越絶復仇之書也子胥夫差以父之仇句踐以身之仇而皆非其道焉夫君天也君有臣而君殺之尚可仇乎故子胥鞭平王之墓爲不義闔廬之死夫差使人謂己曰而忘越王之殺而父乎則對曰不敢忘三年乃報越故夫椒之敗釋越而不誅爲不孝㑹稽之棲苦身焦思甞膽而食卒以㓕吴不知越實得罪於吴而吴之赦已也故其郤公孫雄之請爲不仁春秋書子胥之事曰吴入郢狄吳而諱楚也於夫椒之戰則不書葢不足乎書也於黄池之㑹書於越入吴狄越而咎吴也春秋之末復仇之事莫大於斯三者越絶實僃之有國有家者可以鑒觀焉隋經籍志越絕紀十六卷崇文總目則, WYG: ''}
+  - {type: 'kr:newline', offset: 27, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 27, content: '', id: KR2i0002_SBCK_000-1a04}
+  - {type: 'kr:newline', offset: 44, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 44, content: '', id: KR2i0002_SBCK_000-1a05}
+  - {type: 'kr:newline', offset: 61, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 61, content: '', id: KR2i0002_SBCK_000-1a06}
+  - {type: 'kr:newline', offset: 78, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 78, content: '', id: KR2i0002_SBCK_000-1a07}
+  - {type: 'kr:newline', offset: 95, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 95, content: '', id: KR2i0002_SBCK_000-1a08}
+  - {type: 'kr:newline', offset: 112, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl8}
+  - {type: page-break, offset: 112, content: '', id: KR2i0002_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 112, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 112, content: '', id: KR2i0002_SBCK_000-1b01}
+  - {type: 'kr:newline', offset: 129, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 129, content: '', id: KR2i0002_SBCK_000-1b02}
+  - {type: 'kr:newline', offset: 146, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl11}
+  - {type: line-break, offset: 146, content: '', id: KR2i0002_SBCK_000-1b03}
+  - {type: 'kr:newline', offset: 163, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 163, content: '', id: KR2i0002_SBCK_000-1b04}
+  - {type: 'kr:newline', offset: 180, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 180, content: '', id: KR2i0002_SBCK_000-1b05}
+  - {type: variant, offset: 192, length: 1, content: 黎, SBCK: 􅀺}
+  - {type: 'kr:newline', offset: 197, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 197, content: '', id: KR2i0002_SBCK_000-1b06}
+  - {type: 'kr:newline', offset: 214, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 214, content: '', id: KR2i0002_SBCK_000-1b07}
+  - {type: 'kr:newline', offset: 231, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 231, content: '', id: KR2i0002_SBCK_000-1b08}
+  - {type: 'kr:newline', offset: 243, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl17}
+  - {type: 'kr:newline', offset: 243, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl18}
+  - {type: 'kr:newline', offset: 243, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl19}
+  - {type: page-break, offset: 243, content: '', id: KR2i0002_SBCK_000-2a}
+  - {type: 'kr:newline', offset: 243, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 243, content: '', id: KR2i0002_SBCK_000-2a01}
+  - {type: 'kr:newline', offset: 260, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 260, content: '', id: KR2i0002_SBCK_000-2a02}
+  - {type: 'kr:newline', offset: 277, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl22}
+  - {type: line-break, offset: 277, content: '', id: KR2i0002_SBCK_000-2a03}
+  - {type: 'kr:newline', offset: 294, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl23}
+  - {type: line-break, offset: 294, content: '', id: KR2i0002_SBCK_000-2a04}
+  - {type: 'kr:newline', offset: 311, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl24}
+  - {type: line-break, offset: 311, content: '', id: KR2i0002_SBCK_000-2a05}
+  - {type: 'kr:newline', offset: 328, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl25}
+  - {type: line-break, offset: 328, content: '', id: KR2i0002_SBCK_000-2a06}
+  - {type: 'kr:newline', offset: 345, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl26}
+  - {type: line-break, offset: 345, content: '', id: KR2i0002_SBCK_000-2a07}
+  - {type: 'kr:newline', offset: 362, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl27}
+  - {type: line-break, offset: 362, content: '', id: KR2i0002_SBCK_000-2a08}
+  - {type: 'kr:newline', offset: 379, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl28}
+  - {type: page-break, offset: 379, content: '', id: KR2i0002_SBCK_000-2b}
+  - {type: 'kr:newline', offset: 379, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl29}
+  - {type: line-break, offset: 379, content: '', id: KR2i0002_SBCK_000-2b01}
+  - {type: 'kr:newline', offset: 396, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl30}
+  - {type: line-break, offset: 396, content: '', id: KR2i0002_SBCK_000-2b02}
+  - {type: 'kr:newline', offset: 413, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl31}
+  - {type: line-break, offset: 413, content: '', id: KR2i0002_SBCK_000-2b03}
+  - {type: 'kr:newline', offset: 430, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl32}
+  - {type: line-break, offset: 430, content: '', id: KR2i0002_SBCK_000-2b04}
+  - {type: 'kr:newline', offset: 447, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl33}
+  - {type: line-break, offset: 447, content: '', id: KR2i0002_SBCK_000-2b05}
+  - {type: 'kr:newline', offset: 457, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl34}
+  - {type: line-break, offset: 457, content: '', id: KR2i0002_SBCK_000-2b06}
+  - {type: variant, offset: 469, length: 1, content: 總, SBCK: 􅄣}
+  - {type: 'kr:newline', offset: 474, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl35}
+  - {type: line-break, offset: 474, content: '', id: KR2i0002_SBCK_000-2b07}
+  - {type: variant, offset: 475, length: 5, content: 注司馬遷史, WYG: 不著撰人名氏書中呉地𫝊稱勾踐徙瑯琊到建武二十八年凡五百六十七年則後漢初人也書末叙外𫝊}
+  - {type: variant, offset: 481, length: 3, content: 者屢引, WYG: ''}
+  - {type: variant, offset: 485, length: 48, content: 爲據予紹熈壬子逰呉中得許氏本訛舛特甚嘉定壬申令餘杭又得陳正卿本乙亥官中都借本秘閣以三本互相參攷擇, WYG: 廋詞隠}
+  - {type: 'kr:newline', offset: 491, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl36}
+  - {type: page-break, offset: 491, content: '', id: KR2i0002_SBCK_000-3a}
+  - {type: 'kr:newline', offset: 491, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl37}
+  - {type: line-break, offset: 491, content: '', id: KR2i0002_SBCK_000-3a01}
+  - {type: 'kr:newline', offset: 508, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl38}
+  - {type: line-break, offset: 508, content: '', id: KR2i0002_SBCK_000-3a02}
+  - {type: variant, offset: 514, length: 1, content: 卿, SBCK: 􅀸}
+  - {type: 'kr:newline', offset: 525, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl39}
+  - {type: line-break, offset: 525, content: '', id: KR2i0002_SBCK_000-3a03}
+  - {type: variant, offset: 534, length: 69, content: 通者從之乃麤可讀然猶未也念前所見者皆騰寫失真不板行則其傳不廣傳不廣則各私其所藏莫克是正遂刻之夔門以俟來者嘉定庚辰七月望日東徐丁黼書越絕卷終, WYG: ''}
+  - {type: 'kr:newline', offset: 542, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl40}
+  - {type: line-break, offset: 542, content: '', id: KR2i0002_SBCK_000-3a04}
+  - {type: 'kr:newline', offset: 559, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl41}
+  - {type: line-break, offset: 559, content: '', id: KR2i0002_SBCK_000-3a05}
+  - {type: variant, offset: 569, length: 1, content: 私, SBCK: 􅀻}
+  - {type: 'kr:newline', offset: 576, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl42}
+  - {type: line-break, offset: 576, content: '', id: KR2i0002_SBCK_000-3a06}
+  - {type: 'kr:newline', offset: 593, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl43}
+  - {type: line-break, offset: 593, content: '', id: KR2i0002_SBCK_000-3a07}
+  - {type: 'kr:newline', offset: 599, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl44}
+  - {type: page-break, offset: 599, content: '', id: KR2i0002_SBCK_000-3b}
+  - {type: 'kr:newline', offset: 599, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl45}
+  - {type: 'kr:newline', offset: 599, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl46}
+  - {type: line-break, offset: 599, content: '', id: KR2i0002_SBCK_000-3b01}
+  - {type: 'kr:newline', offset: 603, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl47}
+  - {type: page-break, offset: 603, content: '', id: KR2i0002_SBCK_000-4a}
+  - {type: 'kr:newline', offset: 603, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl48}
+  - {type: page-break, offset: 603, content: '', id: KR2i0002_SBCK_000-5a}
+  - {type: 'kr:newline', offset: 603, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl49}
+  - {type: page-break, offset: 603, content: '', id: KR2i0002_SBCK_000-6a}
+  - {type: 'kr:newline', offset: 603, content: '
+
+      ', id: KR2i0002_krp_000-bkkkrnewl50}
+  back: []
+hash: sha256:79bcf12a066205dd26f03838e07e47e68e288eefdbd31871a6b438fc233bdd50
