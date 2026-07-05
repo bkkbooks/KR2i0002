@@ -9,7 +9,6 @@ markers:
   - {type: variant, offset: 0, length: 0, content: '', krp: 越絶卷第十三}
   body:
   - {type: variant, offset: 1, length: 1, content: 絕, WYG: 絶書卷十三漢袁康撰}
-  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: variant, offset: 4, length: 3, content: 記寶劍, SBCK: 枕中}
   - {type: variant, offset: 4, length: 6, content: 記寶劍第十三, WYG: 枕中}
   - {type: variant, offset: 4, length: 3, content: 記寶劍, krp: 枕中}
@@ -174,7 +173,6 @@ markers:
   - {type: 'tls:seg', offset: 172, content: '', id: KR2i0002_CHANT_013-1a.39}
   - {type: punctuation, offset: 177, content: ，, id: KR2i0002_CHANT_013-bkkpn50}
   - {type: 'tls:seg', offset: 177, content: '', id: KR2i0002_CHANT_013-1a.40}
-  - {type: substitution, offset: 180, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 182, content: 。, id: KR2i0002_CHANT_013-bkkpn51}
   - {type: 'tls:seg', offset: 182, content: '', id: KR2i0002_CHANT_013-1a.41}
   - {type: variant, offset: 182, length: 95, content: 穿銅釜絕鐵䥶胥中決如粢米故曰巨闕王取純鈞薛燭聞之忽如敗有頃懼如悟下階而深惟簡衣而坐望之手振拂揚其華捽如芙蓉始出觀其釽爛爛如列星之行觀其光渾渾如水之將溢於溏觀其斷巖巖如瑣石觀其文煥煥如冰之將釋, SBCK: ''}
@@ -182,7 +180,6 @@ markers:
   - {type: variant, offset: 182, length: 95, content: 穿銅釜絕鐵䥶胥中決如粢米故曰巨闕王取純鈞薛燭聞之忽如敗有頃懼如悟下階而深惟簡衣而坐望之手振拂揚其華捽如芙蓉始出觀其釽爛爛如列星之行觀其光渾渾如水之將溢於溏觀其斷巖巖如瑣石觀其文煥煥如冰之將釋, krp: ''}
   - {type: punctuation, offset: 185, content: ，, id: KR2i0002_CHANT_013-bkkpn52}
   - {type: 'tls:seg', offset: 185, content: '', id: KR2i0002_CHANT_013-1a.42}
-  - {type: substitution, offset: 185, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 188, content: ，, id: KR2i0002_CHANT_013-bkkpn53}
   - {type: 'tls:seg', offset: 188, content: '', id: KR2i0002_CHANT_013-1a.43}
   - {type: punctuation, offset: 194, content: ，, id: KR2i0002_CHANT_013-bkkpn54}
@@ -253,7 +250,6 @@ markers:
   - {type: variant, offset: 292, length: 19, content: 有市之鄉三駿馬千疋千戶之都二可乎薛燭對, WYG: 逆大貴生凌死者順大賤越王}
   - {type: variant, offset: 292, length: 19, content: 有市之鄉三駿馬千疋千戶之都二可乎薛燭對, krp: 逆大貴生凌死者順大賤越王}
   - {type: punctuation, offset: 297, content: 、, id: KR2i0002_CHANT_013-bkkpn81}
-  - {type: substitution, offset: 300, original: 疋, replacement: 匹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0036}}
   - {type: punctuation, offset: 301, content: 、, id: KR2i0002_CHANT_013-bkkpn82}
   - {type: punctuation, offset: 306, content: ，, id: KR2i0002_CHANT_013-bkkpn83}
   - {type: 'tls:seg', offset: 306, content: '', id: KR2i0002_CHANT_013-1a.67}
@@ -282,7 +278,6 @@ markers:
   - {type: 'tls:seg', offset: 340, content: '', id: KR2i0002_CHANT_013-1a.76}
   - {type: punctuation, offset: 344, content: ；, id: KR2i0002_CHANT_013-bkkpn95}
   - {type: 'tls:seg', offset: 344, content: '', id: KR2i0002_CHANT_013-1a.77}
-  - {type: substitution, offset: 347, original: 鑪, replacement: 爐, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0592}}
   - {type: punctuation, offset: 348, content: ，, id: KR2i0002_CHANT_013-bkkpn96}
   - {type: 'tls:seg', offset: 348, content: '', id: KR2i0002_CHANT_013-1a.78}
   - {type: punctuation, offset: 352, content: ；, id: KR2i0002_CHANT_013-bkkpn97}
@@ -372,7 +367,6 @@ markers:
   - {type: 'tls:seg', offset: 547, content: '', id: KR2i0002_CHANT_013-1a.115}
   - {type: punctuation, offset: 555, content: ，, id: KR2i0002_CHANT_013-bkkpn139}
   - {type: 'tls:seg', offset: 555, content: '', id: KR2i0002_CHANT_013-1a.116}
-  - {type: substitution, offset: 555, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 559, content: ，, id: KR2i0002_CHANT_013-bkkpn140}
   - {type: 'tls:seg', offset: 559, content: '', id: KR2i0002_CHANT_013-1a.117}
   - {type: punctuation, offset: 564, content: ，, id: KR2i0002_CHANT_013-bkkpn141}
@@ -384,7 +378,6 @@ markers:
   - {type: punctuation, offset: 581, content: 。, id: KR2i0002_CHANT_013-bkkpn144}
   - {type: 'tls:seg', offset: 581, content: '', id: KR2i0002_CHANT_013-1a.121}
   - {type: punctuation, offset: 586, content: 、, id: KR2i0002_CHANT_013-bkkpn145}
-  - {type: substitution, offset: 589, original: 疋, replacement: 匹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0036}}
   - {type: punctuation, offset: 590, content: 、, id: KR2i0002_CHANT_013-bkkpn146}
   - {type: punctuation, offset: 595, content: ，, id: KR2i0002_CHANT_013-bkkpn147}
   - {type: 'tls:seg', offset: 595, content: '', id: KR2i0002_CHANT_013-1a.122}
@@ -484,7 +477,6 @@ markers:
   - {type: punctuation, offset: 696, content: 、, id: KR2i0002_CHANT_013-bkkpn171}
   - {type: punctuation, offset: 701, content: ，, id: KR2i0002_CHANT_013-bkkpn172}
   - {type: 'tls:seg', offset: 701, content: '', id: KR2i0002_CHANT_013-2a.19}
-  - {type: substitution, offset: 701, original: 洩, replacement: 泄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0596}}
   - {type: variant, offset: 703, length: 10, content: 溪取鐵英作為鐵劍三枚, SBCK: 魂魄視其動靜觀其所舎萬不失}
   - {type: variant, offset: 703, length: 10, content: 溪取鐵英作為鐵劍三枚, krp: 魂魄視其動靜觀其所舎萬不失}
   - {type: punctuation, offset: 704, content: ，, id: KR2i0002_CHANT_013-bkkpn173}
@@ -574,7 +566,6 @@ markers:
   - {type: 'tls:seg', offset: 841, content: '', id: KR2i0002_CHANT_013-2a.49}
   - {type: punctuation, offset: 847, content: ，, id: KR2i0002_CHANT_013-bkkpn213}
   - {type: 'tls:seg', offset: 847, content: '', id: KR2i0002_CHANT_013-2a.50}
-  - {type: substitution, offset: 853, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 854, content: 。, id: KR2i0002_CHANT_013-bkkpn214}
   - {type: punctuation, offset: 854, content: 」, id: KR2i0002_CHANT_013-bkkpn215}
   - {type: xml-element, offset: 854, content: '', id: KR2i0002_CHANT_013-bkkxmlele4}
@@ -595,7 +586,6 @@ markers:
   - {type: 'tls:seg', offset: 877, content: '', id: KR2i0002_CHANT_013-3a.7}
   - {type: punctuation, offset: 881, content: 。, id: KR2i0002_CHANT_013-bkkpn221}
   - {type: 'tls:seg', offset: 881, content: '', id: KR2i0002_CHANT_013-3a.8}
-  - {type: substitution, offset: 883, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 885, content: 、, id: KR2i0002_CHANT_013-bkkpn222}
   - {type: punctuation, offset: 887, content: ，, id: KR2i0002_CHANT_013-bkkpn223}
   - {type: 'tls:seg', offset: 887, content: '', id: KR2i0002_CHANT_013-3a.9}
@@ -743,4 +733,4 @@ markers:
   - {type: page-break, offset: 1126, content: '', id: KR2i0002_SBCK_013-10b}
   - {type: variant, offset: 1126, length: 0, content: '', krp: 不望其報不貪天下之財而天下共富之所以其智能自貴於人而天下共尊之故曰富貴者天下所置不可奪也今王利地貪財接兵血刃僵尸流血欲以顯於世不亦謬乎越王曰上不逮於神農下不及於堯舜今子以至聖之道以説寡人誠非吾所及也且吾聞之也父辱則子死君辱則臣死今寡人親巳辱於吳矣欲行一切之變以復吳仇願子更為寡人圖之范子曰君辱則死固其義也立死下士人而求成邦者且聖之計也且夫廣天下尊萬乘之主使百姓安其居樂其業者唯兵兵之要在於人人之要在於榖故民衆則主安穀多則兵疆王而僃此二者然後可以圖之也越王曰吾欲富邦疆兵地狹民少奈何為之范子曰夫陽動於上以成天文隂動於下以成地理審察開置之要可以為富凡欲先知天門開及地户閉其術天高五寸减天寸六分以成地謹司八穀初見出於天者是謂天門開地户閉陽氣不得下入地户故氣轉動而上下隂陽俱絶八穀不成大貴必應其嵗而起此天變見符也謹司八榖初見入於地者是謂地户閉隂陽俱㑹八穀大成其嵗大賤來年大饑此地變見端也謹司八穀初見半於人者糴平熟無災害故天倡而見符地應而見瑞聖人上知天下知地中知人此之謂天平地平以此為天圖越王既巳勝吳三日反邦未至息自雄問大夫種曰夫聖人之術何以加於此乎大夫種曰不然王德范子之所言故天地之符應邦以藏聖人之心矣然而范子豫見之策未肎為王言者也越王愀然而恐靣有憂色請於范子稱曰寡人用夫子之計幸得勝呉盡夫子之力也寡人聞夫子明於隂陽進退豫知未形推徃引前後知千歲可得聞乎寡人虛心垂意聽於下風范子曰夫隂陽進退前後幽㝠未見未形此特殺生之柄而王制於四海此邦之重寳也王而毋泄此事臣請為王言之越王曰夫子幸教寡人願與之自藏至死不敢忘范子曰隂陽進退者固天道自然不足怪也夫隂入淺者即嵗善陽入深者則嵗惡幽幽冥冥豫知未形故聖人見物不疑是謂知時固聖人所不傳也夫堯舜禹湯皆有豫見之勞雖有凶年而民不窮越王曰善以丹書帛置之枕中以為邦寳范子巳告越王立志入海此謂天地之圖也越絶卷第十三}
   back: []
-hash: sha256:7ff299968741745616174395c3d4884d628768b47715e1aebf94e99abe854f9a
+hash: sha256:4d163bb86742664ba91ada90804583feb8e8bd3ebe70afecba6d9c125e989e99

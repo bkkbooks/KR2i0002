@@ -9,7 +9,6 @@ markers:
   - {type: variant, offset: 1, length: 6, content: 絕外傳記吳地, SBCK: 絶卷第三越絶呉内}
   - {type: variant, offset: 1, length: 2, content: 絕外, WYG: 絶書卷三漢袁康撰吳内}
   - {type: variant, offset: 1, length: 6, content: 絕外傳記吳地, krp: 絶卷第三越絶呉内}
-  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: variant, offset: 4, length: 1, content: 記, WYG: ''}
   - {type: variant, offset: 6, length: 3, content: 地傳第, WYG: 何以稱人乎夷狄之也憂中邦奈何乎伍子胥父誅於楚子胥挾弓身干闔廬闔廬曰士之甚勇之甚將為之報仇子胥曰不可諸侯不為匹夫報仇臣聞事君猶事父也虧君之行報父之仇不可於是止蔡昭公南朝楚被羔裘囊瓦求之昭公不與即拘昭公南郢}
   - {type: page-break, offset: 6, content: '', id: KR2i0002_WYG_003-1b, image: WYG0463/WYG0463-0085d.png}
@@ -452,7 +451,6 @@ markers:
   - {type: xml-element, offset: 852, content: '', id: KR2i0002_CHANT_003-bkkxmlele58}
   - {type: xml-element, offset: 852, content: '', id: KR2i0002_CHANT_003-bkkxmlele59}
   - {type: 'tls:seg', offset: 852, content: '', id: KR2i0002_CHANT_003-15a.8}
-  - {type: substitution, offset: 852, original: 虵, replacement: 蛇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1081}}
   - {type: punctuation, offset: 863, content: ，, id: KR2i0002_CHANT_003-bkkpn172}
   - {type: 'tls:seg', offset: 863, content: '', id: KR2i0002_CHANT_003-15a.9}
   - {type: punctuation, offset: 872, content: 。, id: KR2i0002_CHANT_003-bkkpn173}
@@ -535,7 +533,6 @@ markers:
   - {type: 'tls:seg', offset: 1051, content: '', id: KR2i0002_CHANT_003-19a.4}
   - {type: punctuation, offset: 1055, content: ，, id: KR2i0002_CHANT_003-bkkpn202}
   - {type: 'tls:seg', offset: 1055, content: '', id: KR2i0002_CHANT_003-19a.5}
-  - {type: substitution, offset: 1056, original: 闚, replacement: 窺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1409}}
   - {type: punctuation, offset: 1059, content: 。, id: KR2i0002_CHANT_003-bkkpn203}
   - {type: 'tls:seg', offset: 1059, content: '', id: KR2i0002_CHANT_003-19a.6}
   - {type: punctuation, offset: 1064, content: 。, id: KR2i0002_CHANT_003-bkkpn204}
@@ -728,7 +725,6 @@ markers:
   - {type: 'tls:seg', offset: 1443, content: '', id: KR2i0002_CHANT_003-25a.13}
   - {type: punctuation, offset: 1445, content: ，, id: KR2i0002_CHANT_003-bkkpn278}
   - {type: 'tls:seg', offset: 1445, content: '', id: KR2i0002_CHANT_003-25a.14}
-  - {type: substitution, offset: 1446, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1447, content: 。, id: KR2i0002_CHANT_003-bkkpn279}
   - {type: 'tls:seg', offset: 1447, content: '', id: KR2i0002_CHANT_003-25a.15}
   - {type: punctuation, offset: 1452, content: 。, id: KR2i0002_CHANT_003-bkkpn280}
@@ -1071,7 +1067,6 @@ markers:
   - {type: 'tls:seg', offset: 1985, content: '', id: KR2i0002_CHANT_003-35a.8}
   - {type: punctuation, offset: 1992, content: 。, id: KR2i0002_CHANT_003-bkkpn386}
   - {type: 'tls:seg', offset: 1992, content: '', id: KR2i0002_CHANT_003-35a.9}
-  - {type: substitution, offset: 1999, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 2004, content: 。, id: KR2i0002_CHANT_003-bkkpn387}
   - {type: 'tls:seg', offset: 2004, content: '', id: KR2i0002_CHANT_003-35a.10}
   - {type: punctuation, offset: 2007, content: ，, id: KR2i0002_CHANT_003-bkkpn388}
@@ -1209,7 +1204,6 @@ markers:
   - {type: 'tls:seg', offset: 2225, content: '', id: KR2i0002_CHANT_003-41a.5}
   - {type: punctuation, offset: 2230, content: ，, id: KR2i0002_CHANT_003-bkkpn438}
   - {type: 'tls:seg', offset: 2230, content: '', id: KR2i0002_CHANT_003-41a.6}
-  - {type: substitution, offset: 2234, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 2235, content: 。, id: KR2i0002_CHANT_003-bkkpn439}
   - {type: xml-element, offset: 2235, content: '', id: KR2i0002_CHANT_003-bkkxmlele186}
   - {type: xml-element, offset: 2235, content: '', id: KR2i0002_CHANT_003-bkkxmlele187}
@@ -1628,7 +1622,6 @@ markers:
   - {type: variant, offset: 3176, length: 7, content: 徙瑯邪凡二百四, WYG: 反國六年皆得士民之衆而欲伐吳於是乃使之維甲維甲者治甲系斷修一作循内矛赤雞稽繇者也越人謂人鎩也方舟航買儀塵者越人往如江也治須慮者越人謂船為須慮亟怒紛紛者怒貌也怒至士擊髙文者躍勇士也習之於夷夷海也宿之於萊萊野也致之於單單者堵也舜之時鯀不從令堯遭帝嚳之後亂洪水滔天堯使鯀治之九年弗能治堯七}
   - {type: page-break, offset: 3176, content: '', id: KR2i0002_WYG_003-6a, image: WYG0463/WYG0463-0088a.png}
   - {type: variant, offset: 3176, length: 7, content: 徙瑯邪凡二百四, krp: 反國六年皆得士民之衆而欲伐吳於是乃使之維甲維甲者治甲系斷修作一循内矛赤雞稽繇者也越人謂人鎩也方舟航買儀塵者越人往如江也治須慮者越人謂船為須慮亟怒紛紛者怒貌也怒至士擊髙文者躍勇士也習之於夷夷海也宿之於萊萊野也致之於單單者堵也舜之時鯀不從令堯遭帝嚳之後亂洪水滔天堯使鯀治之九年弗能治堯七}
-  - {type: substitution, offset: 3177, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
   - {type: punctuation, offset: 3179, content: ，, id: KR2i0002_CHANT_003-bkkpn618}
   - {type: 'tls:seg', offset: 3179, content: '', id: KR2i0002_CHANT_003-53a.9}
   - {type: punctuation, offset: 3185, content: ，, id: KR2i0002_CHANT_003-bkkpn619}
@@ -1646,7 +1639,6 @@ markers:
   - {type: variant, offset: 3192, length: 23, content: 瑯邪後四十餘年秦并楚復四十年漢并秦到今二百四十, WYG: 孟津之上不言同辭不呼自來盡知武王忠信欲從武王與之代紂當是時比干箕子㣲子尚在武王賢之未敢伐也還諸侯歸}
   - {type: page-break, offset: 3192, content: '', id: KR2i0002_WYG_003-7a, image: WYG0463/WYG0463-0088c.png}
   - {type: variant, offset: 3192, length: 23, content: 瑯邪後四十餘年秦并楚復四十年漢并秦到今二百四十, krp: 孟津之上不言同辭不呼自來盡知武王忠信欲從武王與之代紂當是時比干箕子㣲子尚在武王賢之未敢伐也還諸侯歸}
-  - {type: substitution, offset: 3192, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
   - {type: punctuation, offset: 3194, content: 。, id: KR2i0002_CHANT_003-bkkpn620}
   - {type: 'tls:seg', offset: 3194, content: '', id: KR2i0002_CHANT_003-53a.11}
   - {type: punctuation, offset: 3199, content: ，, id: KR2i0002_CHANT_003-bkkpn621}
@@ -1662,7 +1654,6 @@ markers:
   - {type: variant, offset: 3217, length: 7, content: 句踐徙瑯邪到建, SBCK: 紂賊比干囚箕子㣲子去之刳姙婦殘朝涉}
   - {type: variant, offset: 3217, length: 7, content: 句踐徙瑯邪到建, WYG: 紂賊比干囚箕子㣲子去之刳姙婦殘朝涉}
   - {type: variant, offset: 3217, length: 7, content: 句踐徙瑯邪到建, krp: 紂賊比干囚箕子㣲子去之刳姙婦殘朝涉}
-  - {type: substitution, offset: 3220, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1048}}
   - {type: variant, offset: 3225, length: 3, content: 二十八, SBCK: 王見賢臣已亡乃朝天下興師伐紂殺之武王未下車封比干之墓發太倉之粟以贍天下封微子於宋此武王以禮信也周公以盛德武王封周公使傅相成王成王少周公臣事之當是之時賞賜不加於無功刑罰不加於無罪天下家給人足禾麥茂美使人以時説之以禮上順天地澤及夷狄於是管叔蔡叔不知周公而讒之成王周公乃辭位出廵狩於邊一}
   - {type: page-break, offset: 3225, content: '', id: KR2i0002_SBCK_003-8b}
   - {type: variant, offset: 3225, length: 3, content: 二十八, WYG: 王見賢臣已亡乃朝天下興師伐紂殺之武王未下車封比干之墓發太倉之粟以贍天下封㣲子於宋此武王以禮信也周公以盛德武王封周公使傅相成王成王少周公臣事之當是之時賞賜不加於無功刑罰不加於無罪天下家給人足禾麥茂美使人以時説之以禮上順天地澤及夷狄於是管叔蔡叔不知周公而讒之成王周公乃辭位出巡狩於邊一}
@@ -1680,4 +1671,4 @@ markers:
   - {type: xml-element, offset: 3236, content: '', id: KR2i0002_CHANT_003-bkkxmlele234}
   - {type: page-break, offset: 3236, content: '', id: KR2i0002_SBCK_003-9a}
   back: []
-hash: sha256:3815f1b3d014959b0978249303b8ab272bb32001c4a4e2fee826cc1e186e4c70
+hash: sha256:ffef01b1d7156e8673d5e6164dac3386fad23fc96e9191321433946cdbb81924
