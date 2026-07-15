@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 1, length: 5, content: 絕內經九術, SBCK: 絶卷}
   - {type: variant, offset: 1, length: 6, content: 絕內經九術第, WYG: 絶書卷}
   - {type: variant, offset: 1, length: 5, content: 絕內經九術, krp: 絶卷}
+  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: xml-element, offset: 9, content: '', id: KR2i0002_CHANT_014-bkkxmlele1}
   - {type: 'tls:seg', offset: 9, content: '', id: KR2i0002_CHANT_014-1a.1}
   - {type: 'tls:seg', offset: 9, content: '', id: KR2i0002_CHANT_014-1a.2}
@@ -38,6 +39,7 @@ markers:
   - {type: variant, offset: 22, length: 11, content: 伐吳柰何能有功乎大夫種, krp: 殺妻子角戰以死蠡}
   - {type: punctuation, offset: 24, content: ，, id: KR2i0002_CHANT_014-bkkpn4}
   - {type: 'tls:seg', offset: 24, content: '', id: KR2i0002_CHANT_014-1a.5}
+  - {type: substitution, offset: 24, original: 柰, replacement: 奈, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19422}}
   - {type: punctuation, offset: 30, content: ？, id: KR2i0002_CHANT_014-bkkpn5}
   - {type: punctuation, offset: 30, content: 」, id: KR2i0002_CHANT_014-bkkpn6}
   - {type: 'tls:seg', offset: 30, content: '', id: KR2i0002_CHANT_014-1a.6}
@@ -73,6 +75,7 @@ markers:
   - {type: variant, offset: 64, length: 133, content: 君三曰貴糴粟槀以空其邦四曰遺之好美以為勞其志五曰遺之巧匠使起宮室高臺以盡其財疲其力六曰遺其諛臣使之易伐七曰彊其諫臣使之自殺八曰邦家富而備利器九曰堅厲甲兵以承其弊故曰九者勿患戒口勿傳以取天下不難而況於吳乎越王曰善於是作為策楯嬰以白璧鏤以黃金類龍蛇而行者乃使大夫種獻之於, krp: 所惡且}
   - {type: punctuation, offset: 65, content: ；, id: KR2i0002_CHANT_014-bkkpn20}
   - {type: 'tls:seg', offset: 65, content: '', id: KR2i0002_CHANT_014-1a.15}
+  - {type: substitution, offset: 70, original: 槀, replacement: 稿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18632}}
   - {type: punctuation, offset: 71, content: ，, id: KR2i0002_CHANT_014-bkkpn21}
   - {type: 'tls:seg', offset: 71, content: '', id: KR2i0002_CHANT_014-1a.16}
   - {type: punctuation, offset: 75, content: ；, id: KR2i0002_CHANT_014-bkkpn22}
@@ -92,6 +95,7 @@ markers:
   - {type: 'tls:seg', offset: 111, content: '', id: KR2i0002_CHANT_014-1a.23}
   - {type: punctuation, offset: 115, content: ；, id: KR2i0002_CHANT_014-bkkpn30}
   - {type: 'tls:seg', offset: 115, content: '', id: KR2i0002_CHANT_014-1a.24}
+  - {type: substitution, offset: 117, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 121, content: ，, id: KR2i0002_CHANT_014-bkkpn31}
   - {type: 'tls:seg', offset: 121, content: '', id: KR2i0002_CHANT_014-1a.25}
   - {type: punctuation, offset: 125, content: ；, id: KR2i0002_CHANT_014-bkkpn32}
@@ -246,6 +250,7 @@ markers:
   - {type: variant, offset: 365, length: 4, content: 邦洿下貧, SBCK: 稱君子不危}
   - {type: variant, offset: 365, length: 4, content: 邦洿下貧, WYG: 稱君子不危}
   - {type: variant, offset: 365, length: 4, content: 邦洿下貧, krp: 稱君子不危}
+  - {type: substitution, offset: 366, original: 洿, replacement: 汙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19923}}
   - {type: punctuation, offset: 370, content: ，, id: KR2i0002_CHANT_014-bkkpn92}
   - {type: 'tls:seg', offset: 370, content: '', id: KR2i0002_CHANT_014-3a.8}
   - {type: variant, offset: 371, length: 3, content: 敢當使, SBCK: 㓕服以忠告句踐非之見乎顔色范蠡因心知意策問其事卜省其辭吉耶凶耶兆言其災夫子見利與害去于五湖葢謂知其道貴微而賤獲易曰知㡬其神乎道以不害為左傳曰知始無終厥道必窮此之謂也子胥賜劒將自殺歎曰嗟乎衆曲矯直一人固不能獨立吾挾弓矢以逸鄭楚之間自以為可復吾見凌之仇乃先王之功想得報焉自致於此吾先得榮後僇者非智衰也先遇明後遭險君之易移也巳矣坐不遇時復何言哉此吾命也亡將安之莫如早死從吾先王于地}
@@ -419,4 +424,4 @@ markers:
   - {type: page-break, offset: 581, content: '', id: KR2i0002_WYG_014-6b, image: WYG0463/WYG0463-0126b.png}
   - {type: variant, offset: 581, length: 0, content: '', krp: 胥自此始亡之謂也越絶卷第十四}
   back: []
-hash: sha256:dea324e4d99e97c011300ef46ff672201613ecab8b22429c5a770beadfb55295
+hash: sha256:693f3c339c330df89bb175c304f6c14f7bf9dff2f4d39da4bbde7ab0f5d03f89

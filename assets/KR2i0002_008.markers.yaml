@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 0, content: '', krp: 越絶書卷八}
   body:
   - {type: variant, offset: 1, length: 1, content: 絕, WYG: 絶書卷八漢袁康撰}
+  - {type: substitution, offset: 1, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: variant, offset: 5, length: 1, content: 范, SBCK: 地}
   - {type: variant, offset: 5, length: 3, content: 范伯第, WYG: 地傳昔者越之先君無餘乃禹之世别封於越以守禹冡問天地之道萬物之紀莫失其本神農嘗百草水土甘苦黄帝造衣裳后稷産穡制器械人事備矣疇糞桑麻播種五榖必以手足大越海濵之民獨以鳥田小大有差進退有行莫將自使其故何也曰禹始也憂民救水到大越上茅山大㑹計爵有德封有功更名茅山曰㑹稽及其王也巡狩大越見耆老納詩書審銓衡平斗斛因病亡死葬會稽葦槨桐棺穿壙七尺上無漏泄下無即水壇髙三尺土階三等延袤一畝尚以為居之者樂為之者苦無以報民功教民鳥田一盛一衰當禹之時舜死蒼梧象為民田也禹至此者亦有因矣亦覆釡也覆釡者州土也填德也禹美而告至焉禹知時晏嵗暮年加申酉求書其下祠白馬禹井井者法也以為禹葬以法度不煩人衆無餘初封大越都秦餘望南千有餘嵗而至句踐句踐徙治山北引屬東海内外越别封削焉句踐伐吳霸闗東從瑯琊起觀臺臺周七里以望東海死士}
   - {type: page-break, offset: 5, content: '', id: KR2i0002_WYG_008-1b, image: WYG0463/WYG0463-0103b.png}
@@ -143,6 +144,7 @@ markers:
   - {type: variant, offset: 182, length: 3, content: 辯口進, SBCK: 士衆恐懼人不自􅂓兵法}
   - {type: variant, offset: 182, length: 3, content: 辯口進, WYG: 士衆恐懼人不自聊兵法}
   - {type: variant, offset: 182, length: 3, content: 辯口進, krp: 士衆恐懼人不自聊兵法}
+  - {type: substitution, offset: 182, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 184, content: ，, id: KR2i0002_CHANT_008-bkkpn38}
   - {type: 'tls:seg', offset: 184, content: '', id: KR2i0002_CHANT_008-2a.13}
   - {type: punctuation, offset: 186, content: ：, id: KR2i0002_CHANT_008-bkkpn39}
@@ -235,15 +237,18 @@ markers:
   - {type: punctuation, offset: 311, content: 『, id: KR2i0002_CHANT_008-bkkpn74}
   - {type: punctuation, offset: 317, content: ，, id: KR2i0002_CHANT_008-bkkpn75}
   - {type: 'tls:seg', offset: 317, content: '', id: KR2i0002_CHANT_008-2a.40}
+  - {type: substitution, offset: 322, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 323, content: ；, id: KR2i0002_CHANT_008-bkkpn76}
   - {type: 'tls:seg', offset: 323, content: '', id: KR2i0002_CHANT_008-2a.41}
   - {type: punctuation, offset: 329, content: ，, id: KR2i0002_CHANT_008-bkkpn77}
   - {type: 'tls:seg', offset: 329, content: '', id: KR2i0002_CHANT_008-2a.42}
+  - {type: substitution, offset: 332, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 335, content: 。, id: KR2i0002_CHANT_008-bkkpn78}
   - {type: punctuation, offset: 335, content: 』, id: KR2i0002_CHANT_008-bkkpn79}
   - {type: 'tls:seg', offset: 335, content: '', id: KR2i0002_CHANT_008-2a.43}
   - {type: punctuation, offset: 343, content: ，, id: KR2i0002_CHANT_008-bkkpn80}
   - {type: 'tls:seg', offset: 343, content: '', id: KR2i0002_CHANT_008-2a.44}
+  - {type: substitution, offset: 350, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 351, content: ，, id: KR2i0002_CHANT_008-bkkpn81}
   - {type: 'tls:seg', offset: 351, content: '', id: KR2i0002_CHANT_008-2a.45}
   - {type: punctuation, offset: 356, content: 。, id: KR2i0002_CHANT_008-bkkpn82}
@@ -261,6 +266,7 @@ markers:
   - {type: variant, offset: 379, length: 2, content: 失眾, SBCK: 喟然用種蠡計轉死為霸一人之身吉凶更至盛衰存亡在於用臣治道萬端要在得賢越}
   - {type: variant, offset: 379, length: 2, content: 失眾, WYG: 喟然用種蠡計轉死為霸一人之身吉凶更至盛衰存亡在於用臣治道萬端要在得賢越}
   - {type: variant, offset: 379, length: 2, content: 失眾, krp: 喟然用種蠡計轉死為霸一人之身吉凶更至盛衰存亡在於用臣治道萬端要在得賢越}
+  - {type: substitution, offset: 380, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 381, content: ，, id: KR2i0002_CHANT_008-bkkpn87}
   - {type: 'tls:seg', offset: 381, content: '', id: KR2i0002_CHANT_008-3a.6}
   - {type: variant, offset: 385, length: 20, content: 之山更用種蠡之策得以存故虞舜曰以學乃時而, SBCK: 日}
@@ -393,4 +399,4 @@ markers:
   - {type: punctuation, offset: 518, content: 。, id: KR2i0002_CHANT_008-bkkpn128}
   - {type: xml-element, offset: 518, content: '', id: KR2i0002_CHANT_008-bkkxmlele8}
   back: []
-hash: sha256:caa90a8ce3553575f5003b1ef840eedbd5676993f3bb936c359af821d015b92e
+hash: sha256:ea0c84ec33a3fc23a343261096edf1c3d8b819478262a13f85b51289158e8352
