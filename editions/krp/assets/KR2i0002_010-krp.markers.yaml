@@ -28,6 +28,7 @@ markers:
   - {type: variant, offset: 41, length: 1, content: 鬪, SBCK: 􅃲}
   - {type: variant, offset: 41, length: 1, content: 鬪, WYG: 鬬}
   - {type: punctuation, offset: 45, content: (, id: KR2i0002_krp_010-bkkpn1}
+  - {type: voice, offset: 45, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 46, content: ), id: KR2i0002_krp_010-bkkpn2}
   - {type: 'kr:newline', offset: 51, content: '
 
@@ -514,4 +515,4 @@ markers:
 
       ', id: KR2i0002_krp_010-bkkkrnewl108}
   back: []
-hash: sha256:92819214232f72620d381af9b830a290248994dbb28358269a8cf241d3826b0b
+hash: sha256:e5b3d5a29e9e09518e6072e6f99d8dff1f1eb72eb7c5deea2add1c932e189f42

@@ -36,6 +36,7 @@ markers:
   - {type: line-break, offset: 66, content: '', id: KR2i0002_SBCK_012-1a06}
   - {type: punctuation, offset: 67, content: (, id: KR2i0002_krp_012-bkkpn1}
   - {type: variant, offset: 67, length: 1, content: 帛, WYG: ''}
+  - {type: voice, offset: 67, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 68, content: /, id: KR2i0002_krp_012-bkkpn2}
   - {type: punctuation, offset: 70, content: ), id: KR2i0002_krp_012-bkkpn3}
   - {type: variant, offset: 70, length: 0, content: '', WYG: 帛}
@@ -250,6 +251,7 @@ markers:
       ', id: KR2i0002_krp_012-bkkkrnewl50}
   - {type: line-break, offset: 720, content: '', id: KR2i0002_SBCK_012-3b05}
   - {type: punctuation, offset: 725, content: (, id: KR2i0002_krp_012-bkkpn4}
+  - {type: voice, offset: 725, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 726, content: ), id: KR2i0002_krp_012-bkkpn5}
   - {type: 'kr:newline', offset: 737, content: '
 
@@ -330,6 +332,7 @@ markers:
   - {type: line-break, offset: 975, content: '', id: KR2i0002_SBCK_012-4b04}
   - {type: punctuation, offset: 975, content: (, id: KR2i0002_krp_012-bkkpn6}
   - {type: variant, offset: 975, length: 1, content: 焉, WYG: ''}
+  - {type: voice, offset: 975, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 976, content: /, id: KR2i0002_krp_012-bkkpn7}
   - {type: punctuation, offset: 978, content: ), id: KR2i0002_krp_012-bkkpn8}
   - {type: variant, offset: 978, length: 0, content: '', WYG: 焉}
@@ -531,4 +534,4 @@ markers:
   - {type: variant, offset: 1537, length: 0, content: '', WYG: 楚故治郢今南郡南陽汝南淮陽六安九江廬江豫章長沙翼軫也趙故治邯鄲今遼東隴西北地上郡鴈門北郡清河參也越絶書卷十二}
   - {type: page-break, offset: 1537, content: '', id: KR2i0002_WYG_012-6b, image: WYG0463/WYG0463-0118d.png}
   back: []
-hash: sha256:5a3b2ed352d180eb45665baec4071a304acff02f4c5ab86b22c20823e1b825cb
+hash: sha256:47f852ba76c212ab7d3afb28124bcdcd7db79fdeca4a025557ac494005e13336

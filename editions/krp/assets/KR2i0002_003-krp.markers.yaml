@@ -464,6 +464,7 @@ markers:
   - {type: line-break, offset: 1492, content: '', id: KR2i0002_SBCK_003-6b04}
   - {type: punctuation, offset: 1508, content: (, id: KR2i0002_krp_003-bkkpn1}
   - {type: variant, offset: 1508, length: 0, content: '', WYG: 一}
+  - {type: voice, offset: 1508, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1509, content: /, id: KR2i0002_krp_003-bkkpn2}
   - {type: variant, offset: 1509, length: 1, content: 一, WYG: ''}
   - {type: punctuation, offset: 1510, content: ), id: KR2i0002_krp_003-bkkpn3}
@@ -646,4 +647,4 @@ markers:
       ', id: KR2i0002_krp_003-bkkkrnewl145}
   - {type: variant, offset: 2075, length: 0, content: '', WYG: 周公流涕而行周公反國天應之福五榖皆生樹木皆起天下皆實此周公之盛德也越絶書卷三}
   back: []
-hash: sha256:e8b9f0b4bbe742cb057cc2262070d1390609b44a4229bb600e5107b726a41d7c
+hash: sha256:8b951574a85789b072068386a5fedb916872eb22466b0d14ab66d55aefbf834a
