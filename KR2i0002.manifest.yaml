@@ -44,7 +44,7 @@ assets:
   - {seq: 15, filename: KR2i0002_015.yaml, hash: 'sha256:121fc61736aa05c26197584c60fb4f64b6e7d23e828345f64fd231967307a29e'}
   - {seq: 16, filename: KR2i0002_016.yaml, hash: 'sha256:883b51cd37c3e12659e1e5757f9896192a9837f71c886160f47cfc355bb24265'}
   - {seq: 17, filename: KR2i0002_017.yaml, hash: 'sha256:aa951813bf6f05bb1a45dad938cd2821fadcf9a56241e69a0a5567f37985417a'}
-  - {seq: 18, filename: KR2i0002_018.yaml, hash: 'sha256:d8a94bdab268fb8c9108e7a60c63534b31a1d3e784a6d53d1df2d29b64a41137'}
+  - {seq: 18, filename: KR2i0002_018.yaml, hash: 'sha256:eb566fe12cf3f6438dec305765c1236709a9c4bf9f29a5faaa9ddf726bede5c2'}
   - {seq: 19, filename: KR2i0002_019.yaml, hash: 'sha256:c68200a2976e1ec58e72c40e20155c8b25653f76427f2d4c9efe1b87bb5c6aed'}
   - {seq: 20, filename: KR2i0002_020.yaml, hash: 'sha256:136bf8de02d1a7a0a183ff293dd4ee2c2dffb444114805cf29a10d1883930a1b'}
   markers:
@@ -65,7 +65,7 @@ assets:
   - {seq: 15, role: markers, filename: assets/KR2i0002_015.markers.yaml, hash: 'sha256:6740133ddc032687eef04f52ba2f7f49eede715fb84d0c667d8873863243604b'}
   - {seq: 16, role: markers, filename: assets/KR2i0002_016.markers.yaml, hash: 'sha256:7294eecd9431406b5992402f20d02ed68037389a71cd3599c7a3c1a7b8f2ecf3'}
   - {seq: 17, role: markers, filename: assets/KR2i0002_017.markers.yaml, hash: 'sha256:0a7666a06ac384e0da3ca4934fc680b7f6455ec15c791f013e03822d5b0a4488'}
-  - {seq: 18, role: markers, filename: assets/KR2i0002_018.markers.yaml, hash: 'sha256:527426af49ab97513259f13d02e6ffa034c4cc00d9661c44542d69a08204d92d'}
+  - {seq: 18, role: markers, filename: assets/KR2i0002_018.markers.yaml, hash: 'sha256:bbef68117798814a056d28ccc96d4866431082dde3761cd440ed88b18a806dbb'}
   - {seq: 19, role: markers, filename: assets/KR2i0002_019.markers.yaml, hash: 'sha256:2a8f59a62bd51774a8d6a665d99d149ad37b7c792cabb5a7d3a966358dd4e327'}
   - {seq: 20, role: markers, filename: assets/KR2i0002_020.markers.yaml, hash: 'sha256:dbdb009ff6e82cf3c3ae75ae28256bee4984d4e36af300ad3f156e52c7a29088'}
 table_of_contents:
@@ -243,7 +243,7 @@ table_of_contents:
     seq: 18
     marker_id: KR2i0002_CHANT_018-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 1168
   label: 越絕德序外傳記第十八
@@ -269,7 +269,7 @@ table_of_contents:
   label: 越絕書佚文
   type: section
   level: 1
-hash: sha256:d303745113e80dbec6662e602bef5587cf0471f8f9a3aca332d242c076f4d3e4
+hash: sha256:1c8fd712546fcb90dc0eaa0b338099f115bf9c4c55d1df7cda5b6a116a2d0f10
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

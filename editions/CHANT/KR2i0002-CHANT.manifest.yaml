@@ -38,7 +38,7 @@ assets:
   - {seq: 15, filename: KR2i0002_015-CHANT.yaml, hash: 'sha256:503b77e20154eff60aa8afbf24a20b1702ae920c5200ad323072aa0d1229c4c0'}
   - {seq: 16, filename: KR2i0002_016-CHANT.yaml, hash: 'sha256:ce7f25620f24d40bd6c59433c56bf3991bc1ad18b8f271de1e2ff16dd1b56107'}
   - {seq: 17, filename: KR2i0002_017-CHANT.yaml, hash: 'sha256:24a01a6f49e0678b5c07054db1fa9386668b36680b33dbb0ac932d19d36e72c2'}
-  - {seq: 18, filename: KR2i0002_018-CHANT.yaml, hash: 'sha256:ccb1b3183009bf962e7681fa0b735d98c4ab14caf0c3b96352d2d9d70e14037e'}
+  - {seq: 18, filename: KR2i0002_018-CHANT.yaml, hash: 'sha256:b18511fce0987303b065a031b331231f40147ac276e105a2353fc61e27ee0d44'}
   - {seq: 19, filename: KR2i0002_019-CHANT.yaml, hash: 'sha256:63577b059cc28e7e368bf8ad457d6c6f6868fe45e950a8f6dbcf12093091cb1f'}
   - {seq: 20, filename: KR2i0002_020-CHANT.yaml, hash: 'sha256:1a427f03d1196500271c3a85ab7d913865de18299a60595b09ee624bcb5ec942'}
   markers:
@@ -59,7 +59,7 @@ assets:
   - {seq: 15, role: markers, filename: assets/KR2i0002_015-CHANT.markers.yaml, hash: 'sha256:67c59ae5ec8612d5d228ed2a6309304add1ede5632dbc8822a5c856febb6dd0c'}
   - {seq: 16, role: markers, filename: assets/KR2i0002_016-CHANT.markers.yaml, hash: 'sha256:87d3e10a380cbee790083f6f78ad2a179e4ce517b7bf8ab4024ef80adf0df181'}
   - {seq: 17, role: markers, filename: assets/KR2i0002_017-CHANT.markers.yaml, hash: 'sha256:b1ce0110534bd71a028859a4f1b6f03f2db727aa65890e6caddbf4969bd953f6'}
-  - {seq: 18, role: markers, filename: assets/KR2i0002_018-CHANT.markers.yaml, hash: 'sha256:be34814a021973538baa07b42726f833f1c0fbd1da8d5ab7e92577d6b7b5bf41'}
+  - {seq: 18, role: markers, filename: assets/KR2i0002_018-CHANT.markers.yaml, hash: 'sha256:5a39d7490d897a6a95a397bfe303f51c472d7b5951a307ff2b2c6097a86fceb1'}
   - {seq: 19, role: markers, filename: assets/KR2i0002_019-CHANT.markers.yaml, hash: 'sha256:53ed1c4527053cf31398f7dfc7fa958ef7e2013a6c382594a81b5e1ac29f1628'}
   - {seq: 20, role: markers, filename: assets/KR2i0002_020-CHANT.markers.yaml, hash: 'sha256:77cac4daa1364f9cf19a75371e415ac3f7327c11d169c40adea104a73bbb9862'}
 table_of_contents:
@@ -237,7 +237,7 @@ table_of_contents:
     seq: 18
     marker_id: KR2i0002_CHANT_018-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 1168
   label: 越絕德序外傳記第十八
@@ -263,4 +263,4 @@ table_of_contents:
   label: 越絕書佚文
   type: section
   level: 1
-hash: sha256:d5800f96bd975438cf0b687c35ad4c73cb0429a1285de1f11304893f51cdb2ef
+hash: sha256:b6a87cf4f4fd2ed22adbb53ca7b7d57162d99bff844aba9bb820f7b20a464208
